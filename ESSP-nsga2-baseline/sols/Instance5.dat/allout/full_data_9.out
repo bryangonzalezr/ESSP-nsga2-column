@@ -1,0 +1,2400 @@
+Individual 0
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6027
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 1
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6333
+Objective 1: 111
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 2
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6731
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 3
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6037
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 4
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6127
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 5
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6138
+Objective 1: 113
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 6
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6832
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 7
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6643
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 8
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6239
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 9
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6743
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 10
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6227
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 11
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6428
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 12
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6340
+Objective 1: 111
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 13
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6327
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 14
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6542
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 15
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6529
+Objective 1: 121
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 16
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6441
+Objective 1: 112
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 17
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6630
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 18
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6138
+Objective 1: 113
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 19
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6538
+Objective 1: 112
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 20
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6737
+Objective 1: 120
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 21
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6029
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 22
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6334
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 23
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6637
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 24
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6030
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 25
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6235
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 26
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6130
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 27
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6328
+Objective 1: 121
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 28
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6331
+Objective 1: 121
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 29
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6435
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 30
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6634
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 31
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6131
+Objective 1: 113
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 32
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6438
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 33
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6336
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 34
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6736
+Objective 1: 120
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 35
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6529
+Objective 1: 122
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 36
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6637
+Objective 1: 112
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 37
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6435
+Objective 1: 111
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 38
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6227
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 39
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6838
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 40
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6129
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 41
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6640
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 42
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6734
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 43
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6532
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 44
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6437
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 45
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6338
+Objective 1: 111
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 46
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6439
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 47
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6231
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 48
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6135
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 49
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6232
+Objective 1: 113
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 50
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6642
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 51
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6535
+Objective 1: 122
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 52
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6638
+Objective 1: 120
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 53
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6335
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 54
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6639
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 55
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6441
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 56
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6632
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 57
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6840
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 58
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6133
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 59
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6430
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 60
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6037
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 61
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6135
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 62
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6331
+Objective 1: 113
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 63
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6633
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 64
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6428
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 65
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6229
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 66
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6836
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 67
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6333
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 68
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6033
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 69
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6741
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 70
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6741
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 71
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6542
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 72
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6035
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 73
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6340
+Objective 1: 120
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 74
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6736
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 75
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6530
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 76
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6035
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 77
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6432
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 78
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6235
+Objective 1: 118
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 79
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	L	-	-	E	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6238
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 80
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6028
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 81
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6539
+Objective 1: 112
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 82
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6031
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 83
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6540
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 84
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6739
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 85
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6738
+Objective 1: 120
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 86
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6127
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 87
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6833
+Objective 1: 120
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 88
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6233
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 89
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6533
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 90
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6435
+Objective 1: 111
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 91
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	L	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6337
+Objective 1: 111
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 92
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	E	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6743
+Objective 1: 115
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 93
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6630
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 94
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6834
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 95
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6635
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 96
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6733
+Objective 1: 119
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 97
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	E	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+E	E	L	L	L	-	-	E	L	L	-	-	-	-	E	L	L	-	-	E	E	E	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	-	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6637
+Objective 1: 117
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 98
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	-	-	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	E	L	L	-	-	E	E	L	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+-	E	E	E	-	-	-	L	L	L	L	-	-	E	E	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+-	E	E	E	-	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	E	-	-	-	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6732
+Objective 1: 114
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+
+Individual 99
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	E	E	E	E	-	-	E	E	E	E	E	-	-	-	E	E	-	-	E	E	-	-	E	E	-	-	E
+E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	-	-	E	E	-	-	E	E	E
+-	E	L	L	L	-	-	-	-	L	L	L	-	-	E	E	E	-	-	L	L	L	L	-	-	-	E	E
+L	L	L	-	-	E	L	L	-	-	L	L	-	-	E	E	L	-	-	E	E	-	-	L	L	L	-	-
+E	E	E	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	-	-	-	-	E	E	E	-
+-	E	L	L	L	-	-	E	L	L	-	-	-	-	-	L	L	-	-	E	E	L	L	L	-	-	L	L
+E	-	-	-	L	L	L	-	-	-	L	L	-	-	E	L	L	L	L	-	-	E	L	-	-	E	E	E
+L	L	L	L	L	-	-	L	L	L	-	-	E	L	-	-	-	L	L	-	-	E	E	L	L	L	-	-
+E	E	E	-	-	E	E	E	-	-	E	L	-	-	E	E	E	L	-	-	-	E	E	-	-	E	E	-
+E	E	E	E	L	-	-	L	L	L	-	-	E	E	L	-	-	L	L	-	-	L	L	-	-	E	E	E
+E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	E	E	-	-	-	E	E	E	E	E	-
+E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	-	-	-	-	-	-	E	E	E	-	-	-
+-	-	-	L	L	-	-	-	E	E	E	L	-	-	-	E	L	L	L	L	L	-	-	-	E	E	E	E
+E	E	-	-	-	E	E	E	E	E	-	-	-	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-
+E	-	-	-	L	L	L	L	L	-	-	-	E	L	L	L	L	L	-	-	-	-	-	-	E	E	E	E
+L	L	L	L	-	-	-	E	L	L	L	-	-	-	E	E	-	-	-	E	L	L	-	-	-	L	L	L
+Objective 0: 6132
+Objective 1: 116
+Constr violation: -1
+Restrictions violated:
+0 0 0 0 0 0 0 1 
+

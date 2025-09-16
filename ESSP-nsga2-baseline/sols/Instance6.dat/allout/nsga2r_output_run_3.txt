@@ -1,0 +1,281 @@
+Employees: 18
+Warning: Malformed line in shift on requests: 
+
+Warning: Malformed line in shift off requests: 
+
+Finished reading shift on/off requests.
+
+ Instance route = instances/Instance6.dat
+ Population size = 100
+ Number of generations = 100000
+ Number of objective functions = 2
+ Number of constraints = 8
+ Number of binary variables = 0
+ Probability of crossover of real variable = 1.000000e+00
+ Probability of mutation of real variable = 5.000000e-02
+ Probability of mutation 1 = 1.000000e+00
+ Probability of mutation 2 = 4.000000e-01
+ Probability of mutation 3 = 8.000000e-01
+ Probability of mutation 4 = 2.000000e-01
+ Probability of mutation 5 = 0.000000e+00
+ Probability of real mutation to activate or deactivate = 3.000000e-01
+ Amount of mutation = 2.000000e-01
+ Probability of crossover 1 = 5.000000e-01
+ Probability of crossover 2 = 5.000000e-01
+ run number = 3
+ run mode = 0
+ Input data successfully entered, now performing initialization 
+Initializing population with method 2
+Individual 0 initialized with Greedy method
+Individual 0 optimized with ILS
+Individual 1 initialized with Greedy method
+Individual 1 optimized with ILS
+Individual 2 initialized with Greedy method
+Individual 2 optimized with ILS
+Individual 3 initialized with Greedy method
+Individual 3 optimized with ILS
+Individual 4 initialized with Greedy method
+Individual 4 optimized with ILS
+Individual 5 initialized with Greedy method
+Individual 5 optimized with ILS
+Individual 6 initialized with Greedy method
+Individual 6 optimized with ILS
+Individual 7 initialized with Greedy method
+Individual 7 optimized with ILS
+Individual 8 initialized with Greedy method
+Individual 8 optimized with ILS
+Individual 9 initialized with Greedy method
+Individual 9 optimized with ILS
+Individual 10 initialized with Greedy method
+Individual 10 optimized with ILS
+Individual 11 initialized with Greedy method
+Individual 11 optimized with ILS
+Individual 12 initialized with Greedy method
+Individual 12 optimized with ILS
+Individual 13 initialized with Greedy method
+Individual 13 optimized with ILS
+Individual 14 initialized with Greedy method
+Individual 14 optimized with ILS
+Individual 15 initialized with Greedy method
+Individual 15 optimized with ILS
+Individual 16 initialized with Greedy method
+Individual 16 optimized with ILS
+Individual 17 initialized with Greedy method
+Individual 17 optimized with ILS
+Individual 18 initialized with Greedy method
+Individual 18 optimized with ILS
+Individual 19 initialized with Greedy method
+Individual 19 optimized with ILS
+Individual 20 initialized with Greedy method
+Individual 20 optimized with ILS
+Individual 21 initialized with Greedy method
+Individual 21 optimized with ILS
+Individual 22 initialized with Greedy method
+Individual 22 optimized with ILS
+Individual 23 initialized with Greedy method
+Individual 23 optimized with ILS
+Individual 24 initialized with Greedy method
+Individual 24 optimized with ILS
+Individual 25 initialized with Greedy method
+Individual 25 optimized with ILS
+Individual 26 initialized with Greedy method
+Individual 26 optimized with ILS
+Individual 27 initialized with Greedy method
+Individual 27 optimized with ILS
+Individual 28 initialized with Greedy method
+Individual 28 optimized with ILS
+Individual 29 initialized with Greedy method
+Individual 29 optimized with ILS
+Individual 30 initialized with Greedy method
+Individual 30 optimized with ILS
+Individual 31 initialized with Greedy method
+Individual 31 optimized with ILS
+Individual 32 initialized with Greedy method
+Individual 32 optimized with ILS
+Individual 33 initialized with Greedy method
+Individual 33 optimized with ILS
+Individual 34 initialized with Greedy method
+Individual 34 optimized with ILS
+Individual 35 initialized with Greedy method
+Individual 35 optimized with ILS
+Individual 36 initialized with Greedy method
+Individual 36 optimized with ILS
+Individual 37 initialized with Greedy method
+Individual 37 optimized with ILS
+Individual 38 initialized with Greedy method
+Individual 38 optimized with ILS
+Individual 39 initialized with Greedy method
+Individual 39 optimized with ILS
+Individual 40 initialized with Greedy method
+Individual 40 optimized with ILS
+Individual 41 initialized with Greedy method
+Individual 41 optimized with ILS
+Individual 42 initialized with Greedy method
+Individual 42 optimized with ILS
+Individual 43 initialized with Greedy method
+Individual 43 optimized with ILS
+Individual 44 initialized with Greedy method
+Individual 44 optimized with ILS
+Individual 45 initialized with Greedy method
+Individual 45 optimized with ILS
+Individual 46 initialized with Greedy method
+Individual 46 optimized with ILS
+Individual 47 initialized with Greedy method
+Individual 47 optimized with ILS
+Individual 48 initialized with Greedy method
+Individual 48 optimized with ILS
+Individual 49 initialized with Greedy method
+Individual 49 optimized with ILS
+Individual 50 initialized with Greedy method
+Individual 50 optimized with ILS
+Individual 51 initialized with Greedy method
+Individual 51 optimized with ILS
+Individual 52 initialized with Greedy method
+Individual 52 optimized with ILS
+Individual 53 initialized with Greedy method
+Individual 53 optimized with ILS
+Individual 54 initialized with Greedy method
+Individual 54 optimized with ILS
+Individual 55 initialized with Greedy method
+Individual 55 optimized with ILS
+Individual 56 initialized with Greedy method
+Individual 56 optimized with ILS
+Individual 57 initialized with Greedy method
+Individual 57 optimized with ILS
+Individual 58 initialized with Greedy method
+Individual 58 optimized with ILS
+Individual 59 initialized with Greedy method
+Individual 59 optimized with ILS
+Individual 60 initialized with Greedy method
+Individual 60 optimized with ILS
+Individual 61 initialized with Greedy method
+Individual 61 optimized with ILS
+Individual 62 initialized with Greedy method
+Individual 62 optimized with ILS
+Individual 63 initialized with Greedy method
+Individual 63 optimized with ILS
+Individual 64 initialized with Greedy method
+Individual 64 optimized with ILS
+Individual 65 initialized with Greedy method
+Individual 65 optimized with ILS
+Individual 66 initialized with Greedy method
+Individual 66 optimized with ILS
+Individual 67 initialized with Greedy method
+Individual 67 optimized with ILS
+Individual 68 initialized with Greedy method
+Individual 68 optimized with ILS
+Individual 69 initialized with Greedy method
+Individual 69 optimized with ILS
+Individual 70 initialized with Greedy method
+Individual 70 optimized with ILS
+Individual 71 initialized with Greedy method
+Individual 71 optimized with ILS
+Individual 72 initialized with Greedy method
+Individual 72 optimized with ILS
+Individual 73 initialized with Greedy method
+Individual 73 optimized with ILS
+Individual 74 initialized with Greedy method
+Individual 74 optimized with ILS
+Individual 75 initialized with Greedy method
+Individual 75 optimized with ILS
+Individual 76 initialized with Greedy method
+Individual 76 optimized with ILS
+Individual 77 initialized with Greedy method
+Individual 77 optimized with ILS
+Individual 78 initialized with Greedy method
+Individual 78 optimized with ILS
+Individual 79 initialized with Greedy method
+Individual 79 optimized with ILS
+Individual 80 initialized with Greedy method
+Individual 80 optimized with ILS
+Individual 81 initialized with Greedy method
+Individual 81 optimized with ILS
+Individual 82 initialized with Greedy method
+Individual 82 optimized with ILS
+Individual 83 initialized with Greedy method
+Individual 83 optimized with ILS
+Individual 84 initialized with Greedy method
+Individual 84 optimized with ILS
+Individual 85 initialized with Greedy method
+Individual 85 optimized with ILS
+Individual 86 initialized with Greedy method
+Individual 86 optimized with ILS
+Individual 87 initialized with Greedy method
+Individual 87 optimized with ILS
+Individual 88 initialized with Greedy method
+Individual 88 optimized with ILS
+Individual 89 initialized with Greedy method
+Individual 89 optimized with ILS
+Individual 90 initialized with Greedy method
+Individual 90 optimized with ILS
+Individual 91 initialized with Greedy method
+Individual 91 optimized with ILS
+Individual 92 initialized with Greedy method
+Individual 92 optimized with ILS
+Individual 93 initialized with Greedy method
+Individual 93 optimized with ILS
+Individual 94 initialized with Greedy method
+Individual 94 optimized with ILS
+Individual 95 initialized with Greedy method
+Individual 95 optimized with ILS
+Individual 96 initialized with Greedy method
+Individual 96 optimized with ILS
+Individual 97 initialized with Greedy method
+Individual 97 optimized with ILS
+Individual 98 initialized with Greedy method
+Individual 98 optimized with ILS
+Individual 99 initialized with Greedy method
+Individual 99 optimized with ILS
+E \ D	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10	Day 11	Day 12	Day 13	Day 14	Day 15	Day 16	Day 17	Day 18	Day 19	Day 20	Day 21	Day 22	Day 23	Day 24	Day 25	Day 26	Day 27	Day 28
+A	-	-	E	E	-	-	-	D	D	-	-	D	D	-	-	D	D	-	-	-	-	-	D	D	D	D	D	-
+B	L	L	-	-	L	L	-	-	-	-	L	L	-	-	-	-	-	L	L	-	-	L	L	L	-	-	L	L
+C	L	L	-	-	-	-	L	L	L	L	L	-	-	-	D	D	-	-	-	D	L	-	-	-	-	-	-	-
+D	D	D	D	D	-	-	-	-	D	D	-	-	E	E	E	E	E	-	-	D	D	D	-	-	D	D	-	-
+E	E	D	L	-	-	L	L	L	-	-	D	L	-	-	E	E	E	L	-	-	-	L	L	-	-	L	L	-
+F	E	L	-	-	-	-	-	L	L	-	-	-	-	-	-	L	L	-	-	E	E	-	-	E	L	L	L	-
+G	-	-	L	L	-	-	-	E	E	-	-	E	E	L	-	-	-	-	E	E	-	-	-	-	E	L	-	-
+H	-	-	L	L	-	-	L	L	L	-	-	L	L	-	L	L	L	L	L	-	-	-	L	L	-	-	L	L
+I	-	-	-	D	D	-	-	-	D	D	D	D	-	-	-	-	-	-	D	D	-	-	-	D	D	D	-	-
+J	E	L	-	-	-	E	L	-	-	E	E	L	-	-	-	-	-	-	-	L	L	L	-	-	-	L	L	-
+K	-	-	-	L	L	L	L	-	-	-	D	D	D	D	D	-	-	-	-	D	D	D	D	D	D	-	L	L
+L	L	L	-	-	-	E	D	L	-	-	-	-	-	-	D	L	L	-	-	-	-	D	D	-	E	L	-	-
+M	E	L	-	-	-	-	E	D	L	-	-	-	E	D	D	D	D	L	-	L	L	L	-	-	-	-	E	D
+N	L	L	L	-	-	-	E	D	L	L	-	-	-	-	E	E	-	-	-	-	E	E	E	L	-	-	-	-
+O	-	-	-	-	-	-	D	D	L	L	L	L	-	-	-	L	L	L	-	-	-	E	D	D	L	L	L	-
+P	L	-	-	-	-	-	D	-	-	-	-	L	-	-	-	-	-	-	-	-	D	-	-	-	-	E	D	L
+Q	E	E	-	-	-	-	E	E	-	-	-	-	-	-	-	D	-	-	-	-	-	-	E	-	-	D	-	-
+R	-	-	E	L	-	-	-	L	-	-	-	-	-	-	-	E	-	-	-	-	D	L	L	-	-	-	-	-
+
+ Initialization done, now performing first generation
+
+ constr indiv 0 -19.000000
+ gen = 1
+ gen = 10000
+ gen = 20000
+ gen = 30000
+ gen = 40000
+ gen = 50000
+ gen = 60000
+ gen = 70000
+ gen = 80000
+ gen = 90000
+ gen = 100000
+ Generations finished, now reporting solutions
+
+ Average acceleration = -0.000019
+ Best constraint violation in generation 100000 = -3.000000
+ Routine successfully exited 
+
+ Time taken = 231.513428 seconds
+
+ Time taken for initialization = 4.426931
+
+ Best individual objectives: obj[0] = 9149.000000, obj[1] = 118.000000
+ Best individual constraint violation = -3.000000
+ Number of objectives: 2
+ Objective combination (obj[0]+obj[1]): 9267.000000
+ Constraint violation weight: -3.000000
+ Execution time weight: 231.513428
+ Positive obj: 9268.000000, Positive constraint: 3.000000, Positive time: 232.513428
+ Final weighted value: 37304.513428
+37304.513428

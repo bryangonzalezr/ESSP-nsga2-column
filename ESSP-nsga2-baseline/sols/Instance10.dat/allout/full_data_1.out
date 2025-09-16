@@ -1,0 +1,960 @@
+Individual 0
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	E	E	d1	d2	N	-	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	d1	L	L	L	L	-	-	-	d1	d1	-	-	d1	N	N	N	-	-	-	E	E	N	N	-	-	-
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 17746
+Objective 1: 139
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 1
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	E	d2	d2	d2	L	-	-	-	-	-	E	L	L	L	L	-	-
+-	-	E	E	L	L	L	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	L	L	L	-	-	-	E	d2	d1	N	N	-	-	-	-	L	L	N	N	-	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d2	d2	d1	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 13512
+Objective 1: 210
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 2
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	d1	d1	d1	d2	d1	-	-	-	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 16940
+Objective 1: 159
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 3
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+E	d2	d1	d1	N	-	-	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 15630
+Objective 1: 183
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 4
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	E	d2	d2	d2	L	-	-	-	-	-	E	L	L	L	L	-	-
+-	-	E	E	L	L	L	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 15124
+Objective 1: 191
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 5
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	E	d2	d2	d2	L	-	-	-	-	-	E	L	L	L	L	-	-
+-	-	E	E	L	L	L	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 16537
+Objective 1: 167
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 6
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	E	E	d1	d2	N	-	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 16841
+Objective 1: 164
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 7
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	d1	d1	d1	d2	d1	-	-	-	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d2	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 16336
+Objective 1: 172
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 8
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	E	E	d1	d2	N	-	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	d1	L	L	L	L	-	-	-	d1	d1	-	-	d1	N	N	N	-	-	-	E	E	N	N	-	-	-
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 17346
+Objective 1: 152
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 9
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	d1	d1	d1	d2	d1	-	-	-	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d1	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	E	d2	d2	d2	L	-	-	-	-	-	E	L	L	L	L	-	-
+-	-	E	E	L	L	L	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 15831
+Objective 1: 178
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 10
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 14927
+Objective 1: 195
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 11
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	d1	d1	d1	d2	d1	-	-	-	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	d1	L	L	L	L	-	-	-	d1	d1	-	-	d1	N	N	N	-	-	-	E	E	N	N	-	-	-
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 17544
+Objective 1: 144
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 12
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	E	E	d1	d2	N	-	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	d1	L	L	L	L	-	-	-	d1	d1	-	-	d1	N	N	N	-	-	-	E	E	N	N	-	-	-
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 17346
+Objective 1: 152
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 13
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	E	d2	d2	d2	L	-	-	-	-	-	E	L	L	L	L	-	-
+-	-	E	E	L	L	L	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	L	L	L	-	-	-	E	d2	d1	N	N	-	-	-	-	L	L	N	N	-	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 13815
+Objective 1: 206
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 14
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 14523
+Objective 1: 199
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 15
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 16032
+Objective 1: 173
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 16
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+d2	d1	d2	L	L	-	-	-	-	E	d2	d1	d1	d2	-	-	-	d1	L	-	-	-	E	d2	d2	d2	d1	-
+Objective 0: 14319
+Objective 1: 204
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 17
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	-	-	d1	d1	d1	d2	d1	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	E	E	E	d2	L	-	-	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	E	E	d1	d2	d2	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	E	E	E	E	d1	-	-	-	d1	d1	-	-	d2	d2	d1	L	N	-	-	-	-	E	E	d1	d2	L
+-	-	-	-	d1	d1	N	N	N	-	-	-	-	d2	d1	d2	d2	d2	-	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-
+E	E	L	L	-	-	-	E	d1	d1	d2	d2	-	-	-	-	-	d1	d1	d1	d1	-	-	d2	d1	d1	d2	d1
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+L	L	L	L	-	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+d2	d2	d2	d1	d1	-	-	d2	N	-	-	E	E	d1	d1	-	-	-	-	-	E	E	N	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d1	d2	d1	d2	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d1	d1	L
+-	E	L	L	L	L	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	E	d2	d2	d2	L	-	-	-	-	-	E	L	L	L	L	-	-
+-	-	E	E	L	L	L	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	L	L	L	-	-	-	E	d2	d1	N	N	-	-	-	-	L	L	N	N	-	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 14217
+Objective 1: 197
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 18
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	-	d2	d2	d2	d2	L	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	d1	d1	d1	d2	d1	-	-	-	-	-	-	d1	d2	d1	d2	d2	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	-	d2	d2	d2	L	N	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	d1	L	L	L	L	-	-	-	d1	d1	-	-	d1	N	N	N	-	-	-	E	E	N	N	-	-	-
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 17544
+Objective 1: 144
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+
+Individual 19
+1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28
+-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	-	d1	d1	d1	d1	L	-	-	-	-
+E	L	-	-	E	E	d2	d2	d2	-	-	-	-	-	-	-	-	E	d2	d2	L	L	-	-	-	-	-	-
+d1	d1	L	L	L	-	-	d1	d1	d1	L	-	-	-	E	E	L	L	L	-	-	-	-	-	-	E	L	-
+N	N	N	N	-	-	d1	L	L	L	-	-	-	d2	d2	d2	d2	L	-	-	-	d2	d1	L	-	-	-	-
+E	E	E	L	L	-	-	E	L	L	L	L	-	-	E	E	E	-	-	-	E	E	L	L	L	-	-	-
+-	-	-	-	-	d1	N	N	N	N	-	-	d1	d1	d1	d1	N	-	-	-	-	d1	L	L	L	L	-	-
+-	-	E	d2	d2	d2	N	-	-	-	-	-	E	L	L	L	N	-	-	-	-	d2	d2	d2	L	N	-	-
+-	-	d1	d1	d1	d2	d1	-	-	-	-	-	d1	d1	d2	d2	d1	-	-	-	-	d2	d2	d2	d2	d2	-	-
+E	E	d1	d1	N	-	-	-	-	-	-	-	-	-	-	-	E	E	E	d1	d1	-	-	E	d1	d1	N	N
+L	L	N	N	N	-	-	-	-	-	L	L	L	L	N	-	-	-	d1	L	L	N	-	-	d1	L	-	-
+-	-	-	-	-	-	-	-	-	-	-	d1	d1	N	-	-	d1	N	N	N	N	-	-	-	-	-	-	-
+E	d2	d1	N	N	-	-	-	-	-	-	E	E	d1	d2	N	-	-	-	d1	d2	d2	d2	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	d1	L	L	L	L	-	-	-	-	E	E	E	E	d1	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	L	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-
+E	d2	d2	L	-	-	E	L	-	-	-	-	-	-	E	E	E	d2	L	-	-	d2	d2	d2	d2	d2	-	-
+-	-	-	d2	d2	-	-	-	E	E	E	d2	-	-	d2	L	-	-	d1	d1	d1	d1	d1	-	-	E	E	E
+-	-	-	-	E	E	d2	d1	L	-	-	-	d2	L	L	L	L	-	-	-	-	-	-	-	-	-	-	-
+d1	d2	d2	-	-	-	-	E	E	E	d2	d2	-	-	-	-	-	-	E	E	E	d2	d1	-	-	E	d2	d2
+-	-	-	-	d2	L	L	L	L	-	-	-	-	d1	d2	d1	d1	N	-	-	-	d1	L	N	N	N	-	-
+-	-	-	d2	d2	d2	d2	L	-	-	d2	d2	L	L	L	-	-	-	-	-	-	-	-	-	-	-	-	-
+d2	L	-	-	-	-	-	E	d2	L	L	L	-	-	-	-	E	E	E	d2	d2	-	-	E	d2	d2	L	L
+-	-	d1	L	L	L	L	-	-	-	d1	d1	-	-	d1	N	N	N	-	-	-	E	E	N	N	-	-	-
+-	-	-	d1	d1	N	N	N	-	-	-	-	-	-	E	E	d1	d2	d1	-	-	E	d2	d1	d2	d1	-	-
+-	-	-	-	-	-	E	E	E	E	E	-	-	-	E	E	E	E	E	-	-	-	-	-	-	-	-	-
+d2	d2	d1	d1	d1	-	-	E	d1	L	L	L	-	-	-	-	-	-	E	E	E	-	-	-	d1	d2	d1	d2
+-	-	-	-	-	-	d2	L	N	N	N	-	-	-	E	E	E	E	E	-	-	-	E	d2	L	L	L	-
+-	L	L	L	L	-	-	-	-	-	d1	d1	L	L	-	-	d1	L	L	-	-	-	d1	d1	L	L	L	-
+-	d2	d1	N	-	-	-	-	-	d2	N	-	-	d2	d1	d1	d2	d2	-	-	d2	d1	d2	N	N	-	-	-
+-	L	L	-	-	-	-	d1	d1	d1	d1	L	-	-	E	E	E	d1	d1	-	-	-	E	E	E	E	d1	-
+-	-	E	E	E	-	-	E	L	L	-	E	d2	L	L	L	-	-	E	E	E	L	L	-	-	-	-	-
+d1	d2	d1	d1	d1	-	-	d2	d1	d2	d1	d2	-	-	-	-	-	-	-	-	-	-	-	d2	d2	d2	d1	L
+-	E	E	E	L	-	-	-	E	E	E	d2	-	-	-	E	E	d2	L	-	-	-	-	-	E	d2	d2	L
+E	E	E	E	-	-	-	-	-	E	E	E	E	-	-	-	-	-	E	E	E	E	E	-	-	-	-	-
+-	-	-	E	E	E	E	L	-	-	-	-	-	E	d2	d2	d2	L	-	-	-	E	L	L	L	L	-	-
+E	E	L	L	L	-	-	-	-	-	-	-	-	d1	d1	d1	L	L	-	-	-	L	L	L	L	L	-	-
+d2	d2	d1	d1	L	-	-	-	d2	d2	N	N	N	-	-	-	-	E	E	E	E	N	-	-	-	-	-	-
+d2	L	-	-	-	-	E	d2	d2	d2	L	-	-	-	-	d1	d2	d1	-	-	-	-	d2	d1	L	L	L	-
+d2	d1	d2	d1	d1	-	-	-	-	-	-	d1	d2	d1	L	N	-	-	d1	d2	L	L	N	-	-	-	-	-
+-	-	E	E	E	-	-	-	-	-	-	-	-	-	-	E	E	E	-	-	-	-	-	-	-	-	-	-
+-	-	-	E	E	L	L	-	-	d2	L	L	L	L	-	-	-	d1	L	-	-	-	E	E	E	L	-	-
+Objective 0: 17746
+Objective 1: 139
+Constr violation: -13
+Restrictions violated:
+1 0 0 1 0 0 0 11 
+

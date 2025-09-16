@@ -1,0 +1,149 @@
+Employees: 8
+Warning: Malformed line in shift on requests: 
+
+Warning: Malformed line in shift off requests: 
+
+Finished reading shift on/off requests.
+
+ Instance route = instances/Instance1.dat
+ Population size = 20
+ Number of generations = 500000
+ Number of objective functions = 2
+ Number of constraints = 8
+ Number of binary variables = 0
+ Probability of crossover of real variable = 6.000000e-01
+ Probability of mutation of real variable = 2.500000e-01
+ Probability of mutation 1 = 6.000000e-01
+ Probability of mutation 2 = 8.000000e-01
+ Probability of mutation 3 = 6.000000e-01
+ Probability of mutation 4 = 2.000000e-01
+ Probability of mutation 5 = 0.000000e+00
+ Probability of real mutation to activate or deactivate = 3.000000e-01
+ Amount of mutation = 5.000000e-02
+ Probability of crossover 1 = 1.000000e+00
+ Probability of crossover 2 = 0.000000e+00
+ run number = 1
+ run mode = 0
+ Input data successfully entered, now performing initialization 
+Initializing population with method 2
+Individual 0 initialized with Greedy method
+Individual 0 optimized with ILS
+Individual 1 initialized with Greedy method
+Individual 1 optimized with ILS
+Individual 2 initialized with Greedy method
+Individual 2 optimized with ILS
+Individual 3 initialized with Greedy method
+Individual 3 optimized with ILS
+Individual 4 initialized with Greedy method
+Individual 4 optimized with ILS
+Individual 5 initialized with Greedy method
+Individual 5 optimized with ILS
+Individual 6 initialized with Greedy method
+Individual 6 optimized with ILS
+Individual 7 initialized with Greedy method
+Individual 7 optimized with ILS
+Individual 8 initialized with Greedy method
+Individual 8 optimized with ILS
+Individual 9 initialized with Greedy method
+Individual 9 optimized with ILS
+Individual 10 initialized with Greedy method
+Individual 10 optimized with ILS
+Individual 11 initialized with Greedy method
+Individual 11 optimized with ILS
+Individual 12 initialized with Greedy method
+Individual 12 optimized with ILS
+Individual 13 initialized with Greedy method
+Individual 13 optimized with ILS
+Individual 14 initialized with Greedy method
+Individual 14 optimized with ILS
+Individual 15 initialized with Greedy method
+Individual 15 optimized with ILS
+Individual 16 initialized with Greedy method
+Individual 16 optimized with ILS
+Individual 17 initialized with Greedy method
+Individual 17 optimized with ILS
+Individual 18 initialized with Greedy method
+Individual 18 optimized with ILS
+Individual 19 initialized with Greedy method
+Individual 19 optimized with ILS
+E \ D	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10	Day 11	Day 12	Day 13	Day 14
+A	-	-	D	D	-	-	D	D	-	-	-	D	D	D
+B	D	D	D	-	-	-	-	-	D	D	-	-	D	D
+C	-	-	D	D	D	D	D	-	-	-	-	-	D	D
+D	D	-	-	-	D	D	-	-	D	D	D	D	-	-
+E	D	D	-	-	-	D	D	D	D	-	-	D	D	D
+F	-	-	D	D	-	-	-	-	D	D	-	D	D	D
+G	-	-	D	D	-	-	D	D	-	-	-	-	-	-
+H	-	-	-	-	D	D	-	-	-	D	D	D	D	D
+
+ Initialization done, now performing first generation
+
+ constr indiv 0 -6.000000
+ gen = 1
+ gen = 10000
+ gen = 20000
+ gen = 30000
+ gen = 40000
+ gen = 50000
+ gen = 60000
+ gen = 70000
+ gen = 80000
+ gen = 90000
+ gen = 100000
+ gen = 110000
+ gen = 120000
+ gen = 130000
+ gen = 140000
+ gen = 150000
+ gen = 160000
+ gen = 170000
+ gen = 180000
+ gen = 190000
+ gen = 200000
+ gen = 210000
+ gen = 220000
+ gen = 230000
+ gen = 240000
+ gen = 250000
+ gen = 260000
+ gen = 270000
+ gen = 280000
+ gen = 290000
+ gen = 300000
+ gen = 310000
+ gen = 320000
+ gen = 330000
+ gen = 340000
+ gen = 350000
+ gen = 360000
+ gen = 370000
+ gen = 380000
+ gen = 390000
+ gen = 400000
+ gen = 410000
+ gen = 420000
+ gen = 430000
+ gen = 440000
+ gen = 450000
+ gen = 460000
+ gen = 470000
+ gen = 480000
+ gen = 490000
+ gen = 500000
+ Generations finished, now reporting solutions
+
+ Average acceleration = 0.999996
+ Best constraint violation in generation 500000 = 0.000000
+ Routine successfully exited 
+
+ Time taken = 37.631036 seconds
+
+ Best individual objectives: obj[0] = 1002.000000, obj[1] = 0.000000
+ Best individual constraint violation = 0.000000
+ Number of objectives: 2
+ Objective combination (obj[0]+obj[1]): 1002.000000
+ Constraint violation weight: 0.000000
+ Execution time weight: 37.631036
+ Positive obj: 1003.000000, Positive constraint: 0.000000, Positive time: 38.631036
+ Final weighted value: 1041.631036
+1041.631036
