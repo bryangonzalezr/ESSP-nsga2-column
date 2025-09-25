@@ -7,6 +7,8 @@
 # include "global.h"
 # include "rand.h"
 
+extern double pcross_real;
+
 /* Function to cross two individuals */
 void crossover (individual *parent1, individual *parent2, individual *child1, individual *child2, problem_instance *pi)
 {
@@ -25,13 +27,11 @@ void crossover (individual *parent1, individual *parent2, individual *child1, in
         }
 
         // Normalize probabilities
-        double norm_cross1_p = cross1_p / total_p;
-        double norm_cross2_p = cross2_p / total_p;
+        
 
-        double rand = randomperc();
-        if (rand <= norm_cross1_p) {
-            cross_employee(parent1, parent2, child1, child2, pi);
-        }
+        
+        cross_employee(parent1, parent2, child1, child2, pi);
+        
     }
     if (nbin!=0)
     {
@@ -200,12 +200,12 @@ void cross_employee(individual *parent1, individual *parent2,
 
     if (rand <= pcross_real)
     {
-        // Elegimos un pivot de empleado
-        int pivot = rnd(0, num_emps - 1);
-
+        // Crossover uniforme a nivel de empleados
         for (int e = 0; e < num_emps; e++)
         {
-            if (e <= pivot) {
+            // 50% de probabilidad de intercambiar
+            int random = rnd(0, 1);
+            if (random) {
                 // Padre1 → hijo1, Padre2 → hijo2
                 for (int s = 0; s < parent1->num_seqs[e]; s++) {
                     child1->seqs[e][child1->num_seqs[e]] = parent1->seqs[e][s];

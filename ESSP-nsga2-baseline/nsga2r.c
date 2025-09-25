@@ -564,27 +564,45 @@ int main (int argc, char **argv)
     printf("\n Number of objectives: %d", nobj);
 
     // Define weights for the ponderation
-    double w_obj = 1.0;        // weight for objectives
-    double w_constraint = 1.0; // weight for constraint violation
-    double w_time = 1.0;       // weight for execution time
+    double max_constraints = 7.0 * pi->num_employees;
+    double max_obj0 = 0.0;
+    double max_obj1 = 0.0;
 
-    // Ensure positive values by taking absolute values and adding small epsilon to avoid zeros
-    double positive_obj = fabs(obj_combination) + 1.0;
-    double positive_constraint = fabs(best_constraint_violation);
-    double positive_time = fabs(execution_time) + 1.0;
+    // Calcular máximos posibles de penalización (FO0 y FO1)
+    for (int i = 0; i < pi->horizon_length; i++) {
+        for (int j = 0; j < pi->num_employees; j++) {
+            // FO1 (preferencias): suma de todas las penalizaciones on/off
+            for (int s = 0; s < pi->num_shifts; s++) {
+                max_obj1 += pi->shift_on_requests[j][i][s];
+                max_obj1 += pi->shift_off_requests[j][i][s];
+            }
+        }
+        for (int s = 0; s < pi->num_shifts; s++) {
+            max_obj0 += pi->under_cover_weights[i][s] * pi->cover_requirements[i][s];
+            // en over_coverage el máximo sería pi->num_employees en ese turno
+            max_obj0 += pi->over_cover_weights[i][s] * pi->num_employees;
+        }
+    }
 
-    // Calculate the final weighted value
-    double weighted_value = w_obj * positive_obj + 
-                           w_constraint * positive_constraint * positive_obj + 
-                           w_time * positive_time;
+    // Normalizar objetivos y restricciones
+    double norm_obj0 = (max_obj0 > 0) ? best_obj[0] / max_obj0 : 0.0;
+    double norm_obj1 = (max_obj1 > 0) ? best_obj[1] / max_obj1 : 0.0;
+    double norm_constraint = (max_constraints > 0) ? best_constraint_violation / max_constraints : 0.0;
 
-    printf("\n Objective combination (obj[0]+obj[1]): %f", obj_combination);
-    printf("\n Constraint violation weight: %f", best_constraint_violation);
-    printf("\n Execution time weight: %f", execution_time);
-    printf("\n Positive obj: %f, Positive constraint: %f, Positive time: %f", positive_obj, positive_constraint, positive_time);
-    printf("\n Final weighted value: %f", weighted_value);
-    printf("\n%f\n", weighted_value);
+    // Combinar con pesos iguales
+    double w_obj0 = 1.0;
+    double w_obj1 = 1.0;
+    double w_constraint = -1.0;
 
+    double weighted_value = w_obj0 * norm_obj0 +
+                            w_obj1 * norm_obj1 +
+                            w_constraint * norm_constraint;
+
+    printf("\n FO0 (covering): %f (norm %f)", best_obj[0], norm_obj0);
+    printf("\n FO1 (preferences): %f (norm %f)", best_obj[1], norm_obj1);
+    printf("\n Constraint violations: %f (norm %f)", best_constraint_violation, norm_constraint);
+    printf("\n Final weighted value: %f\n", weighted_value*100);
+    printf("\n%f\n", weighted_value*100);
     return (0);
 
 }

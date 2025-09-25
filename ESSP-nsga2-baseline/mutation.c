@@ -11,6 +11,8 @@ extern double mut2_p;
 extern double mut3_p;
 extern double mut4_p;
 extern double mut5_p;
+extern double mutammount;      // máximo de mutaciones por individuo
+extern double pmut_real;    // probabilidad de mutar individuo
 
 // Forward declarations
 void mutation_ind_sequence(individual *ind, problem_instance *pi);
@@ -21,13 +23,17 @@ void mutation_change(individual *ind, problem_instance *pi, int emp);
 int check_overlap(int start1, int len1, int start2, int len2);
 void remove_overlapping_sequences(individual *ind, int emp, int new_start, int new_len);
 
+
 void mutation_pop(population *pop, problem_instance *pi) {
     for (int i = 0; i < popsize; i++) {
         if (randomperc() <= pmut_real) {
-            int instance_size = pi->num_employees * pi->horizon_length;
-            int mutation_amount = instance_size * mutammount;
-       
-            mutation_ind_sequence(&(pop->ind[i]), pi);
+            // Sorteamos cuántas mutaciones aplicar a este individuo
+            int max_num_mutations = (pi->num_employees*pi->horizon_length)*mutammount;
+            int num_mutations = rnd(0, max_num_mutations); // entre 0 y mutammount
+
+            for (int m = 0; m < num_mutations; m++) {
+                mutation_ind_sequence(&(pop->ind[i]), pi);
+            }
         }
     }
 }
@@ -37,15 +43,16 @@ void mutation_ind_sequence(individual *ind, problem_instance *pi) {
 
     if (num_sequences_pool_emp[emp] == 0) return; // No sequences available
 
-    // Seleccionar tipo de mutación aleatoriamente
+    // Select mutation type randomly
     double r = randomperc();
-    // Ponderar las probabilidades de cada tipo de mutación
-    double total_p = mut1_p + mut2_p + mut3_p + mut4_p + mut5_p;
+    // Weight the probabilities of each mutation type
+    double total_p = mut1_p + mut2_p + mut3_p + mut4_p;
     double p1 = mut1_p / total_p;
     double p2 = p1 + (mut2_p / total_p);
     double p3 = p2 + (mut3_p / total_p);
     double p4 = p3 + (mut4_p / total_p);
-    // mut5_p se asume el resto
+    // mut5_p es el resto (reset mutation)
+
     int mutation_type;
     if (r < p1) {
         mutation_type = 0; // Remove
@@ -55,8 +62,6 @@ void mutation_ind_sequence(individual *ind, problem_instance *pi) {
         mutation_type = 2; // Shift
     } else if (r < p4) {
         mutation_type = 3; // Change
-    } else {
-        mutation_type = 1; // Add (default to Add if none selected)
     }
 
     switch (mutation_type) {
@@ -74,6 +79,7 @@ void mutation_ind_sequence(individual *ind, problem_instance *pi) {
             break;
     }
 }
+
 
 void mutation_remove(individual *ind, problem_instance *pi, int emp) {
     if (ind->num_seqs[emp] <= 0) return; // No sequences to remove
@@ -254,3 +260,4 @@ void cleanup_mutation_memory() {
         alloc_sizes = NULL;
     }
 }
+
