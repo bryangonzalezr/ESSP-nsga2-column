@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "global.h": "c"
+        "global.h": "c",
+        "math.h": "c",
+        "rand.h": "c"
     }
 }

@@ -412,15 +412,20 @@ int main (int argc, char **argv)
         best_constraint = -INFINITY;
 
         
-    
         selection (parent_pop, child_pop, pi);
+
         mutation_pop (child_pop, pi);
+
         decode_pop_sequences(child_pop, pi);
+
         evaluate_pop(child_pop, pi);
+
 
      
         merge (parent_pop, child_pop, mixed_pop);
+
         fill_nondominated_sort (mixed_pop, parent_pop);
+
         current_gen = i;
 
         

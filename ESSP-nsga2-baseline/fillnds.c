@@ -9,6 +9,7 @@
 
 /* Routine to perform non-dominated sorting */
 void fill_nondominated_sort (population *mixed_pop, population *new_pop)
+
 {
     int flag;
     int i, j;
@@ -85,6 +86,7 @@ void fill_nondominated_sort (population *mixed_pop, population *new_pop)
         j=i;
         if ( (archieve_size+front_size) <= popsize)
         {
+            
             do
             {
                 copy_ind (&mixed_pop->ind[temp2->index], &new_pop->ind[i]);
