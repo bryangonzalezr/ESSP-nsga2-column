@@ -17,6 +17,7 @@ extern double *max_realvar;
 void evaluate_pop(population *pop, problem_instance *pi)
 {
     int i;
+    
     for (i = 0; i < popsize; i++)
     {
         evaluate_ind(&(pop->ind[i]), pi);
@@ -58,7 +59,7 @@ void evaluate_ind(individual *ind, problem_instance *pi)
     ind->constr_violation = 0.0;
 
     // Create array to store amount of times each restriction is violated
-    ind->constr = (double *)calloc(9, sizeof(double));
+    ind->constr = (double *)malloc(9*sizeof(double));
     if (ind->constr == NULL)
     {
         fprintf(stderr, "Memory allocation failed for constraints.\n");
@@ -104,8 +105,7 @@ void evaluate_ind(individual *ind, problem_instance *pi)
             // R1: Days off
             if (shift_id > max_realvar[day * num_employees + employee] ||
                 shift_id < min_realvar[day * num_employees + employee]) {
-                ind->constr_violation -= 1.0;
-                ind->constr[0] += 1.0;
+                shift_id =0;
             }
 
             // R2: max per shift type
@@ -200,7 +200,13 @@ void evaluate_ind(individual *ind, problem_instance *pi)
 
             // Coverage tracking
             if (shift_id > 0 && shift_id < num_shifts) {
-                shift_coverage[day][shift_id]++;
+                if (shift_id > max_realvar[day * num_employees + employee] ||
+                    shift_id < min_realvar[day * num_employees + employee]) {
+                    continue;
+                }else{
+                    shift_coverage[day][shift_id]++;
+
+                }   
             }
         }
 
@@ -228,7 +234,7 @@ void evaluate_ind(individual *ind, problem_instance *pi)
             int actual = shift_coverage[day][s];
             
             
-
+            
             // Calculate under-cover penalty
             if (actual < required) {
                 double penalty = (required - actual) * pi->under_cover_weights[day][s];

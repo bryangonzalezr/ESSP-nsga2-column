@@ -18,6 +18,15 @@ typedef struct{
 ssequence;
 
 typedef struct {
+    int **by_length;       // by_length[len] = array dinámico de índices a secuencias
+    int *count_by_length;  // cuántas secuencias hay de largo len
+    int *capacity_by_length; // capacidad actual para realloc
+    int max_length;        // largo máximo posible
+} seq_length_index;
+
+extern seq_length_index *seq_index;
+
+typedef struct {
     int rank;
     double constr_violation;
     int *xreal;
@@ -180,6 +189,7 @@ void copy_ind (individual *ind1, individual *ind2);
 
 void mutation_pop (population *pop, problem_instance *pi);
 void mutation_ind (individual *ind, problem_instance *pi);
+void mutation_add(individual *ind, problem_instance *pi, int emp);
 void bin_mutate_ind (individual *ind);
 void real_mutate_ind (individual *ind, problem_instance *pi);
 

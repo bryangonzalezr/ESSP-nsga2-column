@@ -1,14 +1,14 @@
 Individual 0
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	D	D	D	-	-	-	-	D	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	-
--	-	D	D	D	-	-	D	D	-	-	-	D	D
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	-	-	-	-	-	-	-	D	D	D	D	D
-Objective 0: 1101
+Objective 0: 1103
 Objective 1: 0
 Constr violation: 0
 Restrictions violated:
@@ -16,14 +16,14 @@ Restrictions violated:
 
 Individual 1
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	-	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
 -	D	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	D	D	D	-	-	D	D
+D	D	D	D	D	-	-	-	D	D	-	-	D	D
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
 Objective 0: 600
 Objective 1: 9
 Constr violation: 0
@@ -32,14 +32,14 @@ Restrictions violated:
 
 Individual 2
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
 Objective 0: 700
 Objective 1: 6
 Constr violation: 0
@@ -48,95 +48,95 @@ Restrictions violated:
 
 Individual 3
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 700
-Objective 1: 6
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	-	-	-	-	-	D	D	D	D	D
+Objective 0: 1103
+Objective 1: 0
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 4
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	-	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
 -	D	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	D	D	D	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	D
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 600
-Objective 1: 9
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
+Objective 0: 801
+Objective 1: 4
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 5
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	-	-	-	-	-	-	D	D	D	D	D	-
 Objective 0: 800
-Objective 1: 3
+Objective 1: 5
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 6
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	-
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	-	-	-	-	-	-	-	D	D	D	D	D
-Objective 0: 900
-Objective 1: 2
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	D
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	-	-	-	-	D	D	D	D	D	-
+Objective 0: 901
+Objective 1: 3
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 7
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	D	D	D	-	-	-	-	D	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	-
--	-	D	D	D	-	-	D	D	-	-	-	D	D
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	-	-	-	-	-	-	-	D	D	D	D	D
-Objective 0: 1101
-Objective 1: 0
+Objective 0: 902
+Objective 1: 2
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 8
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
 D	D	D	D	D	-	-	D	D	-	-	-	D	D
-D	D	D	D	D	-	-	-	-	D	D	D	-	-
-D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
 D	D	D	D	D	-	-	-	-	-	-	D	D	-
+D	D	-	-	-	D	D	D	D	D	-	-	-	-
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	-	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 1001
+D	D	-	-	-	-	-	-	-	D	D	D	D	D
+Objective 0: 1002
 Objective 1: 1
 Constr violation: 0
 Restrictions violated:
@@ -144,15 +144,15 @@ Restrictions violated:
 
 Individual 9
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
 D	D	D	D	D	-	-	D	D	-	-	-	D	D
-D	D	D	D	D	-	-	-	-	D	D	D	-	-
-D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
 D	D	D	D	D	-	-	-	-	-	-	D	D	-
+D	D	-	-	-	D	D	D	D	D	-	-	-	-
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	-	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 1001
+D	D	-	-	-	-	-	-	-	D	D	D	D	D
+Objective 0: 1002
 Objective 1: 1
 Constr violation: 0
 Restrictions violated:
@@ -160,30 +160,30 @@ Restrictions violated:
 
 Individual 10
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	-
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	-	-	-	-	-	-	-	D	D	D	D	D
-Objective 0: 900
-Objective 1: 2
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	D
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
+Objective 0: 700
+Objective 1: 6
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 11
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	-	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
 -	D	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	D	D	D	-	-	D	D
+D	D	D	D	D	-	-	-	D	D	-	-	D	D
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
 Objective 0: 600
 Objective 1: 9
 Constr violation: 0
@@ -192,15 +192,15 @@ Restrictions violated:
 
 Individual 12
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	-	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 800
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	-	-	-	-	-	D	D	D	D	D
+Objective 0: 901
 Objective 1: 3
 Constr violation: 0
 Restrictions violated:
@@ -208,31 +208,31 @@ Restrictions violated:
 
 Individual 13
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	-	-	-	-	-	-	D	D	D	D	D	-
 Objective 0: 800
-Objective 1: 3
+Objective 1: 5
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 14
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	-
--	-	D	D	D	-	-	D	D	D	-	-	D	D
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
 D	D	-	-	-	-	-	-	-	D	D	D	D	D
-Objective 0: 900
+Objective 0: 902
 Objective 1: 2
 Constr violation: 0
 Restrictions violated:
@@ -240,80 +240,80 @@ Restrictions violated:
 
 Individual 15
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
-D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	-	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 800
-Objective 1: 3
-Constr violation: 0
-Restrictions violated:
-0 0 0 0 0 0 0 0 
-
-Individual 16
-1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
+-	D	D	-	-	D	D	D	D	D	-	-	-	-
 D	D	D	D	D	-	-	D	D	-	-	-	D	D
-D	D	D	D	D	-	-	-	-	D	D	D	-	-
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	-
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	D
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	-	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 1001
-Objective 1: 1
-Constr violation: 0
-Restrictions violated:
-0 0 0 0 0 0 0 0 
-
-Individual 17
-1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
-D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	-	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 800
-Objective 1: 3
-Constr violation: 0
-Restrictions violated:
-0 0 0 0 0 0 0 0 
-
-Individual 18
-1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
-D	D	-	-	-	D	D	D	D	D	-	-	-	-
--	D	D	-	-	-	-	D	D	-	-	D	D	D
-D	D	D	D	D	-	-	-	-	-	-	D	D	D
--	-	D	D	D	-	-	D	D	D	-	-	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
 Objective 0: 700
 Objective 1: 6
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
-Individual 19
+Individual 16
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	D	D	D	D	-	-	-	D	D	-	-	D	D
-D	D	D	D	D	-	-	D	D	-	-	D	D	-
-D	D	-	-	D	D	D	D	-	-	D	D	-	-
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
 D	D	-	-	-	D	D	D	D	D	-	-	-	-
 -	D	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	D	D	D	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	D
 -	-	D	D	D	-	-	D	D	-	-	D	D	D
-D	D	D	-	-	-	-	-	D	D	D	D	D	-
-Objective 0: 600
-Objective 1: 9
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
+Objective 0: 801
+Objective 1: 4
+Constr violation: 0
+Restrictions violated:
+0 0 0 0 0 0 0 0 
+
+Individual 17
+1	2	3	4	5	6	7	8	9	10	11	12	13	14
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	-
+D	D	-	-	-	D	D	D	D	D	-	-	-	-
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	-	-	-	-	-	D	D	D	D	D
+Objective 0: 1002
+Objective 1: 1
+Constr violation: 0
+Restrictions violated:
+0 0 0 0 0 0 0 0 
+
+Individual 18
+1	2	3	4	5	6	7	8	9	10	11	12	13	14
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	-
+D	D	-	-	-	D	D	D	D	D	-	-	-	-
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	D	D	D	D	-
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	-	-	-	-	-	D	D	D	D	D
+Objective 0: 1002
+Objective 1: 1
+Constr violation: 0
+Restrictions violated:
+0 0 0 0 0 0 0 0 
+
+Individual 19
+1	2	3	4	5	6	7	8	9	10	11	12	13	14
+-	D	D	D	-	-	D	D	D	D	-	-	-	-
+D	D	D	D	D	-	-	D	D	-	-	-	D	D
+D	D	D	-	-	D	D	D	-	-	D	D	-	-
+D	D	-	-	-	D	D	D	D	D	-	-	-	-
+-	D	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	D	D	D	-	-	-	-	-	-	D	D	D
+-	-	D	D	D	-	-	D	D	-	-	D	D	D
+D	D	-	-	D	D	-	-	D	D	D	D	-	-
+Objective 0: 801
+Objective 1: 4
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 

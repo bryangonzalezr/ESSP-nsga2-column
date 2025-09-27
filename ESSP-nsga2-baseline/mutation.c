@@ -2,9 +2,12 @@
 #include <stdlib.h>
 #include "global.h"
 #include "rand.h"
+#include "time.h"
 
 extern ssequence ***ssequences_pool_emp; // pools per employee
 extern int *num_sequences_pool_emp;      // number of sequences per employee
+extern seq_length_index *seq_index;
+ 
 
 extern double mut1_p;
 extern double mut2_p;
@@ -17,7 +20,6 @@ extern double pmut_real;    // probabilidad de mutar individuo
 // Forward declarations
 void mutation_ind_sequence(individual *ind, problem_instance *pi);
 void mutation_remove(individual *ind, problem_instance *pi, int emp);
-void mutation_add(individual *ind, problem_instance *pi, int emp);
 void mutation_shift(individual *ind, problem_instance *pi, int emp);
 void mutation_change(individual *ind, problem_instance *pi, int emp);
 int check_overlap(int start1, int len1, int start2, int len2);
@@ -25,6 +27,12 @@ void remove_overlapping_sequences(individual *ind, int emp, int new_start, int n
 
 
 void mutation_pop(population *pop, problem_instance *pi) {
+
+    
+
+
+
+
     for (int i = 0; i < popsize; i++) {
         if (randomperc() <= pmut_real) {
             // Sorteamos cuántas mutaciones aplicar a este individuo
@@ -42,6 +50,8 @@ void mutation_ind_sequence(individual *ind, problem_instance *pi) {
     int emp = rnd(0, pi->num_employees - 1);
 
     if (num_sequences_pool_emp[emp] == 0) return; // No sequences available
+
+
 
     // Select mutation type randomly
     double r = randomperc();
@@ -64,18 +74,23 @@ void mutation_ind_sequence(individual *ind, problem_instance *pi) {
         mutation_type = 3; // Change
     }
 
+ 
+
     switch (mutation_type) {
         case 0:
             mutation_remove(ind, pi, emp);
             break;
         case 1:
             mutation_add(ind, pi, emp);
+            
             break;
         case 2:
             mutation_shift(ind, pi, emp);
+            
             break;
         case 3:
             mutation_change(ind, pi, emp);
+            
             break;
     }
 }
@@ -95,20 +110,28 @@ void mutation_remove(individual *ind, problem_instance *pi, int emp) {
 }
 
 void mutation_add(individual *ind, problem_instance *pi, int emp) {
-    if (num_sequences_pool_emp[emp] == 0) return; // No sequences available
+    if (num_sequences_pool_emp[emp] == 0) return;
 
-    int pool_idx = rnd(0, num_sequences_pool_emp[emp] - 1);
+    seq_length_index *idx = &seq_index[emp];
+
+    // elegir un largo con secuencias disponibles
+    int length;
+    do {
+        length = rnd(1, idx->max_length);
+    } while (idx->count_by_length[length] == 0);
+
+    // elegir una secuencia de ese largo
+    int pos = rnd(0, idx->count_by_length[length] - 1);
+    int pool_idx = idx->by_length[length][pos];
     ssequence *seq = ssequences_pool_emp[emp][pool_idx];
 
     int horizon = pi->horizon_length;
-    if (seq->length > horizon) return; // Sequence too long for horizon
+    if (seq->length > horizon) return;
 
     int start_day = rnd(0, horizon - seq->length);
 
-    // Remove overlapping sequences
     remove_overlapping_sequences(ind, emp, start_day, seq->length);
 
-    // Add the new sequence
     ind->seqs[emp][ind->num_seqs[emp]] = seq;
     ind->seq_start_days[emp][ind->num_seqs[emp]] = start_day;
     ind->num_seqs[emp]++;
@@ -184,45 +207,41 @@ void mutation_shift(individual *ind, problem_instance *pi, int emp) {
 }
 
 void mutation_change(individual *ind, problem_instance *pi, int emp) {
-    if (ind->num_seqs[emp] <= 0 || num_sequences_pool_emp[emp] <= 1) return; // Need sequences to change
+    if (ind->num_seqs[emp] <= 0) return;
 
     int seq_idx = rnd(0, ind->num_seqs[emp] - 1);
     ssequence *current_seq = ind->seqs[emp][seq_idx];
     int current_start = ind->seq_start_days[emp][seq_idx];
+    int length = current_seq->length;
 
-    // Find a different sequence from the pool
+    seq_length_index *idx = &seq_index[emp];
+    if (idx->count_by_length[length] <= 1) return; // no hay alternativa
+
     int pool_idx;
     ssequence *new_seq;
-    int attempts = 0;
-    do {
-        pool_idx = rnd(0, num_sequences_pool_emp[emp] - 1);
-        new_seq = ssequences_pool_emp[emp][pool_idx];
-        attempts++;
-    } while (new_seq == current_seq && attempts < 10); // Avoid infinite loop
-
-    if (new_seq == current_seq) return; // Couldn't find different sequence
+    int count=0;
+    
+    int pos = rnd(0, idx->count_by_length[length] - 1);
+    pool_idx = idx->by_length[length][pos];
+    new_seq = ssequences_pool_emp[emp][pool_idx];
+        
 
     int horizon = pi->horizon_length;
-    if (new_seq->length > horizon) return; // New sequence too long
-
-    // Calculate new start position (try to keep similar position if possible)
     int new_start = current_start;
     if (new_start + new_seq->length > horizon) {
         new_start = horizon - new_seq->length;
     }
     if (new_start < 0) new_start = 0;
 
-    // Remove the current sequence
+    // quitar la secuencia actual
     for (int i = seq_idx; i < ind->num_seqs[emp] - 1; i++) {
         ind->seqs[emp][i] = ind->seqs[emp][i + 1];
         ind->seq_start_days[emp][i] = ind->seq_start_days[emp][i + 1];
     }
     ind->num_seqs[emp]--;
 
-    // Remove overlapping sequences for the new sequence
     remove_overlapping_sequences(ind, emp, new_start, new_seq->length);
 
-    // Add the new sequence
     ind->seqs[emp][ind->num_seqs[emp]] = new_seq;
     ind->seq_start_days[emp][ind->num_seqs[emp]] = new_start;
     ind->num_seqs[emp]++;

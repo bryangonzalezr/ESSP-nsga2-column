@@ -403,9 +403,9 @@ int main (int argc, char **argv)
     int current_gen = 1;
     for (i=2; i<=ngen; i++)
     {
-        if (i%10000==0)
+        if (i%1000==0)
         {
-            printf("\n gen = %d",i);
+            printf("\n gen = %d\n",i);
             fflush(stdout);
         }
         double prev_pop_best_constraint = best_constraint;
@@ -510,23 +510,24 @@ int main (int argc, char **argv)
     fclose(fpt5);
     fclose(fpt6);
     fclose(fpt7);
-    individual *best_individual = &parent_pop->ind[0];
+    individual *best_obj0_ind = &parent_pop->ind[0];
+    individual *best_obj1_ind = &parent_pop->ind[0];
+
     for (int j = 1; j < popsize; j++) {
-        if (parent_pop->ind[j].rank < best_individual->rank || 
-            (parent_pop->ind[j].rank == best_individual->rank && 
-             parent_pop->ind[j].crowd_dist > best_individual->crowd_dist)) {
-            best_individual = &parent_pop->ind[j];
+        if (parent_pop->ind[j].obj[0] < best_obj0_ind->obj[0]) {
+            best_obj0_ind = &parent_pop->ind[j];
+        }
+        if (nobj > 1 && parent_pop->ind[j].obj[1] < best_obj1_ind->obj[1]) {
+            best_obj1_ind = &parent_pop->ind[j];
         }
     }
 
-    // Store the values we need before freeing memory
-    double best_obj[3] = {0.0, 0.0, 0.0}; // Initialize to handle cases where nobj < 3
-    double best_constraint_violation = best_individual->constr_violation;
-    
-    // Copy objective values safely
-    for (int j = 0; j < nobj && j < 3; j++) {
-        best_obj[j] = best_individual->obj[j];
-    }
+    // Guardar valores antes de liberar memoria
+    double best_obj0 = best_obj0_ind->obj[0];
+    double best_obj1 = (nobj > 1) ? best_obj1_ind->obj[1] : 0.0;
+
+    double constr_obj0 = best_obj0_ind->constr_violation;
+    double constr_obj1 = best_obj1_ind->constr_violation;
 
     // Now free the memory
     if (nbin!=0)
@@ -549,22 +550,15 @@ int main (int argc, char **argv)
     printf("\n Time taken for initialization = %f\n", time_init/CLOCKS_PER_SEC);
 
 
-    // Calculate objective combination (obj1 + obj2)
-    double obj_combination = 0.0;
-    if (nobj >= 2) {
-        obj_combination = best_obj[0] + best_obj[1];  // obj1 + obj2
-    } else if (nobj >= 1) {
-        obj_combination = best_obj[0];
-    }
+    
 
-    printf("\n Best individual objectives: obj[0] = %f", best_obj[0]);
-    if (nobj >= 2) printf(", obj[1] = %f", best_obj[1]);
-    if (nobj >= 3) printf(", obj[2] = %f", best_obj[2]);
-    printf("\n Best individual constraint violation = %f", best_constraint_violation);
+    printf("\n Best individual objectives: obj[0] = %f", best_obj0);
+    if (nobj >= 2) printf(", obj[1] = %f", best_obj1);
+    printf("\n Best individual constraint violation = %f", constr_obj0+constr_obj1);
     printf("\n Number of objectives: %d", nobj);
 
     // Define weights for the ponderation
-    double max_constraints = 7.0 * pi->num_employees;
+    double max_constraints = 4.0 * pi->num_employees;
     double max_obj0 = 0.0;
     double max_obj1 = 0.0;
 
@@ -585,22 +579,22 @@ int main (int argc, char **argv)
     }
 
     // Normalizar objetivos y restricciones
-    double norm_obj0 = (max_obj0 > 0) ? best_obj[0] / max_obj0 : 0.0;
-    double norm_obj1 = (max_obj1 > 0) ? best_obj[1] / max_obj1 : 0.0;
-    double norm_constraint = (max_constraints > 0) ? best_constraint_violation / max_constraints : 0.0;
+    double norm_obj0 = (max_obj0 > 0) ? best_obj0 / max_obj0 : 0.0;
+    double norm_obj1 = (max_obj1 > 0) ? best_obj1 / max_obj1 : 0.0;
+    double norm_constraint = (max_constraints > 0) ? (constr_obj0+constr_obj1) / max_constraints : 0.0;
 
     // Combinar con pesos iguales
     double w_obj0 = 1.0;
     double w_obj1 = 1.0;
-    double w_constraint = -1.0;
+    double w_constraint = -3.0;
 
     double weighted_value = w_obj0 * norm_obj0 +
                             w_obj1 * norm_obj1 +
                             w_constraint * norm_constraint;
 
-    printf("\n FO0 (covering): %f (norm %f)", best_obj[0], norm_obj0);
-    printf("\n FO1 (preferences): %f (norm %f)", best_obj[1], norm_obj1);
-    printf("\n Constraint violations: %f (norm %f)", best_constraint_violation, norm_constraint);
+    printf("\n FO0 (covering): %f (norm %f)", best_obj0, norm_obj0);
+    printf("\n FO1 (preferences): %f (norm %f)", best_obj1, norm_obj1);
+    printf("\n Constraint violations: %f (norm %f)", (constr_obj0+constr_obj1), norm_constraint);
     printf("\n Final weighted value: %f\n", weighted_value*100);
     printf("\n%f\n", weighted_value*100);
     return (0);

@@ -11,74 +11,95 @@ Finished reading shift on/off requests.
  Number of objective functions = 2
  Number of constraints = 8
  Number of binary variables = 0
- Probability of crossover of real variable = 6.000000e-01
- Probability of mutation of real variable = 2.500000e-01
- Probability of mutation 1 = 6.000000e-01
- Probability of mutation 2 = 8.000000e-01
- Probability of mutation 3 = 6.000000e-01
- Probability of mutation 4 = 2.000000e-01
- Probability of mutation 5 = 0.000000e+00
- Probability of real mutation to activate or deactivate = 3.000000e-01
- Amount of mutation = 5.000000e-02
- Probability of crossover 1 = 1.000000e+00
- Probability of crossover 2 = 0.000000e+00
+ Probability of crossover of real variable = 5.000000e-01
+ Probability of mutation of real variable = 8.000000e-01
+ Probability of mutation 1 = 0.000000e+00
+ Probability of mutation 2 = 6.000000e-01
+ Probability of mutation 3 = 2.000000e-01
+ Probability of mutation 4 = 4.000000e-01
+ Probability of mutation 5 = 1.000000e+00
+ Probability of real mutation to activate or deactivate = 8.000000e-01
+ Amount of mutation = 1.000000e-01
+ Probability of crossover 1 = 7.000000e-01
+ Probability of crossover 2 = 7.000000e-01
  run number = 20
  run mode = 0
  Input data successfully entered, now performing initialization 
-Initializing population with method 2
-Individual 0 initialized with Greedy method
-Individual 0 optimized with ILS
-Individual 1 initialized with Greedy method
-Individual 1 optimized with ILS
-Individual 2 initialized with Greedy method
-Individual 2 optimized with ILS
-Individual 3 initialized with Greedy method
-Individual 3 optimized with ILS
-Individual 4 initialized with Greedy method
-Individual 4 optimized with ILS
-Individual 5 initialized with Greedy method
-Individual 5 optimized with ILS
-Individual 6 initialized with Greedy method
-Individual 6 optimized with ILS
-Individual 7 initialized with Greedy method
-Individual 7 optimized with ILS
-Individual 8 initialized with Greedy method
-Individual 8 optimized with ILS
-Individual 9 initialized with Greedy method
-Individual 9 optimized with ILS
-Individual 10 initialized with Greedy method
-Individual 10 optimized with ILS
-Individual 11 initialized with Greedy method
-Individual 11 optimized with ILS
-Individual 12 initialized with Greedy method
-Individual 12 optimized with ILS
-Individual 13 initialized with Greedy method
-Individual 13 optimized with ILS
-Individual 14 initialized with Greedy method
-Individual 14 optimized with ILS
-Individual 15 initialized with Greedy method
-Individual 15 optimized with ILS
-Individual 16 initialized with Greedy method
-Individual 16 optimized with ILS
-Individual 17 initialized with Greedy method
-Individual 17 optimized with ILS
-Individual 18 initialized with Greedy method
-Individual 18 optimized with ILS
-Individual 19 initialized with Greedy method
-Individual 19 optimized with ILS
+
+ Allocating memory for populations 
+
+ Memory allocation for populations done, now initializing 
+
+ Memory allocation for parent population done 
+
+ Memory allocation for child population done 
+
+ Memory allocation for mixed population done 
+
+ Performing initialization 
+Initializing population and generating sequences per employee...
+Generated 4 sequences for employee A
+Generated 4 sequences for employee B
+Generated 4 sequences for employee C
+Generated 4 sequences for employee D
+Generated 4 sequences for employee E
+Generated 4 sequences for employee F
+Generated 4 sequences for employee G
+Generated 4 sequences for employee H
+Individual 0 initialized empty
+Individual 1 initialized empty
+Individual 2 initialized empty
+Individual 3 initialized empty
+Individual 4 initialized empty
+Individual 5 initialized empty
+Individual 6 initialized empty
+Individual 7 initialized empty
+Individual 8 initialized empty
+Individual 9 initialized empty
+Individual 10 initialized empty
+Individual 11 initialized empty
+Individual 12 initialized empty
+Individual 13 initialized empty
+Individual 14 initialized empty
+Individual 15 initialized empty
+Individual 16 initialized empty
+Individual 17 initialized empty
+Individual 18 initialized empty
+Individual 19 initialized empty
+First individual after random initialization:
+Employee A: Num sequences: 0
+
+Employee B: Num sequences: 0
+
+Employee C: Num sequences: 0
+
+Employee D: Num sequences: 0
+
+Employee E: Num sequences: 0
+
+Employee F: Num sequences: 0
+
+Employee G: Num sequences: 0
+
+Employee H: Num sequences: 0
+
+
+ Initialization done 
 E \ D	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10	Day 11	Day 12	Day 13	Day 14
-A	-	-	-	-	-	D	D	D	-	-	D	D	D	D
-B	D	D	D	D	-	-	-	-	-	D	D	-	-	D
-C	D	D	-	-	D	D	-	-	-	-	-	D	D	D
-D	D	-	-	-	-	-	-	-	-	-	D	D	D	D
-E	-	-	D	D	D	D	D	-	-	-	-	D	D	-
-F	-	-	-	D	D	-	-	D	D	-	-	D	D	D
-G	D	-	-	D	D	D	D	-	-	-	-	-	D	D
-H	D	D	-	-	-	-	-	-	-	D	D	D	D	D
+A	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+B	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+C	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+D	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+F	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+G	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+H	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 
  Initialization done, now performing first generation
 
- constr indiv 0 -5.000000
+ Decoding done, now performing evaluation of initial population
+
+ constr indiv 0 -8.000000
  gen = 1
  gen = 10000
  gen = 20000
@@ -132,20 +153,20 @@ H	D	D	-	-	-	-	-	-	-	D	D	D	D	D
  gen = 500000
  Generations finished, now reporting solutions
 
- Average acceleration = 0.999996
+ Average acceleration = 0.999747
  Best constraint violation in generation 500000 = 0.000000
  Routine successfully exited 
 
- Time taken = 54.372176 seconds
+ Time taken = 71.370325 seconds
 
- Time taken for initialization = 0.173737
+ Time taken for initialization = 0.000022
 
- Best individual objectives: obj[0] = 700.000000, obj[1] = 6.000000
+ Best individual objectives: obj[0] = 1102.000000, obj[1] = 0.000000
  Best individual constraint violation = 0.000000
  Number of objectives: 2
- Objective combination (obj[0]+obj[1]): 706.000000
- Constraint violation weight: 0.000000
- Execution time weight: 54.372176
- Positive obj: 707.000000, Positive constraint: 0.000000, Positive time: 55.372176
- Final weighted value: 762.372176
-762.372176
+ FO0 (covering): 1102.000000 (norm 0.152801)
+ FO1 (preferences): 0.000000 (norm 0.000000)
+ Constraint violations: 0.000000 (norm 0.000000)
+ Final weighted value: 15.280089
+
+15.280089
