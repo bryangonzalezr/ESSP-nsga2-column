@@ -1,2 +1,11 @@
 Instance,Run,Hypervolume,ExecutionTime,InitializationTime,PopulationSize,Generations,ActualEvaluations
-Instance8.dat,1,0,6,,20,500000,10000000
+Instance8.dat,1,,77,71.769822,20,5000,100000
+Instance8.dat,2,,71,65.902079,20,5000,100000
+Instance8.dat,3,,65,60.625714,20,5000,100000
+Instance8.dat,4,,67,61.985400,20,5000,100000
+Instance8.dat,5,,63,58.898178,20,5000,100000
+Instance8.dat,6,,67,61.433426,20,5000,100000
+Instance8.dat,7,,64,58.809936,20,5000,100000
+Instance8.dat,8,,63,58.075532,20,5000,100000
+Instance8.dat,9,,64,59.096395,20,5000,100000
+Instance8.dat,10,,66,61.435140,20,5000,100000

@@ -23,7 +23,7 @@ PARAMS_FILE="parametros_instancias.txt"
 
 # Fixed parameters (define these as needed)
 FIXED_POP_SIZE=52        # You can adjust this
-FIXED_EVALUACIONES=10000000   # Fixed number of evaluations
+FIXED_EVALUACIONES=100000   # Fixed number of evaluations
 
 # ========================================
 # DEFAULT PARAMETERS CONFIGURATION

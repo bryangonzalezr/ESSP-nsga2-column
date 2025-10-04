@@ -8,6 +8,8 @@
 # include "rand.h"
 
 extern double pcross_real;
+extern double cross1_p;
+extern double cross2_p;
 
 
 void cross_employee(individual *parent1, individual *parent2,individual *child1, individual *child2,problem_instance *pi);
@@ -29,10 +31,22 @@ void crossover (individual *parent1, individual *parent2, individual *child1, in
         }
 
         // Normalize probabilities
-        
-
-        
-        cross_employee(parent1, parent2, child1, child2, pi);
+        double p1 = cross1_p / total_p;
+        double p2 = p1 + (cross2_p / total_p);
+        double r = randomperc();
+        if (r < p1) {
+            // Crossover por empleado
+            cross_employee(parent1, parent2, child1, child2, pi);
+        } else if (r < p2) {
+            // SBX crossover
+            realcross(parent1, parent2, child1, child2);
+        } else {
+            // Sin crossover, copiar padres a hijos
+            for (int i = 0; i < nreal; i++) {
+                child1->xreal[i] = parent1->xreal[i];
+                child2->xreal[i] = parent2->xreal[i];
+            }
+        }
         
     }
     if (nbin!=0)
@@ -253,6 +267,83 @@ void cross_employee(individual *parent1, individual *parent2,
     }
 
     // Decodificar secuencias para llenar xreal
+    decode_individual_sequences(child1, pi);
+    decode_individual_sequences(child2, pi);
+}
+
+
+/* Nuevo crossover: selecciona secuencias aleatorias por empleado */
+void cross_employee_seqwise(individual *parent1, individual *parent2,
+                            individual *child1, individual *child2,
+                            problem_instance *pi)
+{
+    int num_emps = pi->num_employees;
+
+    // Reiniciar secuencias de hijos
+    for (int e = 0; e < num_emps; e++) {
+        child1->num_seqs[e] = 0;
+        child2->num_seqs[e] = 0;
+    }
+
+    if (randomperc() <= pcross_real)
+    {
+        for (int e = 0; e < num_emps; e++)
+        {
+            int seqs_p1 = parent1->num_seqs[e];
+            int seqs_p2 = parent2->num_seqs[e];
+            int max_seqs = (seqs_p1 > seqs_p2) ? seqs_p1 : seqs_p2;
+
+            for (int s = 0; s < max_seqs; s++)
+            {
+                // 50% probabilidad de tomar secuencia del padre 1 o 2
+                if (randomperc() <= 0.5 && s < seqs_p1)
+                {
+                    child1->seqs[e][child1->num_seqs[e]] = parent1->seqs[e][s];
+                    child1->seq_start_days[e][child1->num_seqs[e]] = parent1->seq_start_days[e][s];
+                    child1->num_seqs[e]++;
+                }
+                else if (s < seqs_p2)
+                {
+                    child1->seqs[e][child1->num_seqs[e]] = parent2->seqs[e][s];
+                    child1->seq_start_days[e][child1->num_seqs[e]] = parent2->seq_start_days[e][s];
+                    child1->num_seqs[e]++;
+                }
+
+                // Hijo2 toma el complementario
+                if (randomperc() <= 0.5 && s < seqs_p2)
+                {
+                    child2->seqs[e][child2->num_seqs[e]] = parent2->seqs[e][s];
+                    child2->seq_start_days[e][child2->num_seqs[e]] = parent2->seq_start_days[e][s];
+                    child2->num_seqs[e]++;
+                }
+                else if (s < seqs_p1)
+                {
+                    child2->seqs[e][child2->num_seqs[e]] = parent1->seqs[e][s];
+                    child2->seq_start_days[e][child2->num_seqs[e]] = parent1->seq_start_days[e][s];
+                    child2->num_seqs[e]++;
+                }
+            }
+        }
+    }
+    else
+    {
+        // Copia directa si no hay cruce
+        for (int e = 0; e < num_emps; e++) {
+            for (int s = 0; s < parent1->num_seqs[e]; s++) {
+                child1->seqs[e][s] = parent1->seqs[e][s];
+                child1->seq_start_days[e][s] = parent1->seq_start_days[e][s];
+            }
+            child1->num_seqs[e] = parent1->num_seqs[e];
+
+            for (int s = 0; s < parent2->num_seqs[e]; s++) {
+                child2->seqs[e][s] = parent2->seqs[e][s];
+                child2->seq_start_days[e][s] = parent2->seq_start_days[e][s];
+            }
+            child2->num_seqs[e] = parent2->num_seqs[e];
+        }
+    }
+
+    // Decodificar secuencias en xreal
     decode_individual_sequences(child1, pi);
     decode_individual_sequences(child2, pi);
 }

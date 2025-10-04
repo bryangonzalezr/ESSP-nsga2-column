@@ -1,335 +1,335 @@
 Individual 0
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	D	L	L	L	L	-	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 1900
-Objective 1: 20
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	E	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2708
+Objective 1: 19
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 1
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	-	-	D	L	L	L	L	-	-
--	E	E	E	E	D	-	-	-	D	D	-	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 2101
-Objective 1: 16
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	-	L	-	-	-	E	-	-	E	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2606
+Objective 1: 24
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 2
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	-	D	L	L	L	L	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 2001
-Objective 1: 18
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	-	L	-	-	-	E	-	-	E	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2606
+Objective 1: 24
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 3
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	D	L	L	L	L	-	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 1900
-Objective 1: 20
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	-	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2707
+Objective 1: 21
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 4
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	D	L	L	L	L	-	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 1900
-Objective 1: 20
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	-	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2707
+Objective 1: 21
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 5
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	-	-	D	L	L	L	L	-	-
--	E	E	E	E	D	-	-	-	D	D	-	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 2101
-Objective 1: 16
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	-	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2707
+Objective 1: 21
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 6
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	-	D	L	L	L	L	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 2001
-Objective 1: 18
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	E	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2708
+Objective 1: 19
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 7
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	-	D	L	L	L	L	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 2001
-Objective 1: 18
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	-	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2707
+Objective 1: 21
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 8
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	-	D	L	L	L	L	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 2001
-Objective 1: 18
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	-	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2707
+Objective 1: 21
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 9
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	D	L	L	L	L	-	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 1900
-Objective 1: 20
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	E	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2708
+Objective 1: 19
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 10
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	D	L	L	L	L	-	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 1900
-Objective 1: 20
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	-	L	-	-	-	E	-	-	E	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2606
+Objective 1: 24
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 
 
 Individual 11
 1	2	3	4	5	6	7	8	9	10	11	12	13	14
--	-	E	D	D	D	D	-	-	D	D	-	-	-
--	D	D	D	D	-	-	-	-	E	D	L	L	L
--	-	-	E	L	L	-	-	E	L	L	L	-	-
--	-	L	L	L	-	-	-	-	E	E	E	E	E
+-	-	D	D	D	-	-	E	E	-	-	-	D	D
+-	E	E	E	D	-	-	E	E	E	-	-	E	E
+-	D	D	D	L	L	-	-	-	D	D	L	-	-
+-	-	-	L	L	-	-	E	E	L	-	-	E	L
 E	E	-	-	-	E	E	E	E	E	-	-	-	-
--	-	E	E	D	-	-	-	-	D	D	D	D	D
--	D	L	-	-	D	L	L	L	L	-	-	-	-
--	E	E	E	E	L	-	-	-	D	D	L	-	-
-D	D	D	D	L	-	-	E	D	L	-	-	-	-
--	-	-	D	D	D	D	D	-	-	E	E	-	-
-E	E	D	-	-	-	D	D	D	D	D	-	-	-
-D	L	-	-	-	D	L	L	L	L	-	-	-	-
--	-	D	D	D	-	-	-	E	E	L	L	L	L
-D	D	D	L	L	-	-	-	-	-	-	D	D	D
-L	L	-	-	-	D	D	D	D	D	-	-	-	-
--	-	-	-	-	-	-	E	-	-	-	D	D	L
-L	L	-	-	-	-	-	-	-	-	-	-	D	D
--	-	-	-	-	E	E	D	D	-	-	-	-	-
-L	-	-	-	-	E	E	E	-	-	-	-	-	-
--	-	-	E	E	E	E	-	-	-	-	-	-	-
-Objective 0: 1900
-Objective 1: 20
+-	-	E	E	D	-	-	-	-	E	E	D	D	D
+-	E	D	D	-	-	L	L	-	-	E	L	-	-
+E	D	L	-	-	D	D	L	L	L	-	-	-	-
+D	D	L	-	-	-	-	D	D	D	D	-	-	D
+E	E	-	-	E	E	-	-	D	D	D	-	-	-
+E	D	D	-	-	-	E	D	D	D	D	D	-	-
+L	L	-	-	-	D	D	D	L	L	L	-	-	-
+-	-	-	D	D	-	-	-	D	D	D	L	L	L
+D	D	D	L	L	-	-	-	-	-	-	D	L	L
+L	L	-	-	-	D	D	D	D	L	L	-	-	-
+L	-	E	E	L	-	-	-	-	-	-	-	-	-
+D	L	-	-	-	-	-	-	-	-	-	-	D	D
+-	-	E	D	D	D	-	-	-	-	-	-	-	-
+-	E	L	-	-	-	E	E	-	-	-	-	-	-
+-	-	-	E	E	-	-	-	-	-	E	-	-	E
+Objective 0: 2708
+Objective 1: 19
 Constr violation: 0
 Restrictions violated:
 0 0 0 0 0 0 0 0 

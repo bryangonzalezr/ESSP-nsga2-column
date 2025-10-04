@@ -209,7 +209,7 @@ void initialize_pop(population *pop, problem_instance *pi) {
     }
 
     for (int e = 0; e < num_emps; e++) {
-        employees_pool_capacity[e] = 50;
+        employees_pool_capacity[e] = 50000;
         employees_pool[e] = malloc(employees_pool_capacity[e] * sizeof(emp_assign));
         if (!employees_pool[e]) {
             fprintf(stderr, "malloc failed employees_pool[%d]\n", e);

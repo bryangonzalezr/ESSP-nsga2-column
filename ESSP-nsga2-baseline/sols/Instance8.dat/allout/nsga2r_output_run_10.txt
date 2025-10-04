@@ -6,288 +6,2122 @@ Warning: Malformed line in shift off requests:
 Finished reading shift on/off requests.
 
  Instance route = instances/Instance8.dat
- Population size = 100
- Number of generations = 100000
+ Population size = 20
+ Number of generations = 5000
  Number of objective functions = 2
  Number of constraints = 8
  Number of binary variables = 0
- Probability of crossover of real variable = 8.000000e-01
- Probability of mutation of real variable = 1.000000e-02
- Probability of mutation 1 = 1.000000e+00
+ Probability of crossover of real variable = 5.000000e-01
+ Probability of mutation of real variable = 8.000000e-01
+ Probability of mutation 1 = 0.000000e+00
  Probability of mutation 2 = 6.000000e-01
- Probability of mutation 3 = 1.000000e+00
+ Probability of mutation 3 = 6.000000e-01
  Probability of mutation 4 = 4.000000e-01
- Probability of mutation 5 = 4.000000e-01
- Probability of real mutation to activate or deactivate = 5.000000e-01
- Amount of mutation = 1.000000e-01
- Probability of crossover 1 = 3.000000e-01
- Probability of crossover 2 = 0.000000e+00
+ Probability of mutation 5 = 1.000000e+00
+ Probability of real mutation to activate or deactivate = 8.000000e-01
+ Amount of mutation = 5.000000e-02
+ Probability of crossover 1 = 7.000000e-01
+ Probability of crossover 2 = 7.000000e-01
  run number = 10
  run mode = 0
  Input data successfully entered, now performing initialization 
-Initializing population with method 2
-Individual 0 initialized with Greedy method
-Individual 0 optimized with ILS
-Individual 1 initialized with Greedy method
-Individual 1 optimized with ILS
-Individual 2 initialized with Greedy method
-Individual 2 optimized with ILS
-Individual 3 initialized with Greedy method
-Individual 3 optimized with ILS
-Individual 4 initialized with Greedy method
-Individual 4 optimized with ILS
-Individual 5 initialized with Greedy method
-Individual 5 optimized with ILS
-Individual 6 initialized with Greedy method
-Individual 6 optimized with ILS
-Individual 7 initialized with Greedy method
-Individual 7 optimized with ILS
-Individual 8 initialized with Greedy method
-Individual 8 optimized with ILS
-Individual 9 initialized with Greedy method
-Individual 9 optimized with ILS
-Individual 10 initialized with Greedy method
-Individual 10 optimized with ILS
-Individual 11 initialized with Greedy method
-Individual 11 optimized with ILS
-Individual 12 initialized with Greedy method
-Individual 12 optimized with ILS
-Individual 13 initialized with Greedy method
-Individual 13 optimized with ILS
-Individual 14 initialized with Greedy method
-Individual 14 optimized with ILS
-Individual 15 initialized with Greedy method
-Individual 15 optimized with ILS
-Individual 16 initialized with Greedy method
-Individual 16 optimized with ILS
-Individual 17 initialized with Greedy method
-Individual 17 optimized with ILS
-Individual 18 initialized with Greedy method
-Individual 18 optimized with ILS
-Individual 19 initialized with Greedy method
-Individual 19 optimized with ILS
-Individual 20 initialized with Greedy method
-Individual 20 optimized with ILS
-Individual 21 initialized with Greedy method
-Individual 21 optimized with ILS
-Individual 22 initialized with Greedy method
-Individual 22 optimized with ILS
-Individual 23 initialized with Greedy method
-Individual 23 optimized with ILS
-Individual 24 initialized with Greedy method
-Individual 24 optimized with ILS
-Individual 25 initialized with Greedy method
-Individual 25 optimized with ILS
-Individual 26 initialized with Greedy method
-Individual 26 optimized with ILS
-Individual 27 initialized with Greedy method
-Individual 27 optimized with ILS
-Individual 28 initialized with Greedy method
-Individual 28 optimized with ILS
-Individual 29 initialized with Greedy method
-Individual 29 optimized with ILS
-Individual 30 initialized with Greedy method
-Individual 30 optimized with ILS
-Individual 31 initialized with Greedy method
-Individual 31 optimized with ILS
-Individual 32 initialized with Greedy method
-Individual 32 optimized with ILS
-Individual 33 initialized with Greedy method
-Individual 33 optimized with ILS
-Individual 34 initialized with Greedy method
-Individual 34 optimized with ILS
-Individual 35 initialized with Greedy method
-Individual 35 optimized with ILS
-Individual 36 initialized with Greedy method
-Individual 36 optimized with ILS
-Individual 37 initialized with Greedy method
-Individual 37 optimized with ILS
-Individual 38 initialized with Greedy method
-Individual 38 optimized with ILS
-Individual 39 initialized with Greedy method
-Individual 39 optimized with ILS
-Individual 40 initialized with Greedy method
-Individual 40 optimized with ILS
-Individual 41 initialized with Greedy method
-Individual 41 optimized with ILS
-Individual 42 initialized with Greedy method
-Individual 42 optimized with ILS
-Individual 43 initialized with Greedy method
-Individual 43 optimized with ILS
-Individual 44 initialized with Greedy method
-Individual 44 optimized with ILS
-Individual 45 initialized with Greedy method
-Individual 45 optimized with ILS
-Individual 46 initialized with Greedy method
-Individual 46 optimized with ILS
-Individual 47 initialized with Greedy method
-Individual 47 optimized with ILS
-Individual 48 initialized with Greedy method
-Individual 48 optimized with ILS
-Individual 49 initialized with Greedy method
-Individual 49 optimized with ILS
-Individual 50 initialized with Greedy method
-Individual 50 optimized with ILS
-Individual 51 initialized with Greedy method
-Individual 51 optimized with ILS
-Individual 52 initialized with Greedy method
-Individual 52 optimized with ILS
-Individual 53 initialized with Greedy method
-Individual 53 optimized with ILS
-Individual 54 initialized with Greedy method
-Individual 54 optimized with ILS
-Individual 55 initialized with Greedy method
-Individual 55 optimized with ILS
-Individual 56 initialized with Greedy method
-Individual 56 optimized with ILS
-Individual 57 initialized with Greedy method
-Individual 57 optimized with ILS
-Individual 58 initialized with Greedy method
-Individual 58 optimized with ILS
-Individual 59 initialized with Greedy method
-Individual 59 optimized with ILS
-Individual 60 initialized with Greedy method
-Individual 60 optimized with ILS
-Individual 61 initialized with Greedy method
-Individual 61 optimized with ILS
-Individual 62 initialized with Greedy method
-Individual 62 optimized with ILS
-Individual 63 initialized with Greedy method
-Individual 63 optimized with ILS
-Individual 64 initialized with Greedy method
-Individual 64 optimized with ILS
-Individual 65 initialized with Greedy method
-Individual 65 optimized with ILS
-Individual 66 initialized with Greedy method
-Individual 66 optimized with ILS
-Individual 67 initialized with Greedy method
-Individual 67 optimized with ILS
-Individual 68 initialized with Greedy method
-Individual 68 optimized with ILS
-Individual 69 initialized with Greedy method
-Individual 69 optimized with ILS
-Individual 70 initialized with Greedy method
-Individual 70 optimized with ILS
-Individual 71 initialized with Greedy method
-Individual 71 optimized with ILS
-Individual 72 initialized with Greedy method
-Individual 72 optimized with ILS
-Individual 73 initialized with Greedy method
-Individual 73 optimized with ILS
-Individual 74 initialized with Greedy method
-Individual 74 optimized with ILS
-Individual 75 initialized with Greedy method
-Individual 75 optimized with ILS
-Individual 76 initialized with Greedy method
-Individual 76 optimized with ILS
-Individual 77 initialized with Greedy method
-Individual 77 optimized with ILS
-Individual 78 initialized with Greedy method
-Individual 78 optimized with ILS
-Individual 79 initialized with Greedy method
-Individual 79 optimized with ILS
-Individual 80 initialized with Greedy method
-Individual 80 optimized with ILS
-Individual 81 initialized with Greedy method
-Individual 81 optimized with ILS
-Individual 82 initialized with Greedy method
-Individual 82 optimized with ILS
-Individual 83 initialized with Greedy method
-Individual 83 optimized with ILS
-Individual 84 initialized with Greedy method
-Individual 84 optimized with ILS
-Individual 85 initialized with Greedy method
-Individual 85 optimized with ILS
-Individual 86 initialized with Greedy method
-Individual 86 optimized with ILS
-Individual 87 initialized with Greedy method
-Individual 87 optimized with ILS
-Individual 88 initialized with Greedy method
-Individual 88 optimized with ILS
-Individual 89 initialized with Greedy method
-Individual 89 optimized with ILS
-Individual 90 initialized with Greedy method
-Individual 90 optimized with ILS
-Individual 91 initialized with Greedy method
-Individual 91 optimized with ILS
-Individual 92 initialized with Greedy method
-Individual 92 optimized with ILS
-Individual 93 initialized with Greedy method
-Individual 93 optimized with ILS
-Individual 94 initialized with Greedy method
-Individual 94 optimized with ILS
-Individual 95 initialized with Greedy method
-Individual 95 optimized with ILS
-Individual 96 initialized with Greedy method
-Individual 96 optimized with ILS
-Individual 97 initialized with Greedy method
-Individual 97 optimized with ILS
-Individual 98 initialized with Greedy method
-Individual 98 optimized with ILS
-Individual 99 initialized with Greedy method
-Individual 99 optimized with ILS
+
+ Allocating memory for populations 
+
+ Memory allocation for populations done, now initializing 
+
+ Memory allocation for parent population done 
+
+ Memory allocation for child population done 
+
+ Memory allocation for mixed population done 
+
+ Performing initialization 
+Initializing population and generating sequences per employee...
+Generated 20 sequences for employee A
+Generated 55 sequences for employee B
+Generated 20 sequences for employee C
+Generated 20 sequences for employee D
+Generated 55 sequences for employee E
+Generated 55 sequences for employee F
+Generated 20 sequences for employee G
+Generated 20 sequences for employee H
+Generated 55 sequences for employee I
+Generated 55 sequences for employee J
+Generated 55 sequences for employee K
+Generated 55 sequences for employee L
+Generated 55 sequences for employee M
+Generated 125 sequences for employee N
+Generated 55 sequences for employee O
+Generated 20 sequences for employee P
+Generated 209 sequences for employee Q
+Generated 6 sequences for employee R
+Generated 27 sequences for employee S
+Generated 83 sequences for employee T
+Generated 83 sequences for employee U
+Generated 209 sequences for employee V
+Generated 83 sequences for employee W
+Generated 20 sequences for employee X
+Generated 20 sequences for employee Y
+Generated 125 sequences for employee Z
+Generated 55 sequences for employee AA
+Generated 125 sequences for employee AB
+Generated 20 sequences for employee AC
+Generated 55 sequences for employee AD
+Emp A: Seq 0 (len=1, min=480): 2 
+Emp A: Seq 1 (len=2, min=960): 2 2 
+Emp A: Seq 2 (len=3, min=1440): 2 2 2 
+Emp A: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp A: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp A: Seq 5 (len=5, min=2400): 2 2 2 2 4 
+Emp A: Seq 6 (len=4, min=1920): 2 2 2 4 
+Emp A: Seq 7 (len=5, min=2400): 2 2 2 4 4 
+Emp A: Seq 8 (len=3, min=1440): 2 2 4 
+Emp A: Seq 9 (len=4, min=1920): 2 2 4 4 
+Emp A: Seq 10 (len=5, min=2400): 2 2 4 4 4 
+Emp A: Seq 11 (len=2, min=960): 2 4 
+Emp A: Seq 12 (len=3, min=1440): 2 4 4 
+Emp A: Seq 13 (len=4, min=1920): 2 4 4 4 
+Emp A: Seq 14 (len=5, min=2400): 2 4 4 4 4 
+Emp A: Seq 15 (len=1, min=480): 4 
+Emp A: Seq 16 (len=2, min=960): 4 4 
+Emp A: Seq 17 (len=3, min=1440): 4 4 4 
+Emp A: Seq 18 (len=4, min=1920): 4 4 4 4 
+Emp A: Seq 19 (len=5, min=2400): 4 4 4 4 4 
+Emp B: Seq 0 (len=1, min=480): 1 
+Emp B: Seq 1 (len=2, min=960): 1 1 
+Emp B: Seq 2 (len=3, min=1440): 1 1 1 
+Emp B: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp B: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp B: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp B: Seq 6 (len=5, min=2400): 1 1 1 1 4 
+Emp B: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp B: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp B: Seq 9 (len=5, min=2400): 1 1 1 2 4 
+Emp B: Seq 10 (len=4, min=1920): 1 1 1 4 
+Emp B: Seq 11 (len=5, min=2400): 1 1 1 4 4 
+Emp B: Seq 12 (len=3, min=1440): 1 1 2 
+Emp B: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp B: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp B: Seq 15 (len=5, min=2400): 1 1 2 2 4 
+Emp B: Seq 16 (len=4, min=1920): 1 1 2 4 
+Emp B: Seq 17 (len=5, min=2400): 1 1 2 4 4 
+Emp B: Seq 18 (len=3, min=1440): 1 1 4 
+Emp B: Seq 19 (len=4, min=1920): 1 1 4 4 
+Emp B: Seq 20 (len=5, min=2400): 1 1 4 4 4 
+Emp B: Seq 21 (len=2, min=960): 1 2 
+Emp B: Seq 22 (len=3, min=1440): 1 2 2 
+Emp B: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp B: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp B: Seq 25 (len=5, min=2400): 1 2 2 2 4 
+Emp B: Seq 26 (len=4, min=1920): 1 2 2 4 
+Emp B: Seq 27 (len=5, min=2400): 1 2 2 4 4 
+Emp B: Seq 28 (len=3, min=1440): 1 2 4 
+Emp B: Seq 29 (len=4, min=1920): 1 2 4 4 
+Emp B: Seq 30 (len=5, min=2400): 1 2 4 4 4 
+Emp B: Seq 31 (len=2, min=960): 1 4 
+Emp B: Seq 32 (len=3, min=1440): 1 4 4 
+Emp B: Seq 33 (len=4, min=1920): 1 4 4 4 
+Emp B: Seq 34 (len=5, min=2400): 1 4 4 4 4 
+Emp B: Seq 35 (len=1, min=480): 2 
+Emp B: Seq 36 (len=2, min=960): 2 2 
+Emp B: Seq 37 (len=3, min=1440): 2 2 2 
+Emp B: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp B: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp B: Seq 40 (len=5, min=2400): 2 2 2 2 4 
+Emp B: Seq 41 (len=4, min=1920): 2 2 2 4 
+Emp B: Seq 42 (len=5, min=2400): 2 2 2 4 4 
+Emp B: Seq 43 (len=3, min=1440): 2 2 4 
+Emp B: Seq 44 (len=4, min=1920): 2 2 4 4 
+Emp B: Seq 45 (len=5, min=2400): 2 2 4 4 4 
+Emp B: Seq 46 (len=2, min=960): 2 4 
+Emp B: Seq 47 (len=3, min=1440): 2 4 4 
+Emp B: Seq 48 (len=4, min=1920): 2 4 4 4 
+Emp B: Seq 49 (len=5, min=2400): 2 4 4 4 4 
+Emp B: Seq 50 (len=1, min=480): 4 
+Emp B: Seq 51 (len=2, min=960): 4 4 
+Emp B: Seq 52 (len=3, min=1440): 4 4 4 
+Emp B: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp B: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp C: Seq 0 (len=1, min=480): 2 
+Emp C: Seq 1 (len=2, min=960): 2 2 
+Emp C: Seq 2 (len=3, min=1440): 2 2 2 
+Emp C: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp C: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp C: Seq 5 (len=5, min=2400): 2 2 2 2 4 
+Emp C: Seq 6 (len=4, min=1920): 2 2 2 4 
+Emp C: Seq 7 (len=5, min=2400): 2 2 2 4 4 
+Emp C: Seq 8 (len=3, min=1440): 2 2 4 
+Emp C: Seq 9 (len=4, min=1920): 2 2 4 4 
+Emp C: Seq 10 (len=5, min=2400): 2 2 4 4 4 
+Emp C: Seq 11 (len=2, min=960): 2 4 
+Emp C: Seq 12 (len=3, min=1440): 2 4 4 
+Emp C: Seq 13 (len=4, min=1920): 2 4 4 4 
+Emp C: Seq 14 (len=5, min=2400): 2 4 4 4 4 
+Emp C: Seq 15 (len=1, min=480): 4 
+Emp C: Seq 16 (len=2, min=960): 4 4 
+Emp C: Seq 17 (len=3, min=1440): 4 4 4 
+Emp C: Seq 18 (len=4, min=1920): 4 4 4 4 
+Emp C: Seq 19 (len=5, min=2400): 4 4 4 4 4 
+Emp D: Seq 0 (len=1, min=480): 2 
+Emp D: Seq 1 (len=2, min=960): 2 2 
+Emp D: Seq 2 (len=3, min=1440): 2 2 2 
+Emp D: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp D: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp D: Seq 5 (len=5, min=2400): 2 2 2 2 3 
+Emp D: Seq 6 (len=4, min=1920): 2 2 2 3 
+Emp D: Seq 7 (len=5, min=2400): 2 2 2 3 3 
+Emp D: Seq 8 (len=3, min=1440): 2 2 3 
+Emp D: Seq 9 (len=4, min=1920): 2 2 3 3 
+Emp D: Seq 10 (len=5, min=2400): 2 2 3 3 3 
+Emp D: Seq 11 (len=2, min=960): 2 3 
+Emp D: Seq 12 (len=3, min=1440): 2 3 3 
+Emp D: Seq 13 (len=4, min=1920): 2 3 3 3 
+Emp D: Seq 14 (len=5, min=2400): 2 3 3 3 3 
+Emp D: Seq 15 (len=1, min=480): 3 
+Emp D: Seq 16 (len=2, min=960): 3 3 
+Emp D: Seq 17 (len=3, min=1440): 3 3 3 
+Emp D: Seq 18 (len=4, min=1920): 3 3 3 3 
+Emp D: Seq 19 (len=5, min=2400): 3 3 3 3 3 
+Emp E: Seq 0 (len=1, min=480): 1 
+Emp E: Seq 1 (len=2, min=960): 1 1 
+Emp E: Seq 2 (len=3, min=1440): 1 1 1 
+Emp E: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp E: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp E: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp E: Seq 6 (len=5, min=2400): 1 1 1 1 4 
+Emp E: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp E: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp E: Seq 9 (len=5, min=2400): 1 1 1 2 4 
+Emp E: Seq 10 (len=4, min=1920): 1 1 1 4 
+Emp E: Seq 11 (len=5, min=2400): 1 1 1 4 4 
+Emp E: Seq 12 (len=3, min=1440): 1 1 2 
+Emp E: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp E: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp E: Seq 15 (len=5, min=2400): 1 1 2 2 4 
+Emp E: Seq 16 (len=4, min=1920): 1 1 2 4 
+Emp E: Seq 17 (len=5, min=2400): 1 1 2 4 4 
+Emp E: Seq 18 (len=3, min=1440): 1 1 4 
+Emp E: Seq 19 (len=4, min=1920): 1 1 4 4 
+Emp E: Seq 20 (len=5, min=2400): 1 1 4 4 4 
+Emp E: Seq 21 (len=2, min=960): 1 2 
+Emp E: Seq 22 (len=3, min=1440): 1 2 2 
+Emp E: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp E: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp E: Seq 25 (len=5, min=2400): 1 2 2 2 4 
+Emp E: Seq 26 (len=4, min=1920): 1 2 2 4 
+Emp E: Seq 27 (len=5, min=2400): 1 2 2 4 4 
+Emp E: Seq 28 (len=3, min=1440): 1 2 4 
+Emp E: Seq 29 (len=4, min=1920): 1 2 4 4 
+Emp E: Seq 30 (len=5, min=2400): 1 2 4 4 4 
+Emp E: Seq 31 (len=2, min=960): 1 4 
+Emp E: Seq 32 (len=3, min=1440): 1 4 4 
+Emp E: Seq 33 (len=4, min=1920): 1 4 4 4 
+Emp E: Seq 34 (len=5, min=2400): 1 4 4 4 4 
+Emp E: Seq 35 (len=1, min=480): 2 
+Emp E: Seq 36 (len=2, min=960): 2 2 
+Emp E: Seq 37 (len=3, min=1440): 2 2 2 
+Emp E: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp E: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp E: Seq 40 (len=5, min=2400): 2 2 2 2 4 
+Emp E: Seq 41 (len=4, min=1920): 2 2 2 4 
+Emp E: Seq 42 (len=5, min=2400): 2 2 2 4 4 
+Emp E: Seq 43 (len=3, min=1440): 2 2 4 
+Emp E: Seq 44 (len=4, min=1920): 2 2 4 4 
+Emp E: Seq 45 (len=5, min=2400): 2 2 4 4 4 
+Emp E: Seq 46 (len=2, min=960): 2 4 
+Emp E: Seq 47 (len=3, min=1440): 2 4 4 
+Emp E: Seq 48 (len=4, min=1920): 2 4 4 4 
+Emp E: Seq 49 (len=5, min=2400): 2 4 4 4 4 
+Emp E: Seq 50 (len=1, min=480): 4 
+Emp E: Seq 51 (len=2, min=960): 4 4 
+Emp E: Seq 52 (len=3, min=1440): 4 4 4 
+Emp E: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp E: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp F: Seq 0 (len=1, min=480): 1 
+Emp F: Seq 1 (len=2, min=960): 1 1 
+Emp F: Seq 2 (len=3, min=1440): 1 1 1 
+Emp F: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp F: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp F: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp F: Seq 6 (len=5, min=2400): 1 1 1 1 4 
+Emp F: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp F: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp F: Seq 9 (len=5, min=2400): 1 1 1 2 4 
+Emp F: Seq 10 (len=4, min=1920): 1 1 1 4 
+Emp F: Seq 11 (len=5, min=2400): 1 1 1 4 4 
+Emp F: Seq 12 (len=3, min=1440): 1 1 2 
+Emp F: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp F: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp F: Seq 15 (len=5, min=2400): 1 1 2 2 4 
+Emp F: Seq 16 (len=4, min=1920): 1 1 2 4 
+Emp F: Seq 17 (len=5, min=2400): 1 1 2 4 4 
+Emp F: Seq 18 (len=3, min=1440): 1 1 4 
+Emp F: Seq 19 (len=4, min=1920): 1 1 4 4 
+Emp F: Seq 20 (len=5, min=2400): 1 1 4 4 4 
+Emp F: Seq 21 (len=2, min=960): 1 2 
+Emp F: Seq 22 (len=3, min=1440): 1 2 2 
+Emp F: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp F: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp F: Seq 25 (len=5, min=2400): 1 2 2 2 4 
+Emp F: Seq 26 (len=4, min=1920): 1 2 2 4 
+Emp F: Seq 27 (len=5, min=2400): 1 2 2 4 4 
+Emp F: Seq 28 (len=3, min=1440): 1 2 4 
+Emp F: Seq 29 (len=4, min=1920): 1 2 4 4 
+Emp F: Seq 30 (len=5, min=2400): 1 2 4 4 4 
+Emp F: Seq 31 (len=2, min=960): 1 4 
+Emp F: Seq 32 (len=3, min=1440): 1 4 4 
+Emp F: Seq 33 (len=4, min=1920): 1 4 4 4 
+Emp F: Seq 34 (len=5, min=2400): 1 4 4 4 4 
+Emp F: Seq 35 (len=1, min=480): 2 
+Emp F: Seq 36 (len=2, min=960): 2 2 
+Emp F: Seq 37 (len=3, min=1440): 2 2 2 
+Emp F: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp F: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp F: Seq 40 (len=5, min=2400): 2 2 2 2 4 
+Emp F: Seq 41 (len=4, min=1920): 2 2 2 4 
+Emp F: Seq 42 (len=5, min=2400): 2 2 2 4 4 
+Emp F: Seq 43 (len=3, min=1440): 2 2 4 
+Emp F: Seq 44 (len=4, min=1920): 2 2 4 4 
+Emp F: Seq 45 (len=5, min=2400): 2 2 4 4 4 
+Emp F: Seq 46 (len=2, min=960): 2 4 
+Emp F: Seq 47 (len=3, min=1440): 2 4 4 
+Emp F: Seq 48 (len=4, min=1920): 2 4 4 4 
+Emp F: Seq 49 (len=5, min=2400): 2 4 4 4 4 
+Emp F: Seq 50 (len=1, min=480): 4 
+Emp F: Seq 51 (len=2, min=960): 4 4 
+Emp F: Seq 52 (len=3, min=1440): 4 4 4 
+Emp F: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp F: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp G: Seq 0 (len=1, min=480): 2 
+Emp G: Seq 1 (len=2, min=960): 2 2 
+Emp G: Seq 2 (len=3, min=1440): 2 2 2 
+Emp G: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp G: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp G: Seq 5 (len=5, min=2400): 2 2 2 2 4 
+Emp G: Seq 6 (len=4, min=1920): 2 2 2 4 
+Emp G: Seq 7 (len=5, min=2400): 2 2 2 4 4 
+Emp G: Seq 8 (len=3, min=1440): 2 2 4 
+Emp G: Seq 9 (len=4, min=1920): 2 2 4 4 
+Emp G: Seq 10 (len=5, min=2400): 2 2 4 4 4 
+Emp G: Seq 11 (len=2, min=960): 2 4 
+Emp G: Seq 12 (len=3, min=1440): 2 4 4 
+Emp G: Seq 13 (len=4, min=1920): 2 4 4 4 
+Emp G: Seq 14 (len=5, min=2400): 2 4 4 4 4 
+Emp G: Seq 15 (len=1, min=480): 4 
+Emp G: Seq 16 (len=2, min=960): 4 4 
+Emp G: Seq 17 (len=3, min=1440): 4 4 4 
+Emp G: Seq 18 (len=4, min=1920): 4 4 4 4 
+Emp G: Seq 19 (len=5, min=2400): 4 4 4 4 4 
+Emp H: Seq 0 (len=1, min=480): 1 
+Emp H: Seq 1 (len=2, min=960): 1 1 
+Emp H: Seq 2 (len=3, min=1440): 1 1 1 
+Emp H: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp H: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp H: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp H: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp H: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp H: Seq 8 (len=3, min=1440): 1 1 2 
+Emp H: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp H: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp H: Seq 11 (len=2, min=960): 1 2 
+Emp H: Seq 12 (len=3, min=1440): 1 2 2 
+Emp H: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp H: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp H: Seq 15 (len=1, min=480): 2 
+Emp H: Seq 16 (len=2, min=960): 2 2 
+Emp H: Seq 17 (len=3, min=1440): 2 2 2 
+Emp H: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp H: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp I: Seq 0 (len=1, min=480): 1 
+Emp I: Seq 1 (len=2, min=960): 1 1 
+Emp I: Seq 2 (len=3, min=1440): 1 1 1 
+Emp I: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp I: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp I: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp I: Seq 6 (len=5, min=2400): 1 1 1 1 4 
+Emp I: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp I: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp I: Seq 9 (len=5, min=2400): 1 1 1 2 4 
+Emp I: Seq 10 (len=4, min=1920): 1 1 1 4 
+Emp I: Seq 11 (len=5, min=2400): 1 1 1 4 4 
+Emp I: Seq 12 (len=3, min=1440): 1 1 2 
+Emp I: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp I: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp I: Seq 15 (len=5, min=2400): 1 1 2 2 4 
+Emp I: Seq 16 (len=4, min=1920): 1 1 2 4 
+Emp I: Seq 17 (len=5, min=2400): 1 1 2 4 4 
+Emp I: Seq 18 (len=3, min=1440): 1 1 4 
+Emp I: Seq 19 (len=4, min=1920): 1 1 4 4 
+Emp I: Seq 20 (len=5, min=2400): 1 1 4 4 4 
+Emp I: Seq 21 (len=2, min=960): 1 2 
+Emp I: Seq 22 (len=3, min=1440): 1 2 2 
+Emp I: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp I: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp I: Seq 25 (len=5, min=2400): 1 2 2 2 4 
+Emp I: Seq 26 (len=4, min=1920): 1 2 2 4 
+Emp I: Seq 27 (len=5, min=2400): 1 2 2 4 4 
+Emp I: Seq 28 (len=3, min=1440): 1 2 4 
+Emp I: Seq 29 (len=4, min=1920): 1 2 4 4 
+Emp I: Seq 30 (len=5, min=2400): 1 2 4 4 4 
+Emp I: Seq 31 (len=2, min=960): 1 4 
+Emp I: Seq 32 (len=3, min=1440): 1 4 4 
+Emp I: Seq 33 (len=4, min=1920): 1 4 4 4 
+Emp I: Seq 34 (len=5, min=2400): 1 4 4 4 4 
+Emp I: Seq 35 (len=1, min=480): 2 
+Emp I: Seq 36 (len=2, min=960): 2 2 
+Emp I: Seq 37 (len=3, min=1440): 2 2 2 
+Emp I: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp I: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp I: Seq 40 (len=5, min=2400): 2 2 2 2 4 
+Emp I: Seq 41 (len=4, min=1920): 2 2 2 4 
+Emp I: Seq 42 (len=5, min=2400): 2 2 2 4 4 
+Emp I: Seq 43 (len=3, min=1440): 2 2 4 
+Emp I: Seq 44 (len=4, min=1920): 2 2 4 4 
+Emp I: Seq 45 (len=5, min=2400): 2 2 4 4 4 
+Emp I: Seq 46 (len=2, min=960): 2 4 
+Emp I: Seq 47 (len=3, min=1440): 2 4 4 
+Emp I: Seq 48 (len=4, min=1920): 2 4 4 4 
+Emp I: Seq 49 (len=5, min=2400): 2 4 4 4 4 
+Emp I: Seq 50 (len=1, min=480): 4 
+Emp I: Seq 51 (len=2, min=960): 4 4 
+Emp I: Seq 52 (len=3, min=1440): 4 4 4 
+Emp I: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp I: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp J: Seq 0 (len=1, min=480): 2 
+Emp J: Seq 1 (len=2, min=960): 2 2 
+Emp J: Seq 2 (len=3, min=1440): 2 2 2 
+Emp J: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp J: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp J: Seq 5 (len=5, min=2400): 2 2 2 2 3 
+Emp J: Seq 6 (len=5, min=2400): 2 2 2 2 4 
+Emp J: Seq 7 (len=4, min=1920): 2 2 2 3 
+Emp J: Seq 8 (len=5, min=2400): 2 2 2 3 3 
+Emp J: Seq 9 (len=5, min=2400): 2 2 2 3 4 
+Emp J: Seq 10 (len=4, min=1920): 2 2 2 4 
+Emp J: Seq 11 (len=5, min=2400): 2 2 2 4 4 
+Emp J: Seq 12 (len=3, min=1440): 2 2 3 
+Emp J: Seq 13 (len=4, min=1920): 2 2 3 3 
+Emp J: Seq 14 (len=5, min=2400): 2 2 3 3 3 
+Emp J: Seq 15 (len=5, min=2400): 2 2 3 3 4 
+Emp J: Seq 16 (len=4, min=1920): 2 2 3 4 
+Emp J: Seq 17 (len=5, min=2400): 2 2 3 4 4 
+Emp J: Seq 18 (len=3, min=1440): 2 2 4 
+Emp J: Seq 19 (len=4, min=1920): 2 2 4 4 
+Emp J: Seq 20 (len=5, min=2400): 2 2 4 4 4 
+Emp J: Seq 21 (len=2, min=960): 2 3 
+Emp J: Seq 22 (len=3, min=1440): 2 3 3 
+Emp J: Seq 23 (len=4, min=1920): 2 3 3 3 
+Emp J: Seq 24 (len=5, min=2400): 2 3 3 3 3 
+Emp J: Seq 25 (len=5, min=2400): 2 3 3 3 4 
+Emp J: Seq 26 (len=4, min=1920): 2 3 3 4 
+Emp J: Seq 27 (len=5, min=2400): 2 3 3 4 4 
+Emp J: Seq 28 (len=3, min=1440): 2 3 4 
+Emp J: Seq 29 (len=4, min=1920): 2 3 4 4 
+Emp J: Seq 30 (len=5, min=2400): 2 3 4 4 4 
+Emp J: Seq 31 (len=2, min=960): 2 4 
+Emp J: Seq 32 (len=3, min=1440): 2 4 4 
+Emp J: Seq 33 (len=4, min=1920): 2 4 4 4 
+Emp J: Seq 34 (len=5, min=2400): 2 4 4 4 4 
+Emp J: Seq 35 (len=1, min=480): 3 
+Emp J: Seq 36 (len=2, min=960): 3 3 
+Emp J: Seq 37 (len=3, min=1440): 3 3 3 
+Emp J: Seq 38 (len=4, min=1920): 3 3 3 3 
+Emp J: Seq 39 (len=5, min=2400): 3 3 3 3 3 
+Emp J: Seq 40 (len=5, min=2400): 3 3 3 3 4 
+Emp J: Seq 41 (len=4, min=1920): 3 3 3 4 
+Emp J: Seq 42 (len=5, min=2400): 3 3 3 4 4 
+Emp J: Seq 43 (len=3, min=1440): 3 3 4 
+Emp J: Seq 44 (len=4, min=1920): 3 3 4 4 
+Emp J: Seq 45 (len=5, min=2400): 3 3 4 4 4 
+Emp J: Seq 46 (len=2, min=960): 3 4 
+Emp J: Seq 47 (len=3, min=1440): 3 4 4 
+Emp J: Seq 48 (len=4, min=1920): 3 4 4 4 
+Emp J: Seq 49 (len=5, min=2400): 3 4 4 4 4 
+Emp J: Seq 50 (len=1, min=480): 4 
+Emp J: Seq 51 (len=2, min=960): 4 4 
+Emp J: Seq 52 (len=3, min=1440): 4 4 4 
+Emp J: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp J: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp K: Seq 0 (len=1, min=480): 1 
+Emp K: Seq 1 (len=2, min=960): 1 1 
+Emp K: Seq 2 (len=3, min=1440): 1 1 1 
+Emp K: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp K: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp K: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp K: Seq 6 (len=5, min=2400): 1 1 1 1 4 
+Emp K: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp K: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp K: Seq 9 (len=5, min=2400): 1 1 1 2 4 
+Emp K: Seq 10 (len=4, min=1920): 1 1 1 4 
+Emp K: Seq 11 (len=5, min=2400): 1 1 1 4 4 
+Emp K: Seq 12 (len=3, min=1440): 1 1 2 
+Emp K: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp K: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp K: Seq 15 (len=5, min=2400): 1 1 2 2 4 
+Emp K: Seq 16 (len=4, min=1920): 1 1 2 4 
+Emp K: Seq 17 (len=5, min=2400): 1 1 2 4 4 
+Emp K: Seq 18 (len=3, min=1440): 1 1 4 
+Emp K: Seq 19 (len=4, min=1920): 1 1 4 4 
+Emp K: Seq 20 (len=5, min=2400): 1 1 4 4 4 
+Emp K: Seq 21 (len=2, min=960): 1 2 
+Emp K: Seq 22 (len=3, min=1440): 1 2 2 
+Emp K: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp K: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp K: Seq 25 (len=5, min=2400): 1 2 2 2 4 
+Emp K: Seq 26 (len=4, min=1920): 1 2 2 4 
+Emp K: Seq 27 (len=5, min=2400): 1 2 2 4 4 
+Emp K: Seq 28 (len=3, min=1440): 1 2 4 
+Emp K: Seq 29 (len=4, min=1920): 1 2 4 4 
+Emp K: Seq 30 (len=5, min=2400): 1 2 4 4 4 
+Emp K: Seq 31 (len=2, min=960): 1 4 
+Emp K: Seq 32 (len=3, min=1440): 1 4 4 
+Emp K: Seq 33 (len=4, min=1920): 1 4 4 4 
+Emp K: Seq 34 (len=5, min=2400): 1 4 4 4 4 
+Emp K: Seq 35 (len=1, min=480): 2 
+Emp K: Seq 36 (len=2, min=960): 2 2 
+Emp K: Seq 37 (len=3, min=1440): 2 2 2 
+Emp K: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp K: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp K: Seq 40 (len=5, min=2400): 2 2 2 2 4 
+Emp K: Seq 41 (len=4, min=1920): 2 2 2 4 
+Emp K: Seq 42 (len=5, min=2400): 2 2 2 4 4 
+Emp K: Seq 43 (len=3, min=1440): 2 2 4 
+Emp K: Seq 44 (len=4, min=1920): 2 2 4 4 
+Emp K: Seq 45 (len=5, min=2400): 2 2 4 4 4 
+Emp K: Seq 46 (len=2, min=960): 2 4 
+Emp K: Seq 47 (len=3, min=1440): 2 4 4 
+Emp K: Seq 48 (len=4, min=1920): 2 4 4 4 
+Emp K: Seq 49 (len=5, min=2400): 2 4 4 4 4 
+Emp K: Seq 50 (len=1, min=480): 4 
+Emp K: Seq 51 (len=2, min=960): 4 4 
+Emp K: Seq 52 (len=3, min=1440): 4 4 4 
+Emp K: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp K: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp L: Seq 0 (len=1, min=480): 1 
+Emp L: Seq 1 (len=2, min=960): 1 1 
+Emp L: Seq 2 (len=3, min=1440): 1 1 1 
+Emp L: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp L: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp L: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp L: Seq 6 (len=5, min=2400): 1 1 1 1 4 
+Emp L: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp L: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp L: Seq 9 (len=5, min=2400): 1 1 1 2 4 
+Emp L: Seq 10 (len=4, min=1920): 1 1 1 4 
+Emp L: Seq 11 (len=5, min=2400): 1 1 1 4 4 
+Emp L: Seq 12 (len=3, min=1440): 1 1 2 
+Emp L: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp L: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp L: Seq 15 (len=5, min=2400): 1 1 2 2 4 
+Emp L: Seq 16 (len=4, min=1920): 1 1 2 4 
+Emp L: Seq 17 (len=5, min=2400): 1 1 2 4 4 
+Emp L: Seq 18 (len=3, min=1440): 1 1 4 
+Emp L: Seq 19 (len=4, min=1920): 1 1 4 4 
+Emp L: Seq 20 (len=5, min=2400): 1 1 4 4 4 
+Emp L: Seq 21 (len=2, min=960): 1 2 
+Emp L: Seq 22 (len=3, min=1440): 1 2 2 
+Emp L: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp L: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp L: Seq 25 (len=5, min=2400): 1 2 2 2 4 
+Emp L: Seq 26 (len=4, min=1920): 1 2 2 4 
+Emp L: Seq 27 (len=5, min=2400): 1 2 2 4 4 
+Emp L: Seq 28 (len=3, min=1440): 1 2 4 
+Emp L: Seq 29 (len=4, min=1920): 1 2 4 4 
+Emp L: Seq 30 (len=5, min=2400): 1 2 4 4 4 
+Emp L: Seq 31 (len=2, min=960): 1 4 
+Emp L: Seq 32 (len=3, min=1440): 1 4 4 
+Emp L: Seq 33 (len=4, min=1920): 1 4 4 4 
+Emp L: Seq 34 (len=5, min=2400): 1 4 4 4 4 
+Emp L: Seq 35 (len=1, min=480): 2 
+Emp L: Seq 36 (len=2, min=960): 2 2 
+Emp L: Seq 37 (len=3, min=1440): 2 2 2 
+Emp L: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp L: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp L: Seq 40 (len=5, min=2400): 2 2 2 2 4 
+Emp L: Seq 41 (len=4, min=1920): 2 2 2 4 
+Emp L: Seq 42 (len=5, min=2400): 2 2 2 4 4 
+Emp L: Seq 43 (len=3, min=1440): 2 2 4 
+Emp L: Seq 44 (len=4, min=1920): 2 2 4 4 
+Emp L: Seq 45 (len=5, min=2400): 2 2 4 4 4 
+Emp L: Seq 46 (len=2, min=960): 2 4 
+Emp L: Seq 47 (len=3, min=1440): 2 4 4 
+Emp L: Seq 48 (len=4, min=1920): 2 4 4 4 
+Emp L: Seq 49 (len=5, min=2400): 2 4 4 4 4 
+Emp L: Seq 50 (len=1, min=480): 4 
+Emp L: Seq 51 (len=2, min=960): 4 4 
+Emp L: Seq 52 (len=3, min=1440): 4 4 4 
+Emp L: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp L: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp M: Seq 0 (len=1, min=480): 2 
+Emp M: Seq 1 (len=2, min=960): 2 2 
+Emp M: Seq 2 (len=3, min=1440): 2 2 2 
+Emp M: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp M: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp M: Seq 5 (len=5, min=2400): 2 2 2 2 3 
+Emp M: Seq 6 (len=5, min=2400): 2 2 2 2 4 
+Emp M: Seq 7 (len=4, min=1920): 2 2 2 3 
+Emp M: Seq 8 (len=5, min=2400): 2 2 2 3 3 
+Emp M: Seq 9 (len=5, min=2400): 2 2 2 3 4 
+Emp M: Seq 10 (len=4, min=1920): 2 2 2 4 
+Emp M: Seq 11 (len=5, min=2400): 2 2 2 4 4 
+Emp M: Seq 12 (len=3, min=1440): 2 2 3 
+Emp M: Seq 13 (len=4, min=1920): 2 2 3 3 
+Emp M: Seq 14 (len=5, min=2400): 2 2 3 3 3 
+Emp M: Seq 15 (len=5, min=2400): 2 2 3 3 4 
+Emp M: Seq 16 (len=4, min=1920): 2 2 3 4 
+Emp M: Seq 17 (len=5, min=2400): 2 2 3 4 4 
+Emp M: Seq 18 (len=3, min=1440): 2 2 4 
+Emp M: Seq 19 (len=4, min=1920): 2 2 4 4 
+Emp M: Seq 20 (len=5, min=2400): 2 2 4 4 4 
+Emp M: Seq 21 (len=2, min=960): 2 3 
+Emp M: Seq 22 (len=3, min=1440): 2 3 3 
+Emp M: Seq 23 (len=4, min=1920): 2 3 3 3 
+Emp M: Seq 24 (len=5, min=2400): 2 3 3 3 3 
+Emp M: Seq 25 (len=5, min=2400): 2 3 3 3 4 
+Emp M: Seq 26 (len=4, min=1920): 2 3 3 4 
+Emp M: Seq 27 (len=5, min=2400): 2 3 3 4 4 
+Emp M: Seq 28 (len=3, min=1440): 2 3 4 
+Emp M: Seq 29 (len=4, min=1920): 2 3 4 4 
+Emp M: Seq 30 (len=5, min=2400): 2 3 4 4 4 
+Emp M: Seq 31 (len=2, min=960): 2 4 
+Emp M: Seq 32 (len=3, min=1440): 2 4 4 
+Emp M: Seq 33 (len=4, min=1920): 2 4 4 4 
+Emp M: Seq 34 (len=5, min=2400): 2 4 4 4 4 
+Emp M: Seq 35 (len=1, min=480): 3 
+Emp M: Seq 36 (len=2, min=960): 3 3 
+Emp M: Seq 37 (len=3, min=1440): 3 3 3 
+Emp M: Seq 38 (len=4, min=1920): 3 3 3 3 
+Emp M: Seq 39 (len=5, min=2400): 3 3 3 3 3 
+Emp M: Seq 40 (len=5, min=2400): 3 3 3 3 4 
+Emp M: Seq 41 (len=4, min=1920): 3 3 3 4 
+Emp M: Seq 42 (len=5, min=2400): 3 3 3 4 4 
+Emp M: Seq 43 (len=3, min=1440): 3 3 4 
+Emp M: Seq 44 (len=4, min=1920): 3 3 4 4 
+Emp M: Seq 45 (len=5, min=2400): 3 3 4 4 4 
+Emp M: Seq 46 (len=2, min=960): 3 4 
+Emp M: Seq 47 (len=3, min=1440): 3 4 4 
+Emp M: Seq 48 (len=4, min=1920): 3 4 4 4 
+Emp M: Seq 49 (len=5, min=2400): 3 4 4 4 4 
+Emp M: Seq 50 (len=1, min=480): 4 
+Emp M: Seq 51 (len=2, min=960): 4 4 
+Emp M: Seq 52 (len=3, min=1440): 4 4 4 
+Emp M: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp M: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp N: Seq 0 (len=1, min=480): 1 
+Emp N: Seq 1 (len=2, min=960): 1 1 
+Emp N: Seq 2 (len=3, min=1440): 1 1 1 
+Emp N: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp N: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp N: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp N: Seq 6 (len=5, min=2400): 1 1 1 1 3 
+Emp N: Seq 7 (len=5, min=2400): 1 1 1 1 4 
+Emp N: Seq 8 (len=4, min=1920): 1 1 1 2 
+Emp N: Seq 9 (len=5, min=2400): 1 1 1 2 2 
+Emp N: Seq 10 (len=5, min=2400): 1 1 1 2 3 
+Emp N: Seq 11 (len=5, min=2400): 1 1 1 2 4 
+Emp N: Seq 12 (len=4, min=1920): 1 1 1 3 
+Emp N: Seq 13 (len=5, min=2400): 1 1 1 3 3 
+Emp N: Seq 14 (len=5, min=2400): 1 1 1 3 4 
+Emp N: Seq 15 (len=4, min=1920): 1 1 1 4 
+Emp N: Seq 16 (len=5, min=2400): 1 1 1 4 4 
+Emp N: Seq 17 (len=3, min=1440): 1 1 2 
+Emp N: Seq 18 (len=4, min=1920): 1 1 2 2 
+Emp N: Seq 19 (len=5, min=2400): 1 1 2 2 2 
+Emp N: Seq 20 (len=5, min=2400): 1 1 2 2 3 
+Emp N: Seq 21 (len=5, min=2400): 1 1 2 2 4 
+Emp N: Seq 22 (len=4, min=1920): 1 1 2 3 
+Emp N: Seq 23 (len=5, min=2400): 1 1 2 3 3 
+Emp N: Seq 24 (len=5, min=2400): 1 1 2 3 4 
+Emp N: Seq 25 (len=4, min=1920): 1 1 2 4 
+Emp N: Seq 26 (len=5, min=2400): 1 1 2 4 4 
+Emp N: Seq 27 (len=3, min=1440): 1 1 3 
+Emp N: Seq 28 (len=4, min=1920): 1 1 3 3 
+Emp N: Seq 29 (len=5, min=2400): 1 1 3 3 3 
+Emp N: Seq 30 (len=5, min=2400): 1 1 3 3 4 
+Emp N: Seq 31 (len=4, min=1920): 1 1 3 4 
+Emp N: Seq 32 (len=5, min=2400): 1 1 3 4 4 
+Emp N: Seq 33 (len=3, min=1440): 1 1 4 
+Emp N: Seq 34 (len=4, min=1920): 1 1 4 4 
+Emp N: Seq 35 (len=5, min=2400): 1 1 4 4 4 
+Emp N: Seq 36 (len=2, min=960): 1 2 
+Emp N: Seq 37 (len=3, min=1440): 1 2 2 
+Emp N: Seq 38 (len=4, min=1920): 1 2 2 2 
+Emp N: Seq 39 (len=5, min=2400): 1 2 2 2 2 
+Emp N: Seq 40 (len=5, min=2400): 1 2 2 2 3 
+Emp N: Seq 41 (len=5, min=2400): 1 2 2 2 4 
+Emp N: Seq 42 (len=4, min=1920): 1 2 2 3 
+Emp N: Seq 43 (len=5, min=2400): 1 2 2 3 3 
+Emp N: Seq 44 (len=5, min=2400): 1 2 2 3 4 
+Emp N: Seq 45 (len=4, min=1920): 1 2 2 4 
+Emp N: Seq 46 (len=5, min=2400): 1 2 2 4 4 
+Emp N: Seq 47 (len=3, min=1440): 1 2 3 
+Emp N: Seq 48 (len=4, min=1920): 1 2 3 3 
+Emp N: Seq 49 (len=5, min=2400): 1 2 3 3 3 
+Emp N: Seq 50 (len=5, min=2400): 1 2 3 3 4 
+Emp N: Seq 51 (len=4, min=1920): 1 2 3 4 
+Emp N: Seq 52 (len=5, min=2400): 1 2 3 4 4 
+Emp N: Seq 53 (len=3, min=1440): 1 2 4 
+Emp N: Seq 54 (len=4, min=1920): 1 2 4 4 
+Emp N: Seq 55 (len=5, min=2400): 1 2 4 4 4 
+Emp N: Seq 56 (len=2, min=960): 1 3 
+Emp N: Seq 57 (len=3, min=1440): 1 3 3 
+Emp N: Seq 58 (len=4, min=1920): 1 3 3 3 
+Emp N: Seq 59 (len=5, min=2400): 1 3 3 3 3 
+Emp N: Seq 60 (len=5, min=2400): 1 3 3 3 4 
+Emp N: Seq 61 (len=4, min=1920): 1 3 3 4 
+Emp N: Seq 62 (len=5, min=2400): 1 3 3 4 4 
+Emp N: Seq 63 (len=3, min=1440): 1 3 4 
+Emp N: Seq 64 (len=4, min=1920): 1 3 4 4 
+Emp N: Seq 65 (len=5, min=2400): 1 3 4 4 4 
+Emp N: Seq 66 (len=2, min=960): 1 4 
+Emp N: Seq 67 (len=3, min=1440): 1 4 4 
+Emp N: Seq 68 (len=4, min=1920): 1 4 4 4 
+Emp N: Seq 69 (len=5, min=2400): 1 4 4 4 4 
+Emp N: Seq 70 (len=1, min=480): 2 
+Emp N: Seq 71 (len=2, min=960): 2 2 
+Emp N: Seq 72 (len=3, min=1440): 2 2 2 
+Emp N: Seq 73 (len=4, min=1920): 2 2 2 2 
+Emp N: Seq 74 (len=5, min=2400): 2 2 2 2 2 
+Emp N: Seq 75 (len=5, min=2400): 2 2 2 2 3 
+Emp N: Seq 76 (len=5, min=2400): 2 2 2 2 4 
+Emp N: Seq 77 (len=4, min=1920): 2 2 2 3 
+Emp N: Seq 78 (len=5, min=2400): 2 2 2 3 3 
+Emp N: Seq 79 (len=5, min=2400): 2 2 2 3 4 
+Emp N: Seq 80 (len=4, min=1920): 2 2 2 4 
+Emp N: Seq 81 (len=5, min=2400): 2 2 2 4 4 
+Emp N: Seq 82 (len=3, min=1440): 2 2 3 
+Emp N: Seq 83 (len=4, min=1920): 2 2 3 3 
+Emp N: Seq 84 (len=5, min=2400): 2 2 3 3 3 
+Emp N: Seq 85 (len=5, min=2400): 2 2 3 3 4 
+Emp N: Seq 86 (len=4, min=1920): 2 2 3 4 
+Emp N: Seq 87 (len=5, min=2400): 2 2 3 4 4 
+Emp N: Seq 88 (len=3, min=1440): 2 2 4 
+Emp N: Seq 89 (len=4, min=1920): 2 2 4 4 
+Emp N: Seq 90 (len=5, min=2400): 2 2 4 4 4 
+Emp N: Seq 91 (len=2, min=960): 2 3 
+Emp N: Seq 92 (len=3, min=1440): 2 3 3 
+Emp N: Seq 93 (len=4, min=1920): 2 3 3 3 
+Emp N: Seq 94 (len=5, min=2400): 2 3 3 3 3 
+Emp N: Seq 95 (len=5, min=2400): 2 3 3 3 4 
+Emp N: Seq 96 (len=4, min=1920): 2 3 3 4 
+Emp N: Seq 97 (len=5, min=2400): 2 3 3 4 4 
+Emp N: Seq 98 (len=3, min=1440): 2 3 4 
+Emp N: Seq 99 (len=4, min=1920): 2 3 4 4 
+Emp N: Seq 100 (len=5, min=2400): 2 3 4 4 4 
+Emp N: Seq 101 (len=2, min=960): 2 4 
+Emp N: Seq 102 (len=3, min=1440): 2 4 4 
+Emp N: Seq 103 (len=4, min=1920): 2 4 4 4 
+Emp N: Seq 104 (len=5, min=2400): 2 4 4 4 4 
+Emp N: Seq 105 (len=1, min=480): 3 
+Emp N: Seq 106 (len=2, min=960): 3 3 
+Emp N: Seq 107 (len=3, min=1440): 3 3 3 
+Emp N: Seq 108 (len=4, min=1920): 3 3 3 3 
+Emp N: Seq 109 (len=5, min=2400): 3 3 3 3 3 
+Emp N: Seq 110 (len=5, min=2400): 3 3 3 3 4 
+Emp N: Seq 111 (len=4, min=1920): 3 3 3 4 
+Emp N: Seq 112 (len=5, min=2400): 3 3 3 4 4 
+Emp N: Seq 113 (len=3, min=1440): 3 3 4 
+Emp N: Seq 114 (len=4, min=1920): 3 3 4 4 
+Emp N: Seq 115 (len=5, min=2400): 3 3 4 4 4 
+Emp N: Seq 116 (len=2, min=960): 3 4 
+Emp N: Seq 117 (len=3, min=1440): 3 4 4 
+Emp N: Seq 118 (len=4, min=1920): 3 4 4 4 
+Emp N: Seq 119 (len=5, min=2400): 3 4 4 4 4 
+Emp N: Seq 120 (len=1, min=480): 4 
+Emp N: Seq 121 (len=2, min=960): 4 4 
+Emp N: Seq 122 (len=3, min=1440): 4 4 4 
+Emp N: Seq 123 (len=4, min=1920): 4 4 4 4 
+Emp N: Seq 124 (len=5, min=2400): 4 4 4 4 4 
+Emp O: Seq 0 (len=1, min=480): 1 
+Emp O: Seq 1 (len=2, min=960): 1 1 
+Emp O: Seq 2 (len=3, min=1440): 1 1 1 
+Emp O: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp O: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp O: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp O: Seq 6 (len=5, min=2400): 1 1 1 1 3 
+Emp O: Seq 7 (len=4, min=1920): 1 1 1 2 
+Emp O: Seq 8 (len=5, min=2400): 1 1 1 2 2 
+Emp O: Seq 9 (len=5, min=2400): 1 1 1 2 3 
+Emp O: Seq 10 (len=4, min=1920): 1 1 1 3 
+Emp O: Seq 11 (len=5, min=2400): 1 1 1 3 3 
+Emp O: Seq 12 (len=3, min=1440): 1 1 2 
+Emp O: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp O: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp O: Seq 15 (len=5, min=2400): 1 1 2 2 3 
+Emp O: Seq 16 (len=4, min=1920): 1 1 2 3 
+Emp O: Seq 17 (len=5, min=2400): 1 1 2 3 3 
+Emp O: Seq 18 (len=3, min=1440): 1 1 3 
+Emp O: Seq 19 (len=4, min=1920): 1 1 3 3 
+Emp O: Seq 20 (len=5, min=2400): 1 1 3 3 3 
+Emp O: Seq 21 (len=2, min=960): 1 2 
+Emp O: Seq 22 (len=3, min=1440): 1 2 2 
+Emp O: Seq 23 (len=4, min=1920): 1 2 2 2 
+Emp O: Seq 24 (len=5, min=2400): 1 2 2 2 2 
+Emp O: Seq 25 (len=5, min=2400): 1 2 2 2 3 
+Emp O: Seq 26 (len=4, min=1920): 1 2 2 3 
+Emp O: Seq 27 (len=5, min=2400): 1 2 2 3 3 
+Emp O: Seq 28 (len=3, min=1440): 1 2 3 
+Emp O: Seq 29 (len=4, min=1920): 1 2 3 3 
+Emp O: Seq 30 (len=5, min=2400): 1 2 3 3 3 
+Emp O: Seq 31 (len=2, min=960): 1 3 
+Emp O: Seq 32 (len=3, min=1440): 1 3 3 
+Emp O: Seq 33 (len=4, min=1920): 1 3 3 3 
+Emp O: Seq 34 (len=5, min=2400): 1 3 3 3 3 
+Emp O: Seq 35 (len=1, min=480): 2 
+Emp O: Seq 36 (len=2, min=960): 2 2 
+Emp O: Seq 37 (len=3, min=1440): 2 2 2 
+Emp O: Seq 38 (len=4, min=1920): 2 2 2 2 
+Emp O: Seq 39 (len=5, min=2400): 2 2 2 2 2 
+Emp O: Seq 40 (len=5, min=2400): 2 2 2 2 3 
+Emp O: Seq 41 (len=4, min=1920): 2 2 2 3 
+Emp O: Seq 42 (len=5, min=2400): 2 2 2 3 3 
+Emp O: Seq 43 (len=3, min=1440): 2 2 3 
+Emp O: Seq 44 (len=4, min=1920): 2 2 3 3 
+Emp O: Seq 45 (len=5, min=2400): 2 2 3 3 3 
+Emp O: Seq 46 (len=2, min=960): 2 3 
+Emp O: Seq 47 (len=3, min=1440): 2 3 3 
+Emp O: Seq 48 (len=4, min=1920): 2 3 3 3 
+Emp O: Seq 49 (len=5, min=2400): 2 3 3 3 3 
+Emp O: Seq 50 (len=1, min=480): 3 
+Emp O: Seq 51 (len=2, min=960): 3 3 
+Emp O: Seq 52 (len=3, min=1440): 3 3 3 
+Emp O: Seq 53 (len=4, min=1920): 3 3 3 3 
+Emp O: Seq 54 (len=5, min=2400): 3 3 3 3 3 
+Emp P: Seq 0 (len=1, min=480): 1 
+Emp P: Seq 1 (len=2, min=960): 1 1 
+Emp P: Seq 2 (len=3, min=1440): 1 1 1 
+Emp P: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp P: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp P: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp P: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp P: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp P: Seq 8 (len=3, min=1440): 1 1 2 
+Emp P: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp P: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp P: Seq 11 (len=2, min=960): 1 2 
+Emp P: Seq 12 (len=3, min=1440): 1 2 2 
+Emp P: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp P: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp P: Seq 15 (len=1, min=480): 2 
+Emp P: Seq 16 (len=2, min=960): 2 2 
+Emp P: Seq 17 (len=3, min=1440): 2 2 2 
+Emp P: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp P: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp Q: Seq 0 (len=1, min=480): 1 
+Emp Q: Seq 1 (len=2, min=960): 1 1 
+Emp Q: Seq 2 (len=3, min=1440): 1 1 1 
+Emp Q: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp Q: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp Q: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp Q: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp Q: Seq 7 (len=6, min=2880): 1 1 1 1 1 3 
+Emp Q: Seq 8 (len=6, min=2880): 1 1 1 1 1 4 
+Emp Q: Seq 9 (len=5, min=2400): 1 1 1 1 2 
+Emp Q: Seq 10 (len=6, min=2880): 1 1 1 1 2 2 
+Emp Q: Seq 11 (len=6, min=2880): 1 1 1 1 2 3 
+Emp Q: Seq 12 (len=6, min=2880): 1 1 1 1 2 4 
+Emp Q: Seq 13 (len=5, min=2400): 1 1 1 1 3 
+Emp Q: Seq 14 (len=6, min=2880): 1 1 1 1 3 3 
+Emp Q: Seq 15 (len=6, min=2880): 1 1 1 1 3 4 
+Emp Q: Seq 16 (len=5, min=2400): 1 1 1 1 4 
+Emp Q: Seq 17 (len=6, min=2880): 1 1 1 1 4 4 
+Emp Q: Seq 18 (len=4, min=1920): 1 1 1 2 
+Emp Q: Seq 19 (len=5, min=2400): 1 1 1 2 2 
+Emp Q: Seq 20 (len=6, min=2880): 1 1 1 2 2 2 
+Emp Q: Seq 21 (len=6, min=2880): 1 1 1 2 2 3 
+Emp Q: Seq 22 (len=6, min=2880): 1 1 1 2 2 4 
+Emp Q: Seq 23 (len=5, min=2400): 1 1 1 2 3 
+Emp Q: Seq 24 (len=6, min=2880): 1 1 1 2 3 3 
+Emp Q: Seq 25 (len=6, min=2880): 1 1 1 2 3 4 
+Emp Q: Seq 26 (len=5, min=2400): 1 1 1 2 4 
+Emp Q: Seq 27 (len=6, min=2880): 1 1 1 2 4 4 
+Emp Q: Seq 28 (len=4, min=1920): 1 1 1 3 
+Emp Q: Seq 29 (len=5, min=2400): 1 1 1 3 3 
+Emp Q: Seq 30 (len=6, min=2880): 1 1 1 3 3 3 
+Emp Q: Seq 31 (len=6, min=2880): 1 1 1 3 3 4 
+Emp Q: Seq 32 (len=5, min=2400): 1 1 1 3 4 
+Emp Q: Seq 33 (len=6, min=2880): 1 1 1 3 4 4 
+Emp Q: Seq 34 (len=4, min=1920): 1 1 1 4 
+Emp Q: Seq 35 (len=5, min=2400): 1 1 1 4 4 
+Emp Q: Seq 36 (len=6, min=2880): 1 1 1 4 4 4 
+Emp Q: Seq 37 (len=3, min=1440): 1 1 2 
+Emp Q: Seq 38 (len=4, min=1920): 1 1 2 2 
+Emp Q: Seq 39 (len=5, min=2400): 1 1 2 2 2 
+Emp Q: Seq 40 (len=6, min=2880): 1 1 2 2 2 2 
+Emp Q: Seq 41 (len=6, min=2880): 1 1 2 2 2 3 
+Emp Q: Seq 42 (len=6, min=2880): 1 1 2 2 2 4 
+Emp Q: Seq 43 (len=5, min=2400): 1 1 2 2 3 
+Emp Q: Seq 44 (len=6, min=2880): 1 1 2 2 3 3 
+Emp Q: Seq 45 (len=6, min=2880): 1 1 2 2 3 4 
+Emp Q: Seq 46 (len=5, min=2400): 1 1 2 2 4 
+Emp Q: Seq 47 (len=6, min=2880): 1 1 2 2 4 4 
+Emp Q: Seq 48 (len=4, min=1920): 1 1 2 3 
+Emp Q: Seq 49 (len=5, min=2400): 1 1 2 3 3 
+Emp Q: Seq 50 (len=6, min=2880): 1 1 2 3 3 3 
+Emp Q: Seq 51 (len=6, min=2880): 1 1 2 3 3 4 
+Emp Q: Seq 52 (len=5, min=2400): 1 1 2 3 4 
+Emp Q: Seq 53 (len=6, min=2880): 1 1 2 3 4 4 
+Emp Q: Seq 54 (len=4, min=1920): 1 1 2 4 
+Emp Q: Seq 55 (len=5, min=2400): 1 1 2 4 4 
+Emp Q: Seq 56 (len=6, min=2880): 1 1 2 4 4 4 
+Emp Q: Seq 57 (len=3, min=1440): 1 1 3 
+Emp Q: Seq 58 (len=4, min=1920): 1 1 3 3 
+Emp Q: Seq 59 (len=5, min=2400): 1 1 3 3 3 
+Emp Q: Seq 60 (len=6, min=2880): 1 1 3 3 3 3 
+Emp Q: Seq 61 (len=6, min=2880): 1 1 3 3 3 4 
+Emp Q: Seq 62 (len=5, min=2400): 1 1 3 3 4 
+Emp Q: Seq 63 (len=6, min=2880): 1 1 3 3 4 4 
+Emp Q: Seq 64 (len=4, min=1920): 1 1 3 4 
+Emp Q: Seq 65 (len=5, min=2400): 1 1 3 4 4 
+Emp Q: Seq 66 (len=6, min=2880): 1 1 3 4 4 4 
+Emp Q: Seq 67 (len=3, min=1440): 1 1 4 
+Emp Q: Seq 68 (len=4, min=1920): 1 1 4 4 
+Emp Q: Seq 69 (len=5, min=2400): 1 1 4 4 4 
+Emp Q: Seq 70 (len=6, min=2880): 1 1 4 4 4 4 
+Emp Q: Seq 71 (len=2, min=960): 1 2 
+Emp Q: Seq 72 (len=3, min=1440): 1 2 2 
+Emp Q: Seq 73 (len=4, min=1920): 1 2 2 2 
+Emp Q: Seq 74 (len=5, min=2400): 1 2 2 2 2 
+Emp Q: Seq 75 (len=6, min=2880): 1 2 2 2 2 2 
+Emp Q: Seq 76 (len=6, min=2880): 1 2 2 2 2 3 
+Emp Q: Seq 77 (len=6, min=2880): 1 2 2 2 2 4 
+Emp Q: Seq 78 (len=5, min=2400): 1 2 2 2 3 
+Emp Q: Seq 79 (len=6, min=2880): 1 2 2 2 3 3 
+Emp Q: Seq 80 (len=6, min=2880): 1 2 2 2 3 4 
+Emp Q: Seq 81 (len=5, min=2400): 1 2 2 2 4 
+Emp Q: Seq 82 (len=6, min=2880): 1 2 2 2 4 4 
+Emp Q: Seq 83 (len=4, min=1920): 1 2 2 3 
+Emp Q: Seq 84 (len=5, min=2400): 1 2 2 3 3 
+Emp Q: Seq 85 (len=6, min=2880): 1 2 2 3 3 3 
+Emp Q: Seq 86 (len=6, min=2880): 1 2 2 3 3 4 
+Emp Q: Seq 87 (len=5, min=2400): 1 2 2 3 4 
+Emp Q: Seq 88 (len=6, min=2880): 1 2 2 3 4 4 
+Emp Q: Seq 89 (len=4, min=1920): 1 2 2 4 
+Emp Q: Seq 90 (len=5, min=2400): 1 2 2 4 4 
+Emp Q: Seq 91 (len=6, min=2880): 1 2 2 4 4 4 
+Emp Q: Seq 92 (len=3, min=1440): 1 2 3 
+Emp Q: Seq 93 (len=4, min=1920): 1 2 3 3 
+Emp Q: Seq 94 (len=5, min=2400): 1 2 3 3 3 
+Emp Q: Seq 95 (len=6, min=2880): 1 2 3 3 3 3 
+Emp Q: Seq 96 (len=6, min=2880): 1 2 3 3 3 4 
+Emp Q: Seq 97 (len=5, min=2400): 1 2 3 3 4 
+Emp Q: Seq 98 (len=6, min=2880): 1 2 3 3 4 4 
+Emp Q: Seq 99 (len=4, min=1920): 1 2 3 4 
+Emp Q: Seq 100 (len=5, min=2400): 1 2 3 4 4 
+Emp Q: Seq 101 (len=6, min=2880): 1 2 3 4 4 4 
+Emp Q: Seq 102 (len=3, min=1440): 1 2 4 
+Emp Q: Seq 103 (len=4, min=1920): 1 2 4 4 
+Emp Q: Seq 104 (len=5, min=2400): 1 2 4 4 4 
+Emp Q: Seq 105 (len=6, min=2880): 1 2 4 4 4 4 
+Emp Q: Seq 106 (len=2, min=960): 1 3 
+Emp Q: Seq 107 (len=3, min=1440): 1 3 3 
+Emp Q: Seq 108 (len=4, min=1920): 1 3 3 3 
+Emp Q: Seq 109 (len=5, min=2400): 1 3 3 3 3 
+Emp Q: Seq 110 (len=6, min=2880): 1 3 3 3 3 3 
+Emp Q: Seq 111 (len=6, min=2880): 1 3 3 3 3 4 
+Emp Q: Seq 112 (len=5, min=2400): 1 3 3 3 4 
+Emp Q: Seq 113 (len=6, min=2880): 1 3 3 3 4 4 
+Emp Q: Seq 114 (len=4, min=1920): 1 3 3 4 
+Emp Q: Seq 115 (len=5, min=2400): 1 3 3 4 4 
+Emp Q: Seq 116 (len=6, min=2880): 1 3 3 4 4 4 
+Emp Q: Seq 117 (len=3, min=1440): 1 3 4 
+Emp Q: Seq 118 (len=4, min=1920): 1 3 4 4 
+Emp Q: Seq 119 (len=5, min=2400): 1 3 4 4 4 
+Emp Q: Seq 120 (len=6, min=2880): 1 3 4 4 4 4 
+Emp Q: Seq 121 (len=2, min=960): 1 4 
+Emp Q: Seq 122 (len=3, min=1440): 1 4 4 
+Emp Q: Seq 123 (len=4, min=1920): 1 4 4 4 
+Emp Q: Seq 124 (len=5, min=2400): 1 4 4 4 4 
+Emp Q: Seq 125 (len=6, min=2880): 1 4 4 4 4 4 
+Emp Q: Seq 126 (len=1, min=480): 2 
+Emp Q: Seq 127 (len=2, min=960): 2 2 
+Emp Q: Seq 128 (len=3, min=1440): 2 2 2 
+Emp Q: Seq 129 (len=4, min=1920): 2 2 2 2 
+Emp Q: Seq 130 (len=5, min=2400): 2 2 2 2 2 
+Emp Q: Seq 131 (len=6, min=2880): 2 2 2 2 2 2 
+Emp Q: Seq 132 (len=6, min=2880): 2 2 2 2 2 3 
+Emp Q: Seq 133 (len=6, min=2880): 2 2 2 2 2 4 
+Emp Q: Seq 134 (len=5, min=2400): 2 2 2 2 3 
+Emp Q: Seq 135 (len=6, min=2880): 2 2 2 2 3 3 
+Emp Q: Seq 136 (len=6, min=2880): 2 2 2 2 3 4 
+Emp Q: Seq 137 (len=5, min=2400): 2 2 2 2 4 
+Emp Q: Seq 138 (len=6, min=2880): 2 2 2 2 4 4 
+Emp Q: Seq 139 (len=4, min=1920): 2 2 2 3 
+Emp Q: Seq 140 (len=5, min=2400): 2 2 2 3 3 
+Emp Q: Seq 141 (len=6, min=2880): 2 2 2 3 3 3 
+Emp Q: Seq 142 (len=6, min=2880): 2 2 2 3 3 4 
+Emp Q: Seq 143 (len=5, min=2400): 2 2 2 3 4 
+Emp Q: Seq 144 (len=6, min=2880): 2 2 2 3 4 4 
+Emp Q: Seq 145 (len=4, min=1920): 2 2 2 4 
+Emp Q: Seq 146 (len=5, min=2400): 2 2 2 4 4 
+Emp Q: Seq 147 (len=6, min=2880): 2 2 2 4 4 4 
+Emp Q: Seq 148 (len=3, min=1440): 2 2 3 
+Emp Q: Seq 149 (len=4, min=1920): 2 2 3 3 
+Emp Q: Seq 150 (len=5, min=2400): 2 2 3 3 3 
+Emp Q: Seq 151 (len=6, min=2880): 2 2 3 3 3 3 
+Emp Q: Seq 152 (len=6, min=2880): 2 2 3 3 3 4 
+Emp Q: Seq 153 (len=5, min=2400): 2 2 3 3 4 
+Emp Q: Seq 154 (len=6, min=2880): 2 2 3 3 4 4 
+Emp Q: Seq 155 (len=4, min=1920): 2 2 3 4 
+Emp Q: Seq 156 (len=5, min=2400): 2 2 3 4 4 
+Emp Q: Seq 157 (len=6, min=2880): 2 2 3 4 4 4 
+Emp Q: Seq 158 (len=3, min=1440): 2 2 4 
+Emp Q: Seq 159 (len=4, min=1920): 2 2 4 4 
+Emp Q: Seq 160 (len=5, min=2400): 2 2 4 4 4 
+Emp Q: Seq 161 (len=6, min=2880): 2 2 4 4 4 4 
+Emp Q: Seq 162 (len=2, min=960): 2 3 
+Emp Q: Seq 163 (len=3, min=1440): 2 3 3 
+Emp Q: Seq 164 (len=4, min=1920): 2 3 3 3 
+Emp Q: Seq 165 (len=5, min=2400): 2 3 3 3 3 
+Emp Q: Seq 166 (len=6, min=2880): 2 3 3 3 3 3 
+Emp Q: Seq 167 (len=6, min=2880): 2 3 3 3 3 4 
+Emp Q: Seq 168 (len=5, min=2400): 2 3 3 3 4 
+Emp Q: Seq 169 (len=6, min=2880): 2 3 3 3 4 4 
+Emp Q: Seq 170 (len=4, min=1920): 2 3 3 4 
+Emp Q: Seq 171 (len=5, min=2400): 2 3 3 4 4 
+Emp Q: Seq 172 (len=6, min=2880): 2 3 3 4 4 4 
+Emp Q: Seq 173 (len=3, min=1440): 2 3 4 
+Emp Q: Seq 174 (len=4, min=1920): 2 3 4 4 
+Emp Q: Seq 175 (len=5, min=2400): 2 3 4 4 4 
+Emp Q: Seq 176 (len=6, min=2880): 2 3 4 4 4 4 
+Emp Q: Seq 177 (len=2, min=960): 2 4 
+Emp Q: Seq 178 (len=3, min=1440): 2 4 4 
+Emp Q: Seq 179 (len=4, min=1920): 2 4 4 4 
+Emp Q: Seq 180 (len=5, min=2400): 2 4 4 4 4 
+Emp Q: Seq 181 (len=6, min=2880): 2 4 4 4 4 4 
+Emp Q: Seq 182 (len=1, min=480): 3 
+Emp Q: Seq 183 (len=2, min=960): 3 3 
+Emp Q: Seq 184 (len=3, min=1440): 3 3 3 
+Emp Q: Seq 185 (len=4, min=1920): 3 3 3 3 
+Emp Q: Seq 186 (len=5, min=2400): 3 3 3 3 3 
+Emp Q: Seq 187 (len=6, min=2880): 3 3 3 3 3 3 
+Emp Q: Seq 188 (len=6, min=2880): 3 3 3 3 3 4 
+Emp Q: Seq 189 (len=5, min=2400): 3 3 3 3 4 
+Emp Q: Seq 190 (len=6, min=2880): 3 3 3 3 4 4 
+Emp Q: Seq 191 (len=4, min=1920): 3 3 3 4 
+Emp Q: Seq 192 (len=5, min=2400): 3 3 3 4 4 
+Emp Q: Seq 193 (len=6, min=2880): 3 3 3 4 4 4 
+Emp Q: Seq 194 (len=3, min=1440): 3 3 4 
+Emp Q: Seq 195 (len=4, min=1920): 3 3 4 4 
+Emp Q: Seq 196 (len=5, min=2400): 3 3 4 4 4 
+Emp Q: Seq 197 (len=6, min=2880): 3 3 4 4 4 4 
+Emp Q: Seq 198 (len=2, min=960): 3 4 
+Emp Q: Seq 199 (len=3, min=1440): 3 4 4 
+Emp Q: Seq 200 (len=4, min=1920): 3 4 4 4 
+Emp Q: Seq 201 (len=5, min=2400): 3 4 4 4 4 
+Emp Q: Seq 202 (len=6, min=2880): 3 4 4 4 4 4 
+Emp Q: Seq 203 (len=1, min=480): 4 
+Emp Q: Seq 204 (len=2, min=960): 4 4 
+Emp Q: Seq 205 (len=3, min=1440): 4 4 4 
+Emp Q: Seq 206 (len=4, min=1920): 4 4 4 4 
+Emp Q: Seq 207 (len=5, min=2400): 4 4 4 4 4 
+Emp Q: Seq 208 (len=6, min=2880): 4 4 4 4 4 4 
+Emp R: Seq 0 (len=1, min=480): 2 
+Emp R: Seq 1 (len=2, min=960): 2 2 
+Emp R: Seq 2 (len=3, min=1440): 2 2 2 
+Emp R: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp R: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp R: Seq 5 (len=6, min=2880): 2 2 2 2 2 2 
+Emp S: Seq 0 (len=1, min=480): 2 
+Emp S: Seq 1 (len=2, min=960): 2 2 
+Emp S: Seq 2 (len=3, min=1440): 2 2 2 
+Emp S: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp S: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp S: Seq 5 (len=6, min=2880): 2 2 2 2 2 2 
+Emp S: Seq 6 (len=6, min=2880): 2 2 2 2 2 3 
+Emp S: Seq 7 (len=5, min=2400): 2 2 2 2 3 
+Emp S: Seq 8 (len=6, min=2880): 2 2 2 2 3 3 
+Emp S: Seq 9 (len=4, min=1920): 2 2 2 3 
+Emp S: Seq 10 (len=5, min=2400): 2 2 2 3 3 
+Emp S: Seq 11 (len=6, min=2880): 2 2 2 3 3 3 
+Emp S: Seq 12 (len=3, min=1440): 2 2 3 
+Emp S: Seq 13 (len=4, min=1920): 2 2 3 3 
+Emp S: Seq 14 (len=5, min=2400): 2 2 3 3 3 
+Emp S: Seq 15 (len=6, min=2880): 2 2 3 3 3 3 
+Emp S: Seq 16 (len=2, min=960): 2 3 
+Emp S: Seq 17 (len=3, min=1440): 2 3 3 
+Emp S: Seq 18 (len=4, min=1920): 2 3 3 3 
+Emp S: Seq 19 (len=5, min=2400): 2 3 3 3 3 
+Emp S: Seq 20 (len=6, min=2880): 2 3 3 3 3 3 
+Emp S: Seq 21 (len=1, min=480): 3 
+Emp S: Seq 22 (len=2, min=960): 3 3 
+Emp S: Seq 23 (len=3, min=1440): 3 3 3 
+Emp S: Seq 24 (len=4, min=1920): 3 3 3 3 
+Emp S: Seq 25 (len=5, min=2400): 3 3 3 3 3 
+Emp S: Seq 26 (len=6, min=2880): 3 3 3 3 3 3 
+Emp T: Seq 0 (len=1, min=480): 1 
+Emp T: Seq 1 (len=2, min=960): 1 1 
+Emp T: Seq 2 (len=3, min=1440): 1 1 1 
+Emp T: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp T: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp T: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp T: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp T: Seq 7 (len=6, min=2880): 1 1 1 1 1 3 
+Emp T: Seq 8 (len=5, min=2400): 1 1 1 1 2 
+Emp T: Seq 9 (len=6, min=2880): 1 1 1 1 2 2 
+Emp T: Seq 10 (len=6, min=2880): 1 1 1 1 2 3 
+Emp T: Seq 11 (len=5, min=2400): 1 1 1 1 3 
+Emp T: Seq 12 (len=6, min=2880): 1 1 1 1 3 3 
+Emp T: Seq 13 (len=4, min=1920): 1 1 1 2 
+Emp T: Seq 14 (len=5, min=2400): 1 1 1 2 2 
+Emp T: Seq 15 (len=6, min=2880): 1 1 1 2 2 2 
+Emp T: Seq 16 (len=6, min=2880): 1 1 1 2 2 3 
+Emp T: Seq 17 (len=5, min=2400): 1 1 1 2 3 
+Emp T: Seq 18 (len=6, min=2880): 1 1 1 2 3 3 
+Emp T: Seq 19 (len=4, min=1920): 1 1 1 3 
+Emp T: Seq 20 (len=5, min=2400): 1 1 1 3 3 
+Emp T: Seq 21 (len=6, min=2880): 1 1 1 3 3 3 
+Emp T: Seq 22 (len=3, min=1440): 1 1 2 
+Emp T: Seq 23 (len=4, min=1920): 1 1 2 2 
+Emp T: Seq 24 (len=5, min=2400): 1 1 2 2 2 
+Emp T: Seq 25 (len=6, min=2880): 1 1 2 2 2 2 
+Emp T: Seq 26 (len=6, min=2880): 1 1 2 2 2 3 
+Emp T: Seq 27 (len=5, min=2400): 1 1 2 2 3 
+Emp T: Seq 28 (len=6, min=2880): 1 1 2 2 3 3 
+Emp T: Seq 29 (len=4, min=1920): 1 1 2 3 
+Emp T: Seq 30 (len=5, min=2400): 1 1 2 3 3 
+Emp T: Seq 31 (len=6, min=2880): 1 1 2 3 3 3 
+Emp T: Seq 32 (len=3, min=1440): 1 1 3 
+Emp T: Seq 33 (len=4, min=1920): 1 1 3 3 
+Emp T: Seq 34 (len=5, min=2400): 1 1 3 3 3 
+Emp T: Seq 35 (len=6, min=2880): 1 1 3 3 3 3 
+Emp T: Seq 36 (len=2, min=960): 1 2 
+Emp T: Seq 37 (len=3, min=1440): 1 2 2 
+Emp T: Seq 38 (len=4, min=1920): 1 2 2 2 
+Emp T: Seq 39 (len=5, min=2400): 1 2 2 2 2 
+Emp T: Seq 40 (len=6, min=2880): 1 2 2 2 2 2 
+Emp T: Seq 41 (len=6, min=2880): 1 2 2 2 2 3 
+Emp T: Seq 42 (len=5, min=2400): 1 2 2 2 3 
+Emp T: Seq 43 (len=6, min=2880): 1 2 2 2 3 3 
+Emp T: Seq 44 (len=4, min=1920): 1 2 2 3 
+Emp T: Seq 45 (len=5, min=2400): 1 2 2 3 3 
+Emp T: Seq 46 (len=6, min=2880): 1 2 2 3 3 3 
+Emp T: Seq 47 (len=3, min=1440): 1 2 3 
+Emp T: Seq 48 (len=4, min=1920): 1 2 3 3 
+Emp T: Seq 49 (len=5, min=2400): 1 2 3 3 3 
+Emp T: Seq 50 (len=6, min=2880): 1 2 3 3 3 3 
+Emp T: Seq 51 (len=2, min=960): 1 3 
+Emp T: Seq 52 (len=3, min=1440): 1 3 3 
+Emp T: Seq 53 (len=4, min=1920): 1 3 3 3 
+Emp T: Seq 54 (len=5, min=2400): 1 3 3 3 3 
+Emp T: Seq 55 (len=6, min=2880): 1 3 3 3 3 3 
+Emp T: Seq 56 (len=1, min=480): 2 
+Emp T: Seq 57 (len=2, min=960): 2 2 
+Emp T: Seq 58 (len=3, min=1440): 2 2 2 
+Emp T: Seq 59 (len=4, min=1920): 2 2 2 2 
+Emp T: Seq 60 (len=5, min=2400): 2 2 2 2 2 
+Emp T: Seq 61 (len=6, min=2880): 2 2 2 2 2 2 
+Emp T: Seq 62 (len=6, min=2880): 2 2 2 2 2 3 
+Emp T: Seq 63 (len=5, min=2400): 2 2 2 2 3 
+Emp T: Seq 64 (len=6, min=2880): 2 2 2 2 3 3 
+Emp T: Seq 65 (len=4, min=1920): 2 2 2 3 
+Emp T: Seq 66 (len=5, min=2400): 2 2 2 3 3 
+Emp T: Seq 67 (len=6, min=2880): 2 2 2 3 3 3 
+Emp T: Seq 68 (len=3, min=1440): 2 2 3 
+Emp T: Seq 69 (len=4, min=1920): 2 2 3 3 
+Emp T: Seq 70 (len=5, min=2400): 2 2 3 3 3 
+Emp T: Seq 71 (len=6, min=2880): 2 2 3 3 3 3 
+Emp T: Seq 72 (len=2, min=960): 2 3 
+Emp T: Seq 73 (len=3, min=1440): 2 3 3 
+Emp T: Seq 74 (len=4, min=1920): 2 3 3 3 
+Emp T: Seq 75 (len=5, min=2400): 2 3 3 3 3 
+Emp T: Seq 76 (len=6, min=2880): 2 3 3 3 3 3 
+Emp T: Seq 77 (len=1, min=480): 3 
+Emp T: Seq 78 (len=2, min=960): 3 3 
+Emp T: Seq 79 (len=3, min=1440): 3 3 3 
+Emp T: Seq 80 (len=4, min=1920): 3 3 3 3 
+Emp T: Seq 81 (len=5, min=2400): 3 3 3 3 3 
+Emp T: Seq 82 (len=6, min=2880): 3 3 3 3 3 3 
+Emp U: Seq 0 (len=1, min=480): 1 
+Emp U: Seq 1 (len=2, min=960): 1 1 
+Emp U: Seq 2 (len=3, min=1440): 1 1 1 
+Emp U: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp U: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp U: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp U: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp U: Seq 7 (len=6, min=2880): 1 1 1 1 1 4 
+Emp U: Seq 8 (len=5, min=2400): 1 1 1 1 2 
+Emp U: Seq 9 (len=6, min=2880): 1 1 1 1 2 2 
+Emp U: Seq 10 (len=6, min=2880): 1 1 1 1 2 4 
+Emp U: Seq 11 (len=5, min=2400): 1 1 1 1 4 
+Emp U: Seq 12 (len=6, min=2880): 1 1 1 1 4 4 
+Emp U: Seq 13 (len=4, min=1920): 1 1 1 2 
+Emp U: Seq 14 (len=5, min=2400): 1 1 1 2 2 
+Emp U: Seq 15 (len=6, min=2880): 1 1 1 2 2 2 
+Emp U: Seq 16 (len=6, min=2880): 1 1 1 2 2 4 
+Emp U: Seq 17 (len=5, min=2400): 1 1 1 2 4 
+Emp U: Seq 18 (len=6, min=2880): 1 1 1 2 4 4 
+Emp U: Seq 19 (len=4, min=1920): 1 1 1 4 
+Emp U: Seq 20 (len=5, min=2400): 1 1 1 4 4 
+Emp U: Seq 21 (len=6, min=2880): 1 1 1 4 4 4 
+Emp U: Seq 22 (len=3, min=1440): 1 1 2 
+Emp U: Seq 23 (len=4, min=1920): 1 1 2 2 
+Emp U: Seq 24 (len=5, min=2400): 1 1 2 2 2 
+Emp U: Seq 25 (len=6, min=2880): 1 1 2 2 2 2 
+Emp U: Seq 26 (len=6, min=2880): 1 1 2 2 2 4 
+Emp U: Seq 27 (len=5, min=2400): 1 1 2 2 4 
+Emp U: Seq 28 (len=6, min=2880): 1 1 2 2 4 4 
+Emp U: Seq 29 (len=4, min=1920): 1 1 2 4 
+Emp U: Seq 30 (len=5, min=2400): 1 1 2 4 4 
+Emp U: Seq 31 (len=6, min=2880): 1 1 2 4 4 4 
+Emp U: Seq 32 (len=3, min=1440): 1 1 4 
+Emp U: Seq 33 (len=4, min=1920): 1 1 4 4 
+Emp U: Seq 34 (len=5, min=2400): 1 1 4 4 4 
+Emp U: Seq 35 (len=6, min=2880): 1 1 4 4 4 4 
+Emp U: Seq 36 (len=2, min=960): 1 2 
+Emp U: Seq 37 (len=3, min=1440): 1 2 2 
+Emp U: Seq 38 (len=4, min=1920): 1 2 2 2 
+Emp U: Seq 39 (len=5, min=2400): 1 2 2 2 2 
+Emp U: Seq 40 (len=6, min=2880): 1 2 2 2 2 2 
+Emp U: Seq 41 (len=6, min=2880): 1 2 2 2 2 4 
+Emp U: Seq 42 (len=5, min=2400): 1 2 2 2 4 
+Emp U: Seq 43 (len=6, min=2880): 1 2 2 2 4 4 
+Emp U: Seq 44 (len=4, min=1920): 1 2 2 4 
+Emp U: Seq 45 (len=5, min=2400): 1 2 2 4 4 
+Emp U: Seq 46 (len=6, min=2880): 1 2 2 4 4 4 
+Emp U: Seq 47 (len=3, min=1440): 1 2 4 
+Emp U: Seq 48 (len=4, min=1920): 1 2 4 4 
+Emp U: Seq 49 (len=5, min=2400): 1 2 4 4 4 
+Emp U: Seq 50 (len=6, min=2880): 1 2 4 4 4 4 
+Emp U: Seq 51 (len=2, min=960): 1 4 
+Emp U: Seq 52 (len=3, min=1440): 1 4 4 
+Emp U: Seq 53 (len=4, min=1920): 1 4 4 4 
+Emp U: Seq 54 (len=5, min=2400): 1 4 4 4 4 
+Emp U: Seq 55 (len=6, min=2880): 1 4 4 4 4 4 
+Emp U: Seq 56 (len=1, min=480): 2 
+Emp U: Seq 57 (len=2, min=960): 2 2 
+Emp U: Seq 58 (len=3, min=1440): 2 2 2 
+Emp U: Seq 59 (len=4, min=1920): 2 2 2 2 
+Emp U: Seq 60 (len=5, min=2400): 2 2 2 2 2 
+Emp U: Seq 61 (len=6, min=2880): 2 2 2 2 2 2 
+Emp U: Seq 62 (len=6, min=2880): 2 2 2 2 2 4 
+Emp U: Seq 63 (len=5, min=2400): 2 2 2 2 4 
+Emp U: Seq 64 (len=6, min=2880): 2 2 2 2 4 4 
+Emp U: Seq 65 (len=4, min=1920): 2 2 2 4 
+Emp U: Seq 66 (len=5, min=2400): 2 2 2 4 4 
+Emp U: Seq 67 (len=6, min=2880): 2 2 2 4 4 4 
+Emp U: Seq 68 (len=3, min=1440): 2 2 4 
+Emp U: Seq 69 (len=4, min=1920): 2 2 4 4 
+Emp U: Seq 70 (len=5, min=2400): 2 2 4 4 4 
+Emp U: Seq 71 (len=6, min=2880): 2 2 4 4 4 4 
+Emp U: Seq 72 (len=2, min=960): 2 4 
+Emp U: Seq 73 (len=3, min=1440): 2 4 4 
+Emp U: Seq 74 (len=4, min=1920): 2 4 4 4 
+Emp U: Seq 75 (len=5, min=2400): 2 4 4 4 4 
+Emp U: Seq 76 (len=6, min=2880): 2 4 4 4 4 4 
+Emp U: Seq 77 (len=1, min=480): 4 
+Emp U: Seq 78 (len=2, min=960): 4 4 
+Emp U: Seq 79 (len=3, min=1440): 4 4 4 
+Emp U: Seq 80 (len=4, min=1920): 4 4 4 4 
+Emp U: Seq 81 (len=5, min=2400): 4 4 4 4 4 
+Emp U: Seq 82 (len=6, min=2880): 4 4 4 4 4 4 
+Emp V: Seq 0 (len=1, min=480): 1 
+Emp V: Seq 1 (len=2, min=960): 1 1 
+Emp V: Seq 2 (len=3, min=1440): 1 1 1 
+Emp V: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp V: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp V: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp V: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp V: Seq 7 (len=6, min=2880): 1 1 1 1 1 3 
+Emp V: Seq 8 (len=6, min=2880): 1 1 1 1 1 4 
+Emp V: Seq 9 (len=5, min=2400): 1 1 1 1 2 
+Emp V: Seq 10 (len=6, min=2880): 1 1 1 1 2 2 
+Emp V: Seq 11 (len=6, min=2880): 1 1 1 1 2 3 
+Emp V: Seq 12 (len=6, min=2880): 1 1 1 1 2 4 
+Emp V: Seq 13 (len=5, min=2400): 1 1 1 1 3 
+Emp V: Seq 14 (len=6, min=2880): 1 1 1 1 3 3 
+Emp V: Seq 15 (len=6, min=2880): 1 1 1 1 3 4 
+Emp V: Seq 16 (len=5, min=2400): 1 1 1 1 4 
+Emp V: Seq 17 (len=6, min=2880): 1 1 1 1 4 4 
+Emp V: Seq 18 (len=4, min=1920): 1 1 1 2 
+Emp V: Seq 19 (len=5, min=2400): 1 1 1 2 2 
+Emp V: Seq 20 (len=6, min=2880): 1 1 1 2 2 2 
+Emp V: Seq 21 (len=6, min=2880): 1 1 1 2 2 3 
+Emp V: Seq 22 (len=6, min=2880): 1 1 1 2 2 4 
+Emp V: Seq 23 (len=5, min=2400): 1 1 1 2 3 
+Emp V: Seq 24 (len=6, min=2880): 1 1 1 2 3 3 
+Emp V: Seq 25 (len=6, min=2880): 1 1 1 2 3 4 
+Emp V: Seq 26 (len=5, min=2400): 1 1 1 2 4 
+Emp V: Seq 27 (len=6, min=2880): 1 1 1 2 4 4 
+Emp V: Seq 28 (len=4, min=1920): 1 1 1 3 
+Emp V: Seq 29 (len=5, min=2400): 1 1 1 3 3 
+Emp V: Seq 30 (len=6, min=2880): 1 1 1 3 3 3 
+Emp V: Seq 31 (len=6, min=2880): 1 1 1 3 3 4 
+Emp V: Seq 32 (len=5, min=2400): 1 1 1 3 4 
+Emp V: Seq 33 (len=6, min=2880): 1 1 1 3 4 4 
+Emp V: Seq 34 (len=4, min=1920): 1 1 1 4 
+Emp V: Seq 35 (len=5, min=2400): 1 1 1 4 4 
+Emp V: Seq 36 (len=6, min=2880): 1 1 1 4 4 4 
+Emp V: Seq 37 (len=3, min=1440): 1 1 2 
+Emp V: Seq 38 (len=4, min=1920): 1 1 2 2 
+Emp V: Seq 39 (len=5, min=2400): 1 1 2 2 2 
+Emp V: Seq 40 (len=6, min=2880): 1 1 2 2 2 2 
+Emp V: Seq 41 (len=6, min=2880): 1 1 2 2 2 3 
+Emp V: Seq 42 (len=6, min=2880): 1 1 2 2 2 4 
+Emp V: Seq 43 (len=5, min=2400): 1 1 2 2 3 
+Emp V: Seq 44 (len=6, min=2880): 1 1 2 2 3 3 
+Emp V: Seq 45 (len=6, min=2880): 1 1 2 2 3 4 
+Emp V: Seq 46 (len=5, min=2400): 1 1 2 2 4 
+Emp V: Seq 47 (len=6, min=2880): 1 1 2 2 4 4 
+Emp V: Seq 48 (len=4, min=1920): 1 1 2 3 
+Emp V: Seq 49 (len=5, min=2400): 1 1 2 3 3 
+Emp V: Seq 50 (len=6, min=2880): 1 1 2 3 3 3 
+Emp V: Seq 51 (len=6, min=2880): 1 1 2 3 3 4 
+Emp V: Seq 52 (len=5, min=2400): 1 1 2 3 4 
+Emp V: Seq 53 (len=6, min=2880): 1 1 2 3 4 4 
+Emp V: Seq 54 (len=4, min=1920): 1 1 2 4 
+Emp V: Seq 55 (len=5, min=2400): 1 1 2 4 4 
+Emp V: Seq 56 (len=6, min=2880): 1 1 2 4 4 4 
+Emp V: Seq 57 (len=3, min=1440): 1 1 3 
+Emp V: Seq 58 (len=4, min=1920): 1 1 3 3 
+Emp V: Seq 59 (len=5, min=2400): 1 1 3 3 3 
+Emp V: Seq 60 (len=6, min=2880): 1 1 3 3 3 3 
+Emp V: Seq 61 (len=6, min=2880): 1 1 3 3 3 4 
+Emp V: Seq 62 (len=5, min=2400): 1 1 3 3 4 
+Emp V: Seq 63 (len=6, min=2880): 1 1 3 3 4 4 
+Emp V: Seq 64 (len=4, min=1920): 1 1 3 4 
+Emp V: Seq 65 (len=5, min=2400): 1 1 3 4 4 
+Emp V: Seq 66 (len=6, min=2880): 1 1 3 4 4 4 
+Emp V: Seq 67 (len=3, min=1440): 1 1 4 
+Emp V: Seq 68 (len=4, min=1920): 1 1 4 4 
+Emp V: Seq 69 (len=5, min=2400): 1 1 4 4 4 
+Emp V: Seq 70 (len=6, min=2880): 1 1 4 4 4 4 
+Emp V: Seq 71 (len=2, min=960): 1 2 
+Emp V: Seq 72 (len=3, min=1440): 1 2 2 
+Emp V: Seq 73 (len=4, min=1920): 1 2 2 2 
+Emp V: Seq 74 (len=5, min=2400): 1 2 2 2 2 
+Emp V: Seq 75 (len=6, min=2880): 1 2 2 2 2 2 
+Emp V: Seq 76 (len=6, min=2880): 1 2 2 2 2 3 
+Emp V: Seq 77 (len=6, min=2880): 1 2 2 2 2 4 
+Emp V: Seq 78 (len=5, min=2400): 1 2 2 2 3 
+Emp V: Seq 79 (len=6, min=2880): 1 2 2 2 3 3 
+Emp V: Seq 80 (len=6, min=2880): 1 2 2 2 3 4 
+Emp V: Seq 81 (len=5, min=2400): 1 2 2 2 4 
+Emp V: Seq 82 (len=6, min=2880): 1 2 2 2 4 4 
+Emp V: Seq 83 (len=4, min=1920): 1 2 2 3 
+Emp V: Seq 84 (len=5, min=2400): 1 2 2 3 3 
+Emp V: Seq 85 (len=6, min=2880): 1 2 2 3 3 3 
+Emp V: Seq 86 (len=6, min=2880): 1 2 2 3 3 4 
+Emp V: Seq 87 (len=5, min=2400): 1 2 2 3 4 
+Emp V: Seq 88 (len=6, min=2880): 1 2 2 3 4 4 
+Emp V: Seq 89 (len=4, min=1920): 1 2 2 4 
+Emp V: Seq 90 (len=5, min=2400): 1 2 2 4 4 
+Emp V: Seq 91 (len=6, min=2880): 1 2 2 4 4 4 
+Emp V: Seq 92 (len=3, min=1440): 1 2 3 
+Emp V: Seq 93 (len=4, min=1920): 1 2 3 3 
+Emp V: Seq 94 (len=5, min=2400): 1 2 3 3 3 
+Emp V: Seq 95 (len=6, min=2880): 1 2 3 3 3 3 
+Emp V: Seq 96 (len=6, min=2880): 1 2 3 3 3 4 
+Emp V: Seq 97 (len=5, min=2400): 1 2 3 3 4 
+Emp V: Seq 98 (len=6, min=2880): 1 2 3 3 4 4 
+Emp V: Seq 99 (len=4, min=1920): 1 2 3 4 
+Emp V: Seq 100 (len=5, min=2400): 1 2 3 4 4 
+Emp V: Seq 101 (len=6, min=2880): 1 2 3 4 4 4 
+Emp V: Seq 102 (len=3, min=1440): 1 2 4 
+Emp V: Seq 103 (len=4, min=1920): 1 2 4 4 
+Emp V: Seq 104 (len=5, min=2400): 1 2 4 4 4 
+Emp V: Seq 105 (len=6, min=2880): 1 2 4 4 4 4 
+Emp V: Seq 106 (len=2, min=960): 1 3 
+Emp V: Seq 107 (len=3, min=1440): 1 3 3 
+Emp V: Seq 108 (len=4, min=1920): 1 3 3 3 
+Emp V: Seq 109 (len=5, min=2400): 1 3 3 3 3 
+Emp V: Seq 110 (len=6, min=2880): 1 3 3 3 3 3 
+Emp V: Seq 111 (len=6, min=2880): 1 3 3 3 3 4 
+Emp V: Seq 112 (len=5, min=2400): 1 3 3 3 4 
+Emp V: Seq 113 (len=6, min=2880): 1 3 3 3 4 4 
+Emp V: Seq 114 (len=4, min=1920): 1 3 3 4 
+Emp V: Seq 115 (len=5, min=2400): 1 3 3 4 4 
+Emp V: Seq 116 (len=6, min=2880): 1 3 3 4 4 4 
+Emp V: Seq 117 (len=3, min=1440): 1 3 4 
+Emp V: Seq 118 (len=4, min=1920): 1 3 4 4 
+Emp V: Seq 119 (len=5, min=2400): 1 3 4 4 4 
+Emp V: Seq 120 (len=6, min=2880): 1 3 4 4 4 4 
+Emp V: Seq 121 (len=2, min=960): 1 4 
+Emp V: Seq 122 (len=3, min=1440): 1 4 4 
+Emp V: Seq 123 (len=4, min=1920): 1 4 4 4 
+Emp V: Seq 124 (len=5, min=2400): 1 4 4 4 4 
+Emp V: Seq 125 (len=6, min=2880): 1 4 4 4 4 4 
+Emp V: Seq 126 (len=1, min=480): 2 
+Emp V: Seq 127 (len=2, min=960): 2 2 
+Emp V: Seq 128 (len=3, min=1440): 2 2 2 
+Emp V: Seq 129 (len=4, min=1920): 2 2 2 2 
+Emp V: Seq 130 (len=5, min=2400): 2 2 2 2 2 
+Emp V: Seq 131 (len=6, min=2880): 2 2 2 2 2 2 
+Emp V: Seq 132 (len=6, min=2880): 2 2 2 2 2 3 
+Emp V: Seq 133 (len=6, min=2880): 2 2 2 2 2 4 
+Emp V: Seq 134 (len=5, min=2400): 2 2 2 2 3 
+Emp V: Seq 135 (len=6, min=2880): 2 2 2 2 3 3 
+Emp V: Seq 136 (len=6, min=2880): 2 2 2 2 3 4 
+Emp V: Seq 137 (len=5, min=2400): 2 2 2 2 4 
+Emp V: Seq 138 (len=6, min=2880): 2 2 2 2 4 4 
+Emp V: Seq 139 (len=4, min=1920): 2 2 2 3 
+Emp V: Seq 140 (len=5, min=2400): 2 2 2 3 3 
+Emp V: Seq 141 (len=6, min=2880): 2 2 2 3 3 3 
+Emp V: Seq 142 (len=6, min=2880): 2 2 2 3 3 4 
+Emp V: Seq 143 (len=5, min=2400): 2 2 2 3 4 
+Emp V: Seq 144 (len=6, min=2880): 2 2 2 3 4 4 
+Emp V: Seq 145 (len=4, min=1920): 2 2 2 4 
+Emp V: Seq 146 (len=5, min=2400): 2 2 2 4 4 
+Emp V: Seq 147 (len=6, min=2880): 2 2 2 4 4 4 
+Emp V: Seq 148 (len=3, min=1440): 2 2 3 
+Emp V: Seq 149 (len=4, min=1920): 2 2 3 3 
+Emp V: Seq 150 (len=5, min=2400): 2 2 3 3 3 
+Emp V: Seq 151 (len=6, min=2880): 2 2 3 3 3 3 
+Emp V: Seq 152 (len=6, min=2880): 2 2 3 3 3 4 
+Emp V: Seq 153 (len=5, min=2400): 2 2 3 3 4 
+Emp V: Seq 154 (len=6, min=2880): 2 2 3 3 4 4 
+Emp V: Seq 155 (len=4, min=1920): 2 2 3 4 
+Emp V: Seq 156 (len=5, min=2400): 2 2 3 4 4 
+Emp V: Seq 157 (len=6, min=2880): 2 2 3 4 4 4 
+Emp V: Seq 158 (len=3, min=1440): 2 2 4 
+Emp V: Seq 159 (len=4, min=1920): 2 2 4 4 
+Emp V: Seq 160 (len=5, min=2400): 2 2 4 4 4 
+Emp V: Seq 161 (len=6, min=2880): 2 2 4 4 4 4 
+Emp V: Seq 162 (len=2, min=960): 2 3 
+Emp V: Seq 163 (len=3, min=1440): 2 3 3 
+Emp V: Seq 164 (len=4, min=1920): 2 3 3 3 
+Emp V: Seq 165 (len=5, min=2400): 2 3 3 3 3 
+Emp V: Seq 166 (len=6, min=2880): 2 3 3 3 3 3 
+Emp V: Seq 167 (len=6, min=2880): 2 3 3 3 3 4 
+Emp V: Seq 168 (len=5, min=2400): 2 3 3 3 4 
+Emp V: Seq 169 (len=6, min=2880): 2 3 3 3 4 4 
+Emp V: Seq 170 (len=4, min=1920): 2 3 3 4 
+Emp V: Seq 171 (len=5, min=2400): 2 3 3 4 4 
+Emp V: Seq 172 (len=6, min=2880): 2 3 3 4 4 4 
+Emp V: Seq 173 (len=3, min=1440): 2 3 4 
+Emp V: Seq 174 (len=4, min=1920): 2 3 4 4 
+Emp V: Seq 175 (len=5, min=2400): 2 3 4 4 4 
+Emp V: Seq 176 (len=6, min=2880): 2 3 4 4 4 4 
+Emp V: Seq 177 (len=2, min=960): 2 4 
+Emp V: Seq 178 (len=3, min=1440): 2 4 4 
+Emp V: Seq 179 (len=4, min=1920): 2 4 4 4 
+Emp V: Seq 180 (len=5, min=2400): 2 4 4 4 4 
+Emp V: Seq 181 (len=6, min=2880): 2 4 4 4 4 4 
+Emp V: Seq 182 (len=1, min=480): 3 
+Emp V: Seq 183 (len=2, min=960): 3 3 
+Emp V: Seq 184 (len=3, min=1440): 3 3 3 
+Emp V: Seq 185 (len=4, min=1920): 3 3 3 3 
+Emp V: Seq 186 (len=5, min=2400): 3 3 3 3 3 
+Emp V: Seq 187 (len=6, min=2880): 3 3 3 3 3 3 
+Emp V: Seq 188 (len=6, min=2880): 3 3 3 3 3 4 
+Emp V: Seq 189 (len=5, min=2400): 3 3 3 3 4 
+Emp V: Seq 190 (len=6, min=2880): 3 3 3 3 4 4 
+Emp V: Seq 191 (len=4, min=1920): 3 3 3 4 
+Emp V: Seq 192 (len=5, min=2400): 3 3 3 4 4 
+Emp V: Seq 193 (len=6, min=2880): 3 3 3 4 4 4 
+Emp V: Seq 194 (len=3, min=1440): 3 3 4 
+Emp V: Seq 195 (len=4, min=1920): 3 3 4 4 
+Emp V: Seq 196 (len=5, min=2400): 3 3 4 4 4 
+Emp V: Seq 197 (len=6, min=2880): 3 3 4 4 4 4 
+Emp V: Seq 198 (len=2, min=960): 3 4 
+Emp V: Seq 199 (len=3, min=1440): 3 4 4 
+Emp V: Seq 200 (len=4, min=1920): 3 4 4 4 
+Emp V: Seq 201 (len=5, min=2400): 3 4 4 4 4 
+Emp V: Seq 202 (len=6, min=2880): 3 4 4 4 4 4 
+Emp V: Seq 203 (len=1, min=480): 4 
+Emp V: Seq 204 (len=2, min=960): 4 4 
+Emp V: Seq 205 (len=3, min=1440): 4 4 4 
+Emp V: Seq 206 (len=4, min=1920): 4 4 4 4 
+Emp V: Seq 207 (len=5, min=2400): 4 4 4 4 4 
+Emp V: Seq 208 (len=6, min=2880): 4 4 4 4 4 4 
+Emp W: Seq 0 (len=1, min=480): 1 
+Emp W: Seq 1 (len=2, min=960): 1 1 
+Emp W: Seq 2 (len=3, min=1440): 1 1 1 
+Emp W: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp W: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp W: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp W: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp W: Seq 7 (len=6, min=2880): 1 1 1 1 1 4 
+Emp W: Seq 8 (len=5, min=2400): 1 1 1 1 2 
+Emp W: Seq 9 (len=6, min=2880): 1 1 1 1 2 2 
+Emp W: Seq 10 (len=6, min=2880): 1 1 1 1 2 4 
+Emp W: Seq 11 (len=5, min=2400): 1 1 1 1 4 
+Emp W: Seq 12 (len=6, min=2880): 1 1 1 1 4 4 
+Emp W: Seq 13 (len=4, min=1920): 1 1 1 2 
+Emp W: Seq 14 (len=5, min=2400): 1 1 1 2 2 
+Emp W: Seq 15 (len=6, min=2880): 1 1 1 2 2 2 
+Emp W: Seq 16 (len=6, min=2880): 1 1 1 2 2 4 
+Emp W: Seq 17 (len=5, min=2400): 1 1 1 2 4 
+Emp W: Seq 18 (len=6, min=2880): 1 1 1 2 4 4 
+Emp W: Seq 19 (len=4, min=1920): 1 1 1 4 
+Emp W: Seq 20 (len=5, min=2400): 1 1 1 4 4 
+Emp W: Seq 21 (len=6, min=2880): 1 1 1 4 4 4 
+Emp W: Seq 22 (len=3, min=1440): 1 1 2 
+Emp W: Seq 23 (len=4, min=1920): 1 1 2 2 
+Emp W: Seq 24 (len=5, min=2400): 1 1 2 2 2 
+Emp W: Seq 25 (len=6, min=2880): 1 1 2 2 2 2 
+Emp W: Seq 26 (len=6, min=2880): 1 1 2 2 2 4 
+Emp W: Seq 27 (len=5, min=2400): 1 1 2 2 4 
+Emp W: Seq 28 (len=6, min=2880): 1 1 2 2 4 4 
+Emp W: Seq 29 (len=4, min=1920): 1 1 2 4 
+Emp W: Seq 30 (len=5, min=2400): 1 1 2 4 4 
+Emp W: Seq 31 (len=6, min=2880): 1 1 2 4 4 4 
+Emp W: Seq 32 (len=3, min=1440): 1 1 4 
+Emp W: Seq 33 (len=4, min=1920): 1 1 4 4 
+Emp W: Seq 34 (len=5, min=2400): 1 1 4 4 4 
+Emp W: Seq 35 (len=6, min=2880): 1 1 4 4 4 4 
+Emp W: Seq 36 (len=2, min=960): 1 2 
+Emp W: Seq 37 (len=3, min=1440): 1 2 2 
+Emp W: Seq 38 (len=4, min=1920): 1 2 2 2 
+Emp W: Seq 39 (len=5, min=2400): 1 2 2 2 2 
+Emp W: Seq 40 (len=6, min=2880): 1 2 2 2 2 2 
+Emp W: Seq 41 (len=6, min=2880): 1 2 2 2 2 4 
+Emp W: Seq 42 (len=5, min=2400): 1 2 2 2 4 
+Emp W: Seq 43 (len=6, min=2880): 1 2 2 2 4 4 
+Emp W: Seq 44 (len=4, min=1920): 1 2 2 4 
+Emp W: Seq 45 (len=5, min=2400): 1 2 2 4 4 
+Emp W: Seq 46 (len=6, min=2880): 1 2 2 4 4 4 
+Emp W: Seq 47 (len=3, min=1440): 1 2 4 
+Emp W: Seq 48 (len=4, min=1920): 1 2 4 4 
+Emp W: Seq 49 (len=5, min=2400): 1 2 4 4 4 
+Emp W: Seq 50 (len=6, min=2880): 1 2 4 4 4 4 
+Emp W: Seq 51 (len=2, min=960): 1 4 
+Emp W: Seq 52 (len=3, min=1440): 1 4 4 
+Emp W: Seq 53 (len=4, min=1920): 1 4 4 4 
+Emp W: Seq 54 (len=5, min=2400): 1 4 4 4 4 
+Emp W: Seq 55 (len=6, min=2880): 1 4 4 4 4 4 
+Emp W: Seq 56 (len=1, min=480): 2 
+Emp W: Seq 57 (len=2, min=960): 2 2 
+Emp W: Seq 58 (len=3, min=1440): 2 2 2 
+Emp W: Seq 59 (len=4, min=1920): 2 2 2 2 
+Emp W: Seq 60 (len=5, min=2400): 2 2 2 2 2 
+Emp W: Seq 61 (len=6, min=2880): 2 2 2 2 2 2 
+Emp W: Seq 62 (len=6, min=2880): 2 2 2 2 2 4 
+Emp W: Seq 63 (len=5, min=2400): 2 2 2 2 4 
+Emp W: Seq 64 (len=6, min=2880): 2 2 2 2 4 4 
+Emp W: Seq 65 (len=4, min=1920): 2 2 2 4 
+Emp W: Seq 66 (len=5, min=2400): 2 2 2 4 4 
+Emp W: Seq 67 (len=6, min=2880): 2 2 2 4 4 4 
+Emp W: Seq 68 (len=3, min=1440): 2 2 4 
+Emp W: Seq 69 (len=4, min=1920): 2 2 4 4 
+Emp W: Seq 70 (len=5, min=2400): 2 2 4 4 4 
+Emp W: Seq 71 (len=6, min=2880): 2 2 4 4 4 4 
+Emp W: Seq 72 (len=2, min=960): 2 4 
+Emp W: Seq 73 (len=3, min=1440): 2 4 4 
+Emp W: Seq 74 (len=4, min=1920): 2 4 4 4 
+Emp W: Seq 75 (len=5, min=2400): 2 4 4 4 4 
+Emp W: Seq 76 (len=6, min=2880): 2 4 4 4 4 4 
+Emp W: Seq 77 (len=1, min=480): 4 
+Emp W: Seq 78 (len=2, min=960): 4 4 
+Emp W: Seq 79 (len=3, min=1440): 4 4 4 
+Emp W: Seq 80 (len=4, min=1920): 4 4 4 4 
+Emp W: Seq 81 (len=5, min=2400): 4 4 4 4 4 
+Emp W: Seq 82 (len=6, min=2880): 4 4 4 4 4 4 
+Emp X: Seq 0 (len=1, min=480): 2 
+Emp X: Seq 1 (len=2, min=960): 2 2 
+Emp X: Seq 2 (len=3, min=1440): 2 2 2 
+Emp X: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp X: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp X: Seq 5 (len=5, min=2400): 2 2 2 2 4 
+Emp X: Seq 6 (len=4, min=1920): 2 2 2 4 
+Emp X: Seq 7 (len=5, min=2400): 2 2 2 4 4 
+Emp X: Seq 8 (len=3, min=1440): 2 2 4 
+Emp X: Seq 9 (len=4, min=1920): 2 2 4 4 
+Emp X: Seq 10 (len=5, min=2400): 2 2 4 4 4 
+Emp X: Seq 11 (len=2, min=960): 2 4 
+Emp X: Seq 12 (len=3, min=1440): 2 4 4 
+Emp X: Seq 13 (len=4, min=1920): 2 4 4 4 
+Emp X: Seq 14 (len=5, min=2400): 2 4 4 4 4 
+Emp X: Seq 15 (len=1, min=480): 4 
+Emp X: Seq 16 (len=2, min=960): 4 4 
+Emp X: Seq 17 (len=3, min=1440): 4 4 4 
+Emp X: Seq 18 (len=4, min=1920): 4 4 4 4 
+Emp X: Seq 19 (len=5, min=2400): 4 4 4 4 4 
+Emp Y: Seq 0 (len=1, min=480): 2 
+Emp Y: Seq 1 (len=2, min=960): 2 2 
+Emp Y: Seq 2 (len=3, min=1440): 2 2 2 
+Emp Y: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp Y: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp Y: Seq 5 (len=5, min=2400): 2 2 2 2 3 
+Emp Y: Seq 6 (len=4, min=1920): 2 2 2 3 
+Emp Y: Seq 7 (len=5, min=2400): 2 2 2 3 3 
+Emp Y: Seq 8 (len=3, min=1440): 2 2 3 
+Emp Y: Seq 9 (len=4, min=1920): 2 2 3 3 
+Emp Y: Seq 10 (len=5, min=2400): 2 2 3 3 3 
+Emp Y: Seq 11 (len=2, min=960): 2 3 
+Emp Y: Seq 12 (len=3, min=1440): 2 3 3 
+Emp Y: Seq 13 (len=4, min=1920): 2 3 3 3 
+Emp Y: Seq 14 (len=5, min=2400): 2 3 3 3 3 
+Emp Y: Seq 15 (len=1, min=480): 3 
+Emp Y: Seq 16 (len=2, min=960): 3 3 
+Emp Y: Seq 17 (len=3, min=1440): 3 3 3 
+Emp Y: Seq 18 (len=4, min=1920): 3 3 3 3 
+Emp Y: Seq 19 (len=5, min=2400): 3 3 3 3 3 
+Emp Z: Seq 0 (len=1, min=480): 1 
+Emp Z: Seq 1 (len=2, min=960): 1 1 
+Emp Z: Seq 2 (len=3, min=1440): 1 1 1 
+Emp Z: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp Z: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp Z: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp Z: Seq 6 (len=5, min=2400): 1 1 1 1 3 
+Emp Z: Seq 7 (len=5, min=2400): 1 1 1 1 4 
+Emp Z: Seq 8 (len=4, min=1920): 1 1 1 2 
+Emp Z: Seq 9 (len=5, min=2400): 1 1 1 2 2 
+Emp Z: Seq 10 (len=5, min=2400): 1 1 1 2 3 
+Emp Z: Seq 11 (len=5, min=2400): 1 1 1 2 4 
+Emp Z: Seq 12 (len=4, min=1920): 1 1 1 3 
+Emp Z: Seq 13 (len=5, min=2400): 1 1 1 3 3 
+Emp Z: Seq 14 (len=5, min=2400): 1 1 1 3 4 
+Emp Z: Seq 15 (len=4, min=1920): 1 1 1 4 
+Emp Z: Seq 16 (len=5, min=2400): 1 1 1 4 4 
+Emp Z: Seq 17 (len=3, min=1440): 1 1 2 
+Emp Z: Seq 18 (len=4, min=1920): 1 1 2 2 
+Emp Z: Seq 19 (len=5, min=2400): 1 1 2 2 2 
+Emp Z: Seq 20 (len=5, min=2400): 1 1 2 2 3 
+Emp Z: Seq 21 (len=5, min=2400): 1 1 2 2 4 
+Emp Z: Seq 22 (len=4, min=1920): 1 1 2 3 
+Emp Z: Seq 23 (len=5, min=2400): 1 1 2 3 3 
+Emp Z: Seq 24 (len=5, min=2400): 1 1 2 3 4 
+Emp Z: Seq 25 (len=4, min=1920): 1 1 2 4 
+Emp Z: Seq 26 (len=5, min=2400): 1 1 2 4 4 
+Emp Z: Seq 27 (len=3, min=1440): 1 1 3 
+Emp Z: Seq 28 (len=4, min=1920): 1 1 3 3 
+Emp Z: Seq 29 (len=5, min=2400): 1 1 3 3 3 
+Emp Z: Seq 30 (len=5, min=2400): 1 1 3 3 4 
+Emp Z: Seq 31 (len=4, min=1920): 1 1 3 4 
+Emp Z: Seq 32 (len=5, min=2400): 1 1 3 4 4 
+Emp Z: Seq 33 (len=3, min=1440): 1 1 4 
+Emp Z: Seq 34 (len=4, min=1920): 1 1 4 4 
+Emp Z: Seq 35 (len=5, min=2400): 1 1 4 4 4 
+Emp Z: Seq 36 (len=2, min=960): 1 2 
+Emp Z: Seq 37 (len=3, min=1440): 1 2 2 
+Emp Z: Seq 38 (len=4, min=1920): 1 2 2 2 
+Emp Z: Seq 39 (len=5, min=2400): 1 2 2 2 2 
+Emp Z: Seq 40 (len=5, min=2400): 1 2 2 2 3 
+Emp Z: Seq 41 (len=5, min=2400): 1 2 2 2 4 
+Emp Z: Seq 42 (len=4, min=1920): 1 2 2 3 
+Emp Z: Seq 43 (len=5, min=2400): 1 2 2 3 3 
+Emp Z: Seq 44 (len=5, min=2400): 1 2 2 3 4 
+Emp Z: Seq 45 (len=4, min=1920): 1 2 2 4 
+Emp Z: Seq 46 (len=5, min=2400): 1 2 2 4 4 
+Emp Z: Seq 47 (len=3, min=1440): 1 2 3 
+Emp Z: Seq 48 (len=4, min=1920): 1 2 3 3 
+Emp Z: Seq 49 (len=5, min=2400): 1 2 3 3 3 
+Emp Z: Seq 50 (len=5, min=2400): 1 2 3 3 4 
+Emp Z: Seq 51 (len=4, min=1920): 1 2 3 4 
+Emp Z: Seq 52 (len=5, min=2400): 1 2 3 4 4 
+Emp Z: Seq 53 (len=3, min=1440): 1 2 4 
+Emp Z: Seq 54 (len=4, min=1920): 1 2 4 4 
+Emp Z: Seq 55 (len=5, min=2400): 1 2 4 4 4 
+Emp Z: Seq 56 (len=2, min=960): 1 3 
+Emp Z: Seq 57 (len=3, min=1440): 1 3 3 
+Emp Z: Seq 58 (len=4, min=1920): 1 3 3 3 
+Emp Z: Seq 59 (len=5, min=2400): 1 3 3 3 3 
+Emp Z: Seq 60 (len=5, min=2400): 1 3 3 3 4 
+Emp Z: Seq 61 (len=4, min=1920): 1 3 3 4 
+Emp Z: Seq 62 (len=5, min=2400): 1 3 3 4 4 
+Emp Z: Seq 63 (len=3, min=1440): 1 3 4 
+Emp Z: Seq 64 (len=4, min=1920): 1 3 4 4 
+Emp Z: Seq 65 (len=5, min=2400): 1 3 4 4 4 
+Emp Z: Seq 66 (len=2, min=960): 1 4 
+Emp Z: Seq 67 (len=3, min=1440): 1 4 4 
+Emp Z: Seq 68 (len=4, min=1920): 1 4 4 4 
+Emp Z: Seq 69 (len=5, min=2400): 1 4 4 4 4 
+Emp Z: Seq 70 (len=1, min=480): 2 
+Emp Z: Seq 71 (len=2, min=960): 2 2 
+Emp Z: Seq 72 (len=3, min=1440): 2 2 2 
+Emp Z: Seq 73 (len=4, min=1920): 2 2 2 2 
+Emp Z: Seq 74 (len=5, min=2400): 2 2 2 2 2 
+Emp Z: Seq 75 (len=5, min=2400): 2 2 2 2 3 
+Emp Z: Seq 76 (len=5, min=2400): 2 2 2 2 4 
+Emp Z: Seq 77 (len=4, min=1920): 2 2 2 3 
+Emp Z: Seq 78 (len=5, min=2400): 2 2 2 3 3 
+Emp Z: Seq 79 (len=5, min=2400): 2 2 2 3 4 
+Emp Z: Seq 80 (len=4, min=1920): 2 2 2 4 
+Emp Z: Seq 81 (len=5, min=2400): 2 2 2 4 4 
+Emp Z: Seq 82 (len=3, min=1440): 2 2 3 
+Emp Z: Seq 83 (len=4, min=1920): 2 2 3 3 
+Emp Z: Seq 84 (len=5, min=2400): 2 2 3 3 3 
+Emp Z: Seq 85 (len=5, min=2400): 2 2 3 3 4 
+Emp Z: Seq 86 (len=4, min=1920): 2 2 3 4 
+Emp Z: Seq 87 (len=5, min=2400): 2 2 3 4 4 
+Emp Z: Seq 88 (len=3, min=1440): 2 2 4 
+Emp Z: Seq 89 (len=4, min=1920): 2 2 4 4 
+Emp Z: Seq 90 (len=5, min=2400): 2 2 4 4 4 
+Emp Z: Seq 91 (len=2, min=960): 2 3 
+Emp Z: Seq 92 (len=3, min=1440): 2 3 3 
+Emp Z: Seq 93 (len=4, min=1920): 2 3 3 3 
+Emp Z: Seq 94 (len=5, min=2400): 2 3 3 3 3 
+Emp Z: Seq 95 (len=5, min=2400): 2 3 3 3 4 
+Emp Z: Seq 96 (len=4, min=1920): 2 3 3 4 
+Emp Z: Seq 97 (len=5, min=2400): 2 3 3 4 4 
+Emp Z: Seq 98 (len=3, min=1440): 2 3 4 
+Emp Z: Seq 99 (len=4, min=1920): 2 3 4 4 
+Emp Z: Seq 100 (len=5, min=2400): 2 3 4 4 4 
+Emp Z: Seq 101 (len=2, min=960): 2 4 
+Emp Z: Seq 102 (len=3, min=1440): 2 4 4 
+Emp Z: Seq 103 (len=4, min=1920): 2 4 4 4 
+Emp Z: Seq 104 (len=5, min=2400): 2 4 4 4 4 
+Emp Z: Seq 105 (len=1, min=480): 3 
+Emp Z: Seq 106 (len=2, min=960): 3 3 
+Emp Z: Seq 107 (len=3, min=1440): 3 3 3 
+Emp Z: Seq 108 (len=4, min=1920): 3 3 3 3 
+Emp Z: Seq 109 (len=5, min=2400): 3 3 3 3 3 
+Emp Z: Seq 110 (len=5, min=2400): 3 3 3 3 4 
+Emp Z: Seq 111 (len=4, min=1920): 3 3 3 4 
+Emp Z: Seq 112 (len=5, min=2400): 3 3 3 4 4 
+Emp Z: Seq 113 (len=3, min=1440): 3 3 4 
+Emp Z: Seq 114 (len=4, min=1920): 3 3 4 4 
+Emp Z: Seq 115 (len=5, min=2400): 3 3 4 4 4 
+Emp Z: Seq 116 (len=2, min=960): 3 4 
+Emp Z: Seq 117 (len=3, min=1440): 3 4 4 
+Emp Z: Seq 118 (len=4, min=1920): 3 4 4 4 
+Emp Z: Seq 119 (len=5, min=2400): 3 4 4 4 4 
+Emp Z: Seq 120 (len=1, min=480): 4 
+Emp Z: Seq 121 (len=2, min=960): 4 4 
+Emp Z: Seq 122 (len=3, min=1440): 4 4 4 
+Emp Z: Seq 123 (len=4, min=1920): 4 4 4 4 
+Emp Z: Seq 124 (len=5, min=2400): 4 4 4 4 4 
+Emp AA: Seq 0 (len=1, min=480): 2 
+Emp AA: Seq 1 (len=2, min=960): 2 2 
+Emp AA: Seq 2 (len=3, min=1440): 2 2 2 
+Emp AA: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp AA: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp AA: Seq 5 (len=5, min=2400): 2 2 2 2 3 
+Emp AA: Seq 6 (len=5, min=2400): 2 2 2 2 4 
+Emp AA: Seq 7 (len=4, min=1920): 2 2 2 3 
+Emp AA: Seq 8 (len=5, min=2400): 2 2 2 3 3 
+Emp AA: Seq 9 (len=5, min=2400): 2 2 2 3 4 
+Emp AA: Seq 10 (len=4, min=1920): 2 2 2 4 
+Emp AA: Seq 11 (len=5, min=2400): 2 2 2 4 4 
+Emp AA: Seq 12 (len=3, min=1440): 2 2 3 
+Emp AA: Seq 13 (len=4, min=1920): 2 2 3 3 
+Emp AA: Seq 14 (len=5, min=2400): 2 2 3 3 3 
+Emp AA: Seq 15 (len=5, min=2400): 2 2 3 3 4 
+Emp AA: Seq 16 (len=4, min=1920): 2 2 3 4 
+Emp AA: Seq 17 (len=5, min=2400): 2 2 3 4 4 
+Emp AA: Seq 18 (len=3, min=1440): 2 2 4 
+Emp AA: Seq 19 (len=4, min=1920): 2 2 4 4 
+Emp AA: Seq 20 (len=5, min=2400): 2 2 4 4 4 
+Emp AA: Seq 21 (len=2, min=960): 2 3 
+Emp AA: Seq 22 (len=3, min=1440): 2 3 3 
+Emp AA: Seq 23 (len=4, min=1920): 2 3 3 3 
+Emp AA: Seq 24 (len=5, min=2400): 2 3 3 3 3 
+Emp AA: Seq 25 (len=5, min=2400): 2 3 3 3 4 
+Emp AA: Seq 26 (len=4, min=1920): 2 3 3 4 
+Emp AA: Seq 27 (len=5, min=2400): 2 3 3 4 4 
+Emp AA: Seq 28 (len=3, min=1440): 2 3 4 
+Emp AA: Seq 29 (len=4, min=1920): 2 3 4 4 
+Emp AA: Seq 30 (len=5, min=2400): 2 3 4 4 4 
+Emp AA: Seq 31 (len=2, min=960): 2 4 
+Emp AA: Seq 32 (len=3, min=1440): 2 4 4 
+Emp AA: Seq 33 (len=4, min=1920): 2 4 4 4 
+Emp AA: Seq 34 (len=5, min=2400): 2 4 4 4 4 
+Emp AA: Seq 35 (len=1, min=480): 3 
+Emp AA: Seq 36 (len=2, min=960): 3 3 
+Emp AA: Seq 37 (len=3, min=1440): 3 3 3 
+Emp AA: Seq 38 (len=4, min=1920): 3 3 3 3 
+Emp AA: Seq 39 (len=5, min=2400): 3 3 3 3 3 
+Emp AA: Seq 40 (len=5, min=2400): 3 3 3 3 4 
+Emp AA: Seq 41 (len=4, min=1920): 3 3 3 4 
+Emp AA: Seq 42 (len=5, min=2400): 3 3 3 4 4 
+Emp AA: Seq 43 (len=3, min=1440): 3 3 4 
+Emp AA: Seq 44 (len=4, min=1920): 3 3 4 4 
+Emp AA: Seq 45 (len=5, min=2400): 3 3 4 4 4 
+Emp AA: Seq 46 (len=2, min=960): 3 4 
+Emp AA: Seq 47 (len=3, min=1440): 3 4 4 
+Emp AA: Seq 48 (len=4, min=1920): 3 4 4 4 
+Emp AA: Seq 49 (len=5, min=2400): 3 4 4 4 4 
+Emp AA: Seq 50 (len=1, min=480): 4 
+Emp AA: Seq 51 (len=2, min=960): 4 4 
+Emp AA: Seq 52 (len=3, min=1440): 4 4 4 
+Emp AA: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp AA: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Emp AB: Seq 0 (len=1, min=480): 1 
+Emp AB: Seq 1 (len=2, min=960): 1 1 
+Emp AB: Seq 2 (len=3, min=1440): 1 1 1 
+Emp AB: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp AB: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp AB: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp AB: Seq 6 (len=5, min=2400): 1 1 1 1 3 
+Emp AB: Seq 7 (len=5, min=2400): 1 1 1 1 4 
+Emp AB: Seq 8 (len=4, min=1920): 1 1 1 2 
+Emp AB: Seq 9 (len=5, min=2400): 1 1 1 2 2 
+Emp AB: Seq 10 (len=5, min=2400): 1 1 1 2 3 
+Emp AB: Seq 11 (len=5, min=2400): 1 1 1 2 4 
+Emp AB: Seq 12 (len=4, min=1920): 1 1 1 3 
+Emp AB: Seq 13 (len=5, min=2400): 1 1 1 3 3 
+Emp AB: Seq 14 (len=5, min=2400): 1 1 1 3 4 
+Emp AB: Seq 15 (len=4, min=1920): 1 1 1 4 
+Emp AB: Seq 16 (len=5, min=2400): 1 1 1 4 4 
+Emp AB: Seq 17 (len=3, min=1440): 1 1 2 
+Emp AB: Seq 18 (len=4, min=1920): 1 1 2 2 
+Emp AB: Seq 19 (len=5, min=2400): 1 1 2 2 2 
+Emp AB: Seq 20 (len=5, min=2400): 1 1 2 2 3 
+Emp AB: Seq 21 (len=5, min=2400): 1 1 2 2 4 
+Emp AB: Seq 22 (len=4, min=1920): 1 1 2 3 
+Emp AB: Seq 23 (len=5, min=2400): 1 1 2 3 3 
+Emp AB: Seq 24 (len=5, min=2400): 1 1 2 3 4 
+Emp AB: Seq 25 (len=4, min=1920): 1 1 2 4 
+Emp AB: Seq 26 (len=5, min=2400): 1 1 2 4 4 
+Emp AB: Seq 27 (len=3, min=1440): 1 1 3 
+Emp AB: Seq 28 (len=4, min=1920): 1 1 3 3 
+Emp AB: Seq 29 (len=5, min=2400): 1 1 3 3 3 
+Emp AB: Seq 30 (len=5, min=2400): 1 1 3 3 4 
+Emp AB: Seq 31 (len=4, min=1920): 1 1 3 4 
+Emp AB: Seq 32 (len=5, min=2400): 1 1 3 4 4 
+Emp AB: Seq 33 (len=3, min=1440): 1 1 4 
+Emp AB: Seq 34 (len=4, min=1920): 1 1 4 4 
+Emp AB: Seq 35 (len=5, min=2400): 1 1 4 4 4 
+Emp AB: Seq 36 (len=2, min=960): 1 2 
+Emp AB: Seq 37 (len=3, min=1440): 1 2 2 
+Emp AB: Seq 38 (len=4, min=1920): 1 2 2 2 
+Emp AB: Seq 39 (len=5, min=2400): 1 2 2 2 2 
+Emp AB: Seq 40 (len=5, min=2400): 1 2 2 2 3 
+Emp AB: Seq 41 (len=5, min=2400): 1 2 2 2 4 
+Emp AB: Seq 42 (len=4, min=1920): 1 2 2 3 
+Emp AB: Seq 43 (len=5, min=2400): 1 2 2 3 3 
+Emp AB: Seq 44 (len=5, min=2400): 1 2 2 3 4 
+Emp AB: Seq 45 (len=4, min=1920): 1 2 2 4 
+Emp AB: Seq 46 (len=5, min=2400): 1 2 2 4 4 
+Emp AB: Seq 47 (len=3, min=1440): 1 2 3 
+Emp AB: Seq 48 (len=4, min=1920): 1 2 3 3 
+Emp AB: Seq 49 (len=5, min=2400): 1 2 3 3 3 
+Emp AB: Seq 50 (len=5, min=2400): 1 2 3 3 4 
+Emp AB: Seq 51 (len=4, min=1920): 1 2 3 4 
+Emp AB: Seq 52 (len=5, min=2400): 1 2 3 4 4 
+Emp AB: Seq 53 (len=3, min=1440): 1 2 4 
+Emp AB: Seq 54 (len=4, min=1920): 1 2 4 4 
+Emp AB: Seq 55 (len=5, min=2400): 1 2 4 4 4 
+Emp AB: Seq 56 (len=2, min=960): 1 3 
+Emp AB: Seq 57 (len=3, min=1440): 1 3 3 
+Emp AB: Seq 58 (len=4, min=1920): 1 3 3 3 
+Emp AB: Seq 59 (len=5, min=2400): 1 3 3 3 3 
+Emp AB: Seq 60 (len=5, min=2400): 1 3 3 3 4 
+Emp AB: Seq 61 (len=4, min=1920): 1 3 3 4 
+Emp AB: Seq 62 (len=5, min=2400): 1 3 3 4 4 
+Emp AB: Seq 63 (len=3, min=1440): 1 3 4 
+Emp AB: Seq 64 (len=4, min=1920): 1 3 4 4 
+Emp AB: Seq 65 (len=5, min=2400): 1 3 4 4 4 
+Emp AB: Seq 66 (len=2, min=960): 1 4 
+Emp AB: Seq 67 (len=3, min=1440): 1 4 4 
+Emp AB: Seq 68 (len=4, min=1920): 1 4 4 4 
+Emp AB: Seq 69 (len=5, min=2400): 1 4 4 4 4 
+Emp AB: Seq 70 (len=1, min=480): 2 
+Emp AB: Seq 71 (len=2, min=960): 2 2 
+Emp AB: Seq 72 (len=3, min=1440): 2 2 2 
+Emp AB: Seq 73 (len=4, min=1920): 2 2 2 2 
+Emp AB: Seq 74 (len=5, min=2400): 2 2 2 2 2 
+Emp AB: Seq 75 (len=5, min=2400): 2 2 2 2 3 
+Emp AB: Seq 76 (len=5, min=2400): 2 2 2 2 4 
+Emp AB: Seq 77 (len=4, min=1920): 2 2 2 3 
+Emp AB: Seq 78 (len=5, min=2400): 2 2 2 3 3 
+Emp AB: Seq 79 (len=5, min=2400): 2 2 2 3 4 
+Emp AB: Seq 80 (len=4, min=1920): 2 2 2 4 
+Emp AB: Seq 81 (len=5, min=2400): 2 2 2 4 4 
+Emp AB: Seq 82 (len=3, min=1440): 2 2 3 
+Emp AB: Seq 83 (len=4, min=1920): 2 2 3 3 
+Emp AB: Seq 84 (len=5, min=2400): 2 2 3 3 3 
+Emp AB: Seq 85 (len=5, min=2400): 2 2 3 3 4 
+Emp AB: Seq 86 (len=4, min=1920): 2 2 3 4 
+Emp AB: Seq 87 (len=5, min=2400): 2 2 3 4 4 
+Emp AB: Seq 88 (len=3, min=1440): 2 2 4 
+Emp AB: Seq 89 (len=4, min=1920): 2 2 4 4 
+Emp AB: Seq 90 (len=5, min=2400): 2 2 4 4 4 
+Emp AB: Seq 91 (len=2, min=960): 2 3 
+Emp AB: Seq 92 (len=3, min=1440): 2 3 3 
+Emp AB: Seq 93 (len=4, min=1920): 2 3 3 3 
+Emp AB: Seq 94 (len=5, min=2400): 2 3 3 3 3 
+Emp AB: Seq 95 (len=5, min=2400): 2 3 3 3 4 
+Emp AB: Seq 96 (len=4, min=1920): 2 3 3 4 
+Emp AB: Seq 97 (len=5, min=2400): 2 3 3 4 4 
+Emp AB: Seq 98 (len=3, min=1440): 2 3 4 
+Emp AB: Seq 99 (len=4, min=1920): 2 3 4 4 
+Emp AB: Seq 100 (len=5, min=2400): 2 3 4 4 4 
+Emp AB: Seq 101 (len=2, min=960): 2 4 
+Emp AB: Seq 102 (len=3, min=1440): 2 4 4 
+Emp AB: Seq 103 (len=4, min=1920): 2 4 4 4 
+Emp AB: Seq 104 (len=5, min=2400): 2 4 4 4 4 
+Emp AB: Seq 105 (len=1, min=480): 3 
+Emp AB: Seq 106 (len=2, min=960): 3 3 
+Emp AB: Seq 107 (len=3, min=1440): 3 3 3 
+Emp AB: Seq 108 (len=4, min=1920): 3 3 3 3 
+Emp AB: Seq 109 (len=5, min=2400): 3 3 3 3 3 
+Emp AB: Seq 110 (len=5, min=2400): 3 3 3 3 4 
+Emp AB: Seq 111 (len=4, min=1920): 3 3 3 4 
+Emp AB: Seq 112 (len=5, min=2400): 3 3 3 4 4 
+Emp AB: Seq 113 (len=3, min=1440): 3 3 4 
+Emp AB: Seq 114 (len=4, min=1920): 3 3 4 4 
+Emp AB: Seq 115 (len=5, min=2400): 3 3 4 4 4 
+Emp AB: Seq 116 (len=2, min=960): 3 4 
+Emp AB: Seq 117 (len=3, min=1440): 3 4 4 
+Emp AB: Seq 118 (len=4, min=1920): 3 4 4 4 
+Emp AB: Seq 119 (len=5, min=2400): 3 4 4 4 4 
+Emp AB: Seq 120 (len=1, min=480): 4 
+Emp AB: Seq 121 (len=2, min=960): 4 4 
+Emp AB: Seq 122 (len=3, min=1440): 4 4 4 
+Emp AB: Seq 123 (len=4, min=1920): 4 4 4 4 
+Emp AB: Seq 124 (len=5, min=2400): 4 4 4 4 4 
+Emp AC: Seq 0 (len=1, min=480): 2 
+Emp AC: Seq 1 (len=2, min=960): 2 2 
+Emp AC: Seq 2 (len=3, min=1440): 2 2 2 
+Emp AC: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp AC: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp AC: Seq 5 (len=5, min=2400): 2 2 2 2 4 
+Emp AC: Seq 6 (len=4, min=1920): 2 2 2 4 
+Emp AC: Seq 7 (len=5, min=2400): 2 2 2 4 4 
+Emp AC: Seq 8 (len=3, min=1440): 2 2 4 
+Emp AC: Seq 9 (len=4, min=1920): 2 2 4 4 
+Emp AC: Seq 10 (len=5, min=2400): 2 2 4 4 4 
+Emp AC: Seq 11 (len=2, min=960): 2 4 
+Emp AC: Seq 12 (len=3, min=1440): 2 4 4 
+Emp AC: Seq 13 (len=4, min=1920): 2 4 4 4 
+Emp AC: Seq 14 (len=5, min=2400): 2 4 4 4 4 
+Emp AC: Seq 15 (len=1, min=480): 4 
+Emp AC: Seq 16 (len=2, min=960): 4 4 
+Emp AC: Seq 17 (len=3, min=1440): 4 4 4 
+Emp AC: Seq 18 (len=4, min=1920): 4 4 4 4 
+Emp AC: Seq 19 (len=5, min=2400): 4 4 4 4 4 
+Emp AD: Seq 0 (len=1, min=480): 2 
+Emp AD: Seq 1 (len=2, min=960): 2 2 
+Emp AD: Seq 2 (len=3, min=1440): 2 2 2 
+Emp AD: Seq 3 (len=4, min=1920): 2 2 2 2 
+Emp AD: Seq 4 (len=5, min=2400): 2 2 2 2 2 
+Emp AD: Seq 5 (len=5, min=2400): 2 2 2 2 3 
+Emp AD: Seq 6 (len=5, min=2400): 2 2 2 2 4 
+Emp AD: Seq 7 (len=4, min=1920): 2 2 2 3 
+Emp AD: Seq 8 (len=5, min=2400): 2 2 2 3 3 
+Emp AD: Seq 9 (len=5, min=2400): 2 2 2 3 4 
+Emp AD: Seq 10 (len=4, min=1920): 2 2 2 4 
+Emp AD: Seq 11 (len=5, min=2400): 2 2 2 4 4 
+Emp AD: Seq 12 (len=3, min=1440): 2 2 3 
+Emp AD: Seq 13 (len=4, min=1920): 2 2 3 3 
+Emp AD: Seq 14 (len=5, min=2400): 2 2 3 3 3 
+Emp AD: Seq 15 (len=5, min=2400): 2 2 3 3 4 
+Emp AD: Seq 16 (len=4, min=1920): 2 2 3 4 
+Emp AD: Seq 17 (len=5, min=2400): 2 2 3 4 4 
+Emp AD: Seq 18 (len=3, min=1440): 2 2 4 
+Emp AD: Seq 19 (len=4, min=1920): 2 2 4 4 
+Emp AD: Seq 20 (len=5, min=2400): 2 2 4 4 4 
+Emp AD: Seq 21 (len=2, min=960): 2 3 
+Emp AD: Seq 22 (len=3, min=1440): 2 3 3 
+Emp AD: Seq 23 (len=4, min=1920): 2 3 3 3 
+Emp AD: Seq 24 (len=5, min=2400): 2 3 3 3 3 
+Emp AD: Seq 25 (len=5, min=2400): 2 3 3 3 4 
+Emp AD: Seq 26 (len=4, min=1920): 2 3 3 4 
+Emp AD: Seq 27 (len=5, min=2400): 2 3 3 4 4 
+Emp AD: Seq 28 (len=3, min=1440): 2 3 4 
+Emp AD: Seq 29 (len=4, min=1920): 2 3 4 4 
+Emp AD: Seq 30 (len=5, min=2400): 2 3 4 4 4 
+Emp AD: Seq 31 (len=2, min=960): 2 4 
+Emp AD: Seq 32 (len=3, min=1440): 2 4 4 
+Emp AD: Seq 33 (len=4, min=1920): 2 4 4 4 
+Emp AD: Seq 34 (len=5, min=2400): 2 4 4 4 4 
+Emp AD: Seq 35 (len=1, min=480): 3 
+Emp AD: Seq 36 (len=2, min=960): 3 3 
+Emp AD: Seq 37 (len=3, min=1440): 3 3 3 
+Emp AD: Seq 38 (len=4, min=1920): 3 3 3 3 
+Emp AD: Seq 39 (len=5, min=2400): 3 3 3 3 3 
+Emp AD: Seq 40 (len=5, min=2400): 3 3 3 3 4 
+Emp AD: Seq 41 (len=4, min=1920): 3 3 3 4 
+Emp AD: Seq 42 (len=5, min=2400): 3 3 3 4 4 
+Emp AD: Seq 43 (len=3, min=1440): 3 3 4 
+Emp AD: Seq 44 (len=4, min=1920): 3 3 4 4 
+Emp AD: Seq 45 (len=5, min=2400): 3 3 4 4 4 
+Emp AD: Seq 46 (len=2, min=960): 3 4 
+Emp AD: Seq 47 (len=3, min=1440): 3 4 4 
+Emp AD: Seq 48 (len=4, min=1920): 3 4 4 4 
+Emp AD: Seq 49 (len=5, min=2400): 3 4 4 4 4 
+Emp AD: Seq 50 (len=1, min=480): 4 
+Emp AD: Seq 51 (len=2, min=960): 4 4 
+Emp AD: Seq 52 (len=3, min=1440): 4 4 4 
+Emp AD: Seq 53 (len=4, min=1920): 4 4 4 4 
+Emp AD: Seq 54 (len=5, min=2400): 4 4 4 4 4 
+Empezando a crear
+Empleado 0...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 1...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 2...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 3...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 4...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 5...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 6...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 7...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 8...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 9...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 10...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 11...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 12...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 13...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 14...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 15...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 16...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 17...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 18...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 19...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 20...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 21...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 22...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 23...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 24...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 25...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 26...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 27...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 28...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 29...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Ya se crearon
+Total feasible emp_assign found: 3856702 (avg 128556.7 per employee)
+Initialization progress: built individual 0
+Initialization progress: built individual 10
+Initialization finished (popsize=20)
+
+ Initialization done 
 E \ D	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10	Day 11	Day 12	Day 13	Day 14	Day 15	Day 16	Day 17	Day 18	Day 19	Day 20	Day 21	Day 22	Day 23	Day 24	Day 25	Day 26	Day 27	Day 28
-A	N	-	-	-	-	D	N	N	N	-	-	D	D	D	D	D	-	-	D	D	D	-	-	D	D	D	D	-
-B	E	N	N	-	-	-	D	D	-	-	E	D	-	-	D	N	-	-	D	D	-	-	D	D	N	-	-	-
-C	-	-	D	N	-	-	D	D	-	-	-	D	N	-	-	-	-	-	D	D	D	D	-	-	D	D	N	N
-D	-	-	L	L	L	-	-	-	-	-	-	L	L	-	-	L	L	L	-	-	-	-	-	L	L	L	-	-
-E	D	N	-	-	N	N	N	-	-	-	E	E	-	-	-	-	E	D	D	-	-	-	D	D	D	D	D	-
-F	E	N	N	N	N	-	-	E	D	D	-	-	-	D	D	D	-	-	D	D	-	-	D	D	D	D	-	-
-G	-	-	D	D	N	-	-	-	-	N	N	-	-	-	-	-	D	D	-	-	D	D	D	N	-	-	-	D
-H	D	D	-	-	D	D	-	-	D	D	D	-	-	-	-	D	D	-	-	E	D	D	D	D	-	E	E	E
-I	D	D	-	-	D	D	-	-	D	N	E	E	E	-	-	E	E	-	E	E	E	-	-	D	D	-	-	D
-J	L	N	N	-	-	D	D	N	-	-	-	-	D	D	L	L	L	-	-	L	L	N	-	-	-	D	D	L
-K	-	-	-	N	N	-	-	E	E	D	-	-	E	D	-	-	-	E	E	-	-	E	E	D	N	-	-	-
-L	E	N	-	-	-	D	D	N	N	-	-	E	E	E	-	-	-	E	D	D	-	E	E	E	-	-	E	E
-M	-	-	L	L	-	-	D	N	-	-	D	N	-	-	D	D	-	-	D	D	D	-	-	D	N	-	-	-
-N	D	L	-	-	-	E	E	-	-	D	N	N	N	N	-	-	D	D	L	-	-	E	D	L	E	D	-	-
-O	L	L	L	-	-	E	D	L	-	-	D	D	L	L	-	-	-	-	-	E	L	L	D	D	-	-	D	L
-P	-	-	E	D	-	-	-	-	-	D	D	D	-	-	-	E	E	-	-	-	-	-	D	D	-	-	E	D
-Q	N	N	N	-	-	-	-	D	N	-	-	-	-	-	-	E	D	-	-	-	E	D	-	-	-	E	D	-
-R	-	-	-	-	-	-	-	-	-	-	D	D	-	-	D	D	-	-	-	-	D	D	-	-	-	-	-	-
-S	D	D	D	D	-	-	-	L	L	L	L	-	-	-	D	D	L	-	-	-	-	L	L	-	-	-	D	L
-T	D	L	-	-	-	-	-	-	L	L	E	D	-	-	-	-	E	E	-	-	-	D	D	D	D	-	-	-
-U	D	N	N	-	-	-	-	D	D	-	-	-	E	D	N	-	-	-	-	D	D	-	-	E	D	-	E	N
-V	L	N	-	-	-	L	L	L	L	-	-	-	-	-	D	N	N	-	-	D	D	-	D	D	L	L	L	N
-W	-	-	D	D	-	-	-	-	-	-	-	-	-	D	D	E	E	D	D	-	E	E	N	N	N	N	-	-
-X	N	-	-	-	-	-	-	-	-	D	D	-	-	-	-	N	-	-	-	D	D	-	-	D	-	D	D	D
-Y	-	-	L	L	-	-	-	D	D	-	-	-	L	-	-	-	D	L	-	-	-	-	L	L	L	-	-	-
-Z	-	-	-	D	N	N	-	-	E	-	-	-	E	D	L	L	-	-	-	-	D	-	-	-	L	-	-	-
-AA	N	N	-	-	L	-	-	D	L	-	-	D	D	D	L	L	-	-	-	-	-	-	-	-	-	-	-	-
-AB	-	-	E	-	-	-	-	-	E	-	-	-	-	E	L	-	-	L	N	-	-	-	-	E	L	-	D	N
-AC	-	-	N	-	D	-	D	D	-	D	D	D	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-AD	D	-	D	D	-	N	-	L	-	L	-	D	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+A	-	-	-	D	D	D	D	-	-	D	N	N	-	-	D	D	D	N	N	-	-	-	-	D	D	D	D	D
+B	E	D	D	D	-	-	-	N	N	-	-	E	N	N	-	-	E	D	D	D	-	-	D	D	D	D	-	-
+C	D	D	D	N	N	-	-	N	N	-	-	D	D	D	D	D	-	-	D	D	D	D	D	-	-	-	-	-
+D	L	L	L	L	-	-	L	L	L	L	L	-	-	-	D	D	L	L	L	-	-	-	-	D	D	D	-	-
+E	N	N	-	-	-	E	D	-	-	E	E	E	E	-	-	D	D	N	N	-	-	E	E	E	E	D	-	-
+F	D	D	N	-	-	E	E	D	N	-	-	E	E	N	-	-	E	E	E	-	-	E	E	D	N	-	-	-
+G	D	D	D	D	D	-	-	D	D	N	N	N	-	-	-	-	D	D	D	-	-	D	D	-	-	D	D	D
+H	E	D	D	D	-	-	-	E	E	E	E	-	-	E	D	D	-	-	E	E	E	-	-	E	E	D	-	-
+I	E	D	D	N	N	-	-	-	E	D	D	D	D	-	-	E	D	N	N	-	-	E	D	-	-	-	D	D
+J	D	L	N	-	-	D	D	L	L	L	-	-	N	N	-	-	D	D	N	-	-	D	D	L	L	L	-	-
+K	E	D	D	N	N	-	-	-	E	E	E	E	N	-	-	-	E	N	-	-	-	E	D	-	-	E	D	D
+L	E	D	N	N	N	-	-	-	-	-	D	D	D	D	-	-	D	D	D	-	-	E	E	D	D	D	-	-
+M	-	-	D	D	D	N	-	-	-	D	D	L	-	-	D	L	L	L	L	-	-	D	D	D	-	-	D	N
+N	E	N	-	-	E	L	L	N	-	-	E	L	N	N	-	-	E	D	L	-	-	-	D	L	L	L	-	-
+O	E	E	D	D	-	-	-	D	D	D	D	-	-	-	-	E	L	L	-	-	L	L	L	-	-	D	D	D
+P	E	E	E	E	D	-	-	-	-	E	D	D	-	-	E	E	D	D	D	-	-	E	D	-	-	E	D	D
+Q	E	D	L	-	-	-	E	L	L	N	N	N	-	-	-	L	L	N	-	-	-	-	-	E	E	L	L	L
+R	D	D	D	D	-	-	-	-	D	D	D	D	D	D	-	-	-	D	D	-	-	-	D	D	D	D	D	D
+S	D	L	L	L	-	-	-	D	D	D	D	D	-	-	-	D	D	D	L	L	L	-	-	-	-	-	D	D
+T	D	D	D	D	L	-	-	-	-	E	E	E	D	D	D	-	-	-	D	D	L	L	L	L	-	-	-	-
+U	E	E	N	N	-	-	-	-	E	E	D	D	-	-	-	E	E	E	E	N	N	-	-	-	-	D	D	D
+V	D	D	L	L	N	-	-	-	E	E	-	-	-	E	E	N	N	N	-	-	-	-	-	D	D	D	D	D
+W	-	-	-	E	E	D	N	N	N	-	-	-	-	-	E	E	E	E	D	-	-	-	E	E	E	E	E	D
+X	D	D	N	-	-	-	-	-	D	-	-	D	N	-	-	-	D	D	-	-	-	-	D	D	-	-	-	-
+Y	-	-	D	D	-	-	-	D	-	-	-	-	D	D	D	D	-	-	-	D	L	-	-	L	-	-	-	-
+Z	-	-	N	-	-	N	-	-	-	L	L	-	-	-	-	L	-	-	-	-	D	D	-	-	-	E	D	D
+AA	-	-	-	-	L	L	L	N	N	-	-	D	L	L	-	-	L	L	-	-	-	-	-	-	-	-	-	-
+AB	-	-	-	D	N	-	-	-	-	E	N	-	-	L	-	-	-	-	D	-	-	D	D	D	D	-	-	-
+AC	D	-	-	-	-	-	N	-	-	D	-	-	-	D	D	-	-	-	-	-	-	D	D	-	-	-	-	-
+AD	-	-	D	-	-	-	-	-	D	D	D	-	-	-	D	-	-	-	L	-	-	D	-	-	-	-	-	-
 
  Initialization done, now performing first generation
 
- constr indiv 0 -39.000000
+ Decoding done, now performing evaluation of initial population
+
+ constr indiv 0 0.000000
+Employee 2 feasible
+
  gen = 1
- gen = 10000
- gen = 20000
- gen = 30000
- gen = 40000
- gen = 50000
- gen = 60000
- gen = 70000
- gen = 80000
- gen = 90000
- gen = 100000
+ gen = 1000
+
+ gen = 2000
+
+ gen = 3000
+
+ gen = 4000
+
+ gen = 5000
+
  Generations finished, now reporting solutions
 
- Average acceleration = -0.000008
- Best constraint violation in generation 100000 = -13.000000
+ Average acceleration = 1.000000
+ Best constraint violation in generation 5000 = 0.000000
  Routine successfully exited 
 
- Time taken = 1016.741118 seconds
+ Time taken = 65.040715 seconds
 
- Time taken for initialization = 642.829335
+ Time taken for initialization = 61.435140
 
- Best individual objectives: obj[0] = 15991.000000, obj[1] = 260.000000
- Best individual constraint violation = -13.000000
+ Best individual objectives: obj[0] = 9775.000000, obj[1] = 135.000000
+ Best individual constraint violation = 0.000000
  Number of objectives: 2
- Objective combination (obj[0]+obj[1]): 16251.000000
- Constraint violation weight: -13.000000
- Execution time weight: 1016.741118
- Positive obj: 16252.000000, Positive constraint: 13.000000, Positive time: 1017.741118
- Final weighted value: 228545.741118
-228545.741118
+ FO0 (covering): 9775.000000 (norm 0.189585)
+ FO1 (preferences): 135.000000 (norm 0.299335)
+ Constraint violations: 0.000000 (norm 0.000000)
+ Final weighted value: 48.891976
+
+48.891976

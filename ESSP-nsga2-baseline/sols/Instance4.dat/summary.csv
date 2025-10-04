@@ -1,2 +1,11 @@
 Instance,Run,Hypervolume,ExecutionTime,InitializationTime,PopulationSize,Generations,ActualEvaluations
-Instance4.dat,1,,164,0.794237,12,833333,9999996
+Instance4.dat,1,,5,2.668229,12,8333,99996
+Instance4.dat,2,,5,2.492470,12,8333,99996
+Instance4.dat,3,,5,2.547925,12,8333,99996
+Instance4.dat,4,,7,2.605371,12,8333,99996
+Instance4.dat,5,,5,2.465126,12,8333,99996
+Instance4.dat,6,,4,2.417057,12,8333,99996
+Instance4.dat,7,,5,2.278103,12,8333,99996
+Instance4.dat,8,,4,2.218706,12,8333,99996
+Instance4.dat,9,,5,2.319007,12,8333,99996
+Instance4.dat,10,,5,2.365179,12,8333,99996

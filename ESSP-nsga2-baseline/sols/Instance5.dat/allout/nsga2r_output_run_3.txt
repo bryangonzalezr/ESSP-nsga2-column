@@ -7,7 +7,7 @@ Finished reading shift on/off requests.
 
  Instance route = instances/Instance5.dat
  Population size = 20
- Number of generations = 500000
+ Number of generations = 5000
  Number of objective functions = 2
  Number of constraints = 8
  Number of binary variables = 0
@@ -38,167 +38,400 @@ Finished reading shift on/off requests.
 
  Performing initialization 
 Initializing population and generating sequences per employee...
-Generated 18 sequences for employee A
-Generated 18 sequences for employee B
-Generated 18 sequences for employee C
-Generated 18 sequences for employee D
-Generated 18 sequences for employee E
-Generated 18 sequences for employee F
-Generated 18 sequences for employee G
-Generated 18 sequences for employee H
-Generated 18 sequences for employee I
-Generated 18 sequences for employee J
-Generated 25 sequences for employee K
-Generated 25 sequences for employee L
-Generated 25 sequences for employee M
-Generated 25 sequences for employee N
-Generated 25 sequences for employee O
-Generated 25 sequences for employee P
-Individual 0 initialized empty
-Individual 1 initialized empty
-Individual 2 initialized empty
-Individual 3 initialized empty
-Individual 4 initialized empty
-Individual 5 initialized empty
-Individual 6 initialized empty
-Individual 7 initialized empty
-Individual 8 initialized empty
-Individual 9 initialized empty
-Individual 10 initialized empty
-Individual 11 initialized empty
-Individual 12 initialized empty
-Individual 13 initialized empty
-Individual 14 initialized empty
-Individual 15 initialized empty
-Individual 16 initialized empty
-Individual 17 initialized empty
-Individual 18 initialized empty
-Individual 19 initialized empty
-First individual after random initialization:
-Employee A: Num sequences: 0
-
-Employee B: Num sequences: 0
-
-Employee C: Num sequences: 0
-
-Employee D: Num sequences: 0
-
-Employee E: Num sequences: 0
-
-Employee F: Num sequences: 0
-
-Employee G: Num sequences: 0
-
-Employee H: Num sequences: 0
-
-Employee I: Num sequences: 0
-
-Employee J: Num sequences: 0
-
-Employee K: Num sequences: 0
-
-Employee L: Num sequences: 0
-
-Employee M: Num sequences: 0
-
-Employee N: Num sequences: 0
-
-Employee O: Num sequences: 0
-
-Employee P: Num sequences: 0
-
+Generated 5 sequences for employee A
+Generated 5 sequences for employee B
+Generated 20 sequences for employee C
+Generated 20 sequences for employee D
+Generated 5 sequences for employee E
+Generated 20 sequences for employee F
+Generated 20 sequences for employee G
+Generated 20 sequences for employee H
+Generated 20 sequences for employee I
+Generated 20 sequences for employee J
+Generated 6 sequences for employee K
+Generated 6 sequences for employee L
+Generated 27 sequences for employee M
+Generated 6 sequences for employee N
+Generated 27 sequences for employee O
+Generated 27 sequences for employee P
+Emp A: Seq 0 (len=1, min=480): 1 
+Emp A: Seq 1 (len=2, min=960): 1 1 
+Emp A: Seq 2 (len=3, min=1440): 1 1 1 
+Emp A: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp A: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp B: Seq 0 (len=1, min=480): 1 
+Emp B: Seq 1 (len=2, min=960): 1 1 
+Emp B: Seq 2 (len=3, min=1440): 1 1 1 
+Emp B: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp B: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp C: Seq 0 (len=1, min=480): 1 
+Emp C: Seq 1 (len=2, min=960): 1 1 
+Emp C: Seq 2 (len=3, min=1440): 1 1 1 
+Emp C: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp C: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp C: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp C: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp C: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp C: Seq 8 (len=3, min=1440): 1 1 2 
+Emp C: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp C: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp C: Seq 11 (len=2, min=960): 1 2 
+Emp C: Seq 12 (len=3, min=1440): 1 2 2 
+Emp C: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp C: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp C: Seq 15 (len=1, min=480): 2 
+Emp C: Seq 16 (len=2, min=960): 2 2 
+Emp C: Seq 17 (len=3, min=1440): 2 2 2 
+Emp C: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp C: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp D: Seq 0 (len=1, min=480): 1 
+Emp D: Seq 1 (len=2, min=960): 1 1 
+Emp D: Seq 2 (len=3, min=1440): 1 1 1 
+Emp D: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp D: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp D: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp D: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp D: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp D: Seq 8 (len=3, min=1440): 1 1 2 
+Emp D: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp D: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp D: Seq 11 (len=2, min=960): 1 2 
+Emp D: Seq 12 (len=3, min=1440): 1 2 2 
+Emp D: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp D: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp D: Seq 15 (len=1, min=480): 2 
+Emp D: Seq 16 (len=2, min=960): 2 2 
+Emp D: Seq 17 (len=3, min=1440): 2 2 2 
+Emp D: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp D: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp E: Seq 0 (len=1, min=480): 1 
+Emp E: Seq 1 (len=2, min=960): 1 1 
+Emp E: Seq 2 (len=3, min=1440): 1 1 1 
+Emp E: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp E: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp F: Seq 0 (len=1, min=480): 1 
+Emp F: Seq 1 (len=2, min=960): 1 1 
+Emp F: Seq 2 (len=3, min=1440): 1 1 1 
+Emp F: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp F: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp F: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp F: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp F: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp F: Seq 8 (len=3, min=1440): 1 1 2 
+Emp F: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp F: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp F: Seq 11 (len=2, min=960): 1 2 
+Emp F: Seq 12 (len=3, min=1440): 1 2 2 
+Emp F: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp F: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp F: Seq 15 (len=1, min=480): 2 
+Emp F: Seq 16 (len=2, min=960): 2 2 
+Emp F: Seq 17 (len=3, min=1440): 2 2 2 
+Emp F: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp F: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp G: Seq 0 (len=1, min=480): 1 
+Emp G: Seq 1 (len=2, min=960): 1 1 
+Emp G: Seq 2 (len=3, min=1440): 1 1 1 
+Emp G: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp G: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp G: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp G: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp G: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp G: Seq 8 (len=3, min=1440): 1 1 2 
+Emp G: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp G: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp G: Seq 11 (len=2, min=960): 1 2 
+Emp G: Seq 12 (len=3, min=1440): 1 2 2 
+Emp G: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp G: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp G: Seq 15 (len=1, min=480): 2 
+Emp G: Seq 16 (len=2, min=960): 2 2 
+Emp G: Seq 17 (len=3, min=1440): 2 2 2 
+Emp G: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp G: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp H: Seq 0 (len=1, min=480): 1 
+Emp H: Seq 1 (len=2, min=960): 1 1 
+Emp H: Seq 2 (len=3, min=1440): 1 1 1 
+Emp H: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp H: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp H: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp H: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp H: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp H: Seq 8 (len=3, min=1440): 1 1 2 
+Emp H: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp H: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp H: Seq 11 (len=2, min=960): 1 2 
+Emp H: Seq 12 (len=3, min=1440): 1 2 2 
+Emp H: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp H: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp H: Seq 15 (len=1, min=480): 2 
+Emp H: Seq 16 (len=2, min=960): 2 2 
+Emp H: Seq 17 (len=3, min=1440): 2 2 2 
+Emp H: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp H: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp I: Seq 0 (len=1, min=480): 1 
+Emp I: Seq 1 (len=2, min=960): 1 1 
+Emp I: Seq 2 (len=3, min=1440): 1 1 1 
+Emp I: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp I: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp I: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp I: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp I: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp I: Seq 8 (len=3, min=1440): 1 1 2 
+Emp I: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp I: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp I: Seq 11 (len=2, min=960): 1 2 
+Emp I: Seq 12 (len=3, min=1440): 1 2 2 
+Emp I: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp I: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp I: Seq 15 (len=1, min=480): 2 
+Emp I: Seq 16 (len=2, min=960): 2 2 
+Emp I: Seq 17 (len=3, min=1440): 2 2 2 
+Emp I: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp I: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp J: Seq 0 (len=1, min=480): 1 
+Emp J: Seq 1 (len=2, min=960): 1 1 
+Emp J: Seq 2 (len=3, min=1440): 1 1 1 
+Emp J: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp J: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp J: Seq 5 (len=5, min=2400): 1 1 1 1 2 
+Emp J: Seq 6 (len=4, min=1920): 1 1 1 2 
+Emp J: Seq 7 (len=5, min=2400): 1 1 1 2 2 
+Emp J: Seq 8 (len=3, min=1440): 1 1 2 
+Emp J: Seq 9 (len=4, min=1920): 1 1 2 2 
+Emp J: Seq 10 (len=5, min=2400): 1 1 2 2 2 
+Emp J: Seq 11 (len=2, min=960): 1 2 
+Emp J: Seq 12 (len=3, min=1440): 1 2 2 
+Emp J: Seq 13 (len=4, min=1920): 1 2 2 2 
+Emp J: Seq 14 (len=5, min=2400): 1 2 2 2 2 
+Emp J: Seq 15 (len=1, min=480): 2 
+Emp J: Seq 16 (len=2, min=960): 2 2 
+Emp J: Seq 17 (len=3, min=1440): 2 2 2 
+Emp J: Seq 18 (len=4, min=1920): 2 2 2 2 
+Emp J: Seq 19 (len=5, min=2400): 2 2 2 2 2 
+Emp K: Seq 0 (len=1, min=480): 1 
+Emp K: Seq 1 (len=2, min=960): 1 1 
+Emp K: Seq 2 (len=3, min=1440): 1 1 1 
+Emp K: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp K: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp K: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp L: Seq 0 (len=1, min=480): 1 
+Emp L: Seq 1 (len=2, min=960): 1 1 
+Emp L: Seq 2 (len=3, min=1440): 1 1 1 
+Emp L: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp L: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp L: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp M: Seq 0 (len=1, min=480): 1 
+Emp M: Seq 1 (len=2, min=960): 1 1 
+Emp M: Seq 2 (len=3, min=1440): 1 1 1 
+Emp M: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp M: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp M: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp M: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp M: Seq 7 (len=5, min=2400): 1 1 1 1 2 
+Emp M: Seq 8 (len=6, min=2880): 1 1 1 1 2 2 
+Emp M: Seq 9 (len=4, min=1920): 1 1 1 2 
+Emp M: Seq 10 (len=5, min=2400): 1 1 1 2 2 
+Emp M: Seq 11 (len=6, min=2880): 1 1 1 2 2 2 
+Emp M: Seq 12 (len=3, min=1440): 1 1 2 
+Emp M: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp M: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp M: Seq 15 (len=6, min=2880): 1 1 2 2 2 2 
+Emp M: Seq 16 (len=2, min=960): 1 2 
+Emp M: Seq 17 (len=3, min=1440): 1 2 2 
+Emp M: Seq 18 (len=4, min=1920): 1 2 2 2 
+Emp M: Seq 19 (len=5, min=2400): 1 2 2 2 2 
+Emp M: Seq 20 (len=6, min=2880): 1 2 2 2 2 2 
+Emp M: Seq 21 (len=1, min=480): 2 
+Emp M: Seq 22 (len=2, min=960): 2 2 
+Emp M: Seq 23 (len=3, min=1440): 2 2 2 
+Emp M: Seq 24 (len=4, min=1920): 2 2 2 2 
+Emp M: Seq 25 (len=5, min=2400): 2 2 2 2 2 
+Emp M: Seq 26 (len=6, min=2880): 2 2 2 2 2 2 
+Emp N: Seq 0 (len=1, min=480): 1 
+Emp N: Seq 1 (len=2, min=960): 1 1 
+Emp N: Seq 2 (len=3, min=1440): 1 1 1 
+Emp N: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp N: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp N: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp O: Seq 0 (len=1, min=480): 1 
+Emp O: Seq 1 (len=2, min=960): 1 1 
+Emp O: Seq 2 (len=3, min=1440): 1 1 1 
+Emp O: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp O: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp O: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp O: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp O: Seq 7 (len=5, min=2400): 1 1 1 1 2 
+Emp O: Seq 8 (len=6, min=2880): 1 1 1 1 2 2 
+Emp O: Seq 9 (len=4, min=1920): 1 1 1 2 
+Emp O: Seq 10 (len=5, min=2400): 1 1 1 2 2 
+Emp O: Seq 11 (len=6, min=2880): 1 1 1 2 2 2 
+Emp O: Seq 12 (len=3, min=1440): 1 1 2 
+Emp O: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp O: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp O: Seq 15 (len=6, min=2880): 1 1 2 2 2 2 
+Emp O: Seq 16 (len=2, min=960): 1 2 
+Emp O: Seq 17 (len=3, min=1440): 1 2 2 
+Emp O: Seq 18 (len=4, min=1920): 1 2 2 2 
+Emp O: Seq 19 (len=5, min=2400): 1 2 2 2 2 
+Emp O: Seq 20 (len=6, min=2880): 1 2 2 2 2 2 
+Emp O: Seq 21 (len=1, min=480): 2 
+Emp O: Seq 22 (len=2, min=960): 2 2 
+Emp O: Seq 23 (len=3, min=1440): 2 2 2 
+Emp O: Seq 24 (len=4, min=1920): 2 2 2 2 
+Emp O: Seq 25 (len=5, min=2400): 2 2 2 2 2 
+Emp O: Seq 26 (len=6, min=2880): 2 2 2 2 2 2 
+Emp P: Seq 0 (len=1, min=480): 1 
+Emp P: Seq 1 (len=2, min=960): 1 1 
+Emp P: Seq 2 (len=3, min=1440): 1 1 1 
+Emp P: Seq 3 (len=4, min=1920): 1 1 1 1 
+Emp P: Seq 4 (len=5, min=2400): 1 1 1 1 1 
+Emp P: Seq 5 (len=6, min=2880): 1 1 1 1 1 1 
+Emp P: Seq 6 (len=6, min=2880): 1 1 1 1 1 2 
+Emp P: Seq 7 (len=5, min=2400): 1 1 1 1 2 
+Emp P: Seq 8 (len=6, min=2880): 1 1 1 1 2 2 
+Emp P: Seq 9 (len=4, min=1920): 1 1 1 2 
+Emp P: Seq 10 (len=5, min=2400): 1 1 1 2 2 
+Emp P: Seq 11 (len=6, min=2880): 1 1 1 2 2 2 
+Emp P: Seq 12 (len=3, min=1440): 1 1 2 
+Emp P: Seq 13 (len=4, min=1920): 1 1 2 2 
+Emp P: Seq 14 (len=5, min=2400): 1 1 2 2 2 
+Emp P: Seq 15 (len=6, min=2880): 1 1 2 2 2 2 
+Emp P: Seq 16 (len=2, min=960): 1 2 
+Emp P: Seq 17 (len=3, min=1440): 1 2 2 
+Emp P: Seq 18 (len=4, min=1920): 1 2 2 2 
+Emp P: Seq 19 (len=5, min=2400): 1 2 2 2 2 
+Emp P: Seq 20 (len=6, min=2880): 1 2 2 2 2 2 
+Emp P: Seq 21 (len=1, min=480): 2 
+Emp P: Seq 22 (len=2, min=960): 2 2 
+Emp P: Seq 23 (len=3, min=1440): 2 2 2 
+Emp P: Seq 24 (len=4, min=1920): 2 2 2 2 
+Emp P: Seq 25 (len=5, min=2400): 2 2 2 2 2 
+Emp P: Seq 26 (len=6, min=2880): 2 2 2 2 2 2 
+Empezando a crear
+Empleado 0...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 1...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 2...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 3...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 4...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 5...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 6...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 7...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 8...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 9...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 10...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 11...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 12...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 13...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 14...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Empleado 15...
+Empezando el backtracking
+Terminando el backtracking
+Listo
+Ya se crearon
+Total feasible emp_assign found: 24830 (avg 1551.9 per employee)
+Initialization progress: built individual 0
+Initialization progress: built individual 10
+Initialization finished (popsize=20)
 
  Initialization done 
 E \ D	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10	Day 11	Day 12	Day 13	Day 14	Day 15	Day 16	Day 17	Day 18	Day 19	Day 20	Day 21	Day 22	Day 23	Day 24	Day 25	Day 26	Day 27	Day 28
-A	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-B	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-C	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-D	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-F	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-G	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-H	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-I	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-J	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-K	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-L	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-M	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-N	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-O	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-P	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+A	E	E	E	E	E	-	-	E	E	E	E	E	-	-	E	E	-	-	-	E	E	E	-	-	-	E	E	E
+B	E	E	E	E	E	-	-	E	E	-	-	-	E	E	E	E	-	-	E	E	E	E	-	-	E	E	-	-
+C	E	E	L	L	L	-	-	L	L	-	-	-	-	-	E	E	E	E	-	-	L	L	L	L	L	-	-	-
+D	E	E	L	L	-	-	E	L	-	-	L	L	-	-	E	L	L	-	-	-	-	L	L	-	-	E	E	E
+E	E	E	E	E	E	-	-	E	E	-	-	E	E	-	-	E	E	E	E	E	-	-	-	-	E	E	-	-
+F	-	-	-	E	L	-	-	E	E	L	L	-	-	-	-	E	E	E	E	E	-	-	-	E	E	L	L	L
+G	E	L	L	L	-	-	-	-	-	L	L	L	L	-	-	E	L	L	L	-	-	E	E	E	E	L	-	-
+H	E	E	E	-	-	-	-	E	E	-	-	L	L	-	-	E	L	L	L	-	-	E	E	E	E	E	-	-
+I	L	L	L	L	-	-	-	L	L	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-
+J	L	L	L	L	L	-	-	E	E	L	L	-	-	L	L	-	-	-	-	-	-	E	E	E	E	E	-	-
+K	E	E	E	-	-	-	-	-	E	E	E	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-	E	E
+L	E	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-	E	E	E	E	E	-	-	-	-
+M	-	-	-	E	L	L	-	-	-	E	E	L	-	-	-	E	E	E	E	L	-	-	-	E	E	E	L	L
+N	E	E	E	E	-	-	-	E	E	E	E	E	E	-	-	-	-	E	E	E	E	E	E	-	-	-	-	-
+O	E	L	-	-	-	E	E	E	E	E	L	-	-	-	-	-	L	L	L	L	L	-	-	-	L	L	L	L
+P	L	L	L	L	L	-	-	-	-	E	E	L	L	L	-	-	-	-	E	E	L	L	L	-	-	-	-	E
 
  Initialization done, now performing first generation
 
  Decoding done, now performing evaluation of initial population
 
- constr indiv 0 -16.000000
+ constr indiv 0 0.000000
+Employee 2 feasible
+
  gen = 1
- gen = 10000
- gen = 20000
- gen = 30000
- gen = 40000
- gen = 50000
- gen = 60000
- gen = 70000
- gen = 80000
- gen = 90000
- gen = 100000
- gen = 110000
- gen = 120000
- gen = 130000
- gen = 140000
- gen = 150000
- gen = 160000
- gen = 170000
- gen = 180000
- gen = 190000
- gen = 200000
- gen = 210000
- gen = 220000
- gen = 230000
- gen = 240000
- gen = 250000
- gen = 260000
- gen = 270000
- gen = 280000
- gen = 290000
- gen = 300000
- gen = 310000
- gen = 320000
- gen = 330000
- gen = 340000
- gen = 350000
- gen = 360000
- gen = 370000
- gen = 380000
- gen = 390000
- gen = 400000
- gen = 410000
- gen = 420000
- gen = 430000
- gen = 440000
- gen = 450000
- gen = 460000
- gen = 470000
- gen = 480000
- gen = 490000
- gen = 500000
+ gen = 1000
+
+ gen = 2000
+
+ gen = 3000
+
+ gen = 4000
+
+ gen = 5000
+
  Generations finished, now reporting solutions
 
- Average acceleration = 0.660705
- Best constraint violation in generation 500000 = 0.000000
+ Average acceleration = 1.000000
+ Best constraint violation in generation 5000 = 0.000000
  Routine successfully exited 
 
- Time taken = 260.324138 seconds
+ Time taken = 5.309997 seconds
 
- Time taken for initialization = 0.000108
+ Time taken for initialization = 2.720840
 
- Best individual objectives: obj[0] = 3106.000000, obj[1] = 33.000000
+ Best individual objectives: obj[0] = 3409.000000, obj[1] = 38.000000
  Best individual constraint violation = 0.000000
  Number of objectives: 2
- FO0 (covering): 3106.000000 (norm 0.104593)
- FO1 (preferences): 33.000000 (norm 0.150685)
+ FO0 (covering): 3409.000000 (norm 0.114797)
+ FO1 (preferences): 38.000000 (norm 0.173516)
  Constraint violations: 0.000000 (norm 0.000000)
- Final weighted value: 25.527814
+ Final weighted value: 28.831259
 
-25.527814
+28.831259
