@@ -9,6 +9,9 @@
 # define PI 3.14159265358979
 # define GNUPLOT_COMMAND "gnuplot -persist"
 
+#include <stdbool.h>
+#include <unistd.h>
+
 
 typedef struct{
     int *shifts;
@@ -16,6 +19,13 @@ typedef struct{
     int total_minutes;
 }
 ssequence;
+
+typedef struct{
+    int emp_id;
+    ssequence** seqs;
+    int* seq_start_day;
+    int num_seqs;
+} emp_assign;
 
 typedef struct {
     int **by_length;       // by_length[len] = array dinámico de índices a secuencias
@@ -25,6 +35,7 @@ typedef struct {
 } seq_length_index;
 
 extern seq_length_index *seq_index;
+extern emp_assign **employees_pool;
 
 typedef struct {
     int rank;
@@ -205,6 +216,13 @@ void quicksort_front_obj(population *pop, int objcount, int obj_array[], int obj
 void q_sort_front_obj(population *pop, int objcount, int obj_array[], int left, int right);
 void quicksort_dist(population *pop, int *dist, int front_size);
 void q_sort_dist(population *pop, int *dist, int left, int right);
+void decode_individual_sequences(individual *ind, problem_instance *pi);
+void printIndividual(individual *ind, problem_instance *pi);
+void export_of (population *pop, FILE *fpt);
+void export_pop_full(population *pop, FILE *fpt, problem_instance *pi);
+int readInputFile(const char* filePath, problem_instance *pi);
+
+bool eval_employee_feasible(emp_assign *current_emp, problem_instance *pi);
 
 void selection (population *old_pop, population *new_pop, problem_instance *pi);
 individual* tournament (individual *ind1, individual *ind2);

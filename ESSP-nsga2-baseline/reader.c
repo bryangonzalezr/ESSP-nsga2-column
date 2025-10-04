@@ -244,7 +244,8 @@ void readShifts(FILE *f, problem_instance *pi) {
     pi->shifts[0].id = 0;
     pi->shifts[0].name = strcpy(malloc(strlen("-") + 1), "-");
     pi->shifts[0].length = 0;
-    pi->shifts[0].num_incompatible_shifts = NULL;
+    pi->shifts[0].num_incompatible_shifts = 0;
+    pi->shifts[0].incompatible_shifts= NULL;
 
 
     

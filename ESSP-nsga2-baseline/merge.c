@@ -36,7 +36,7 @@ void copy_ind(individual *ind1, individual *ind2)
 
     // Copiar xreal
     if (nreal != 0) {
-        if (!ind2->xreal) ind2->xreal = (double *)malloc(nreal * sizeof(double));
+        if (!ind2->xreal) ind2->xreal = (int *)malloc(nreal * sizeof(int));
         for (i = 0; i < nreal; i++) ind2->xreal[i] = ind1->xreal[i];
     }
 

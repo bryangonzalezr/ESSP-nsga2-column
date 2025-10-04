@@ -7,6 +7,10 @@
 # include "global.h"
 # include "rand.h"
 # include "time.h"
+#include <string.h>
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/stat.h>
 
 int nreal;
 int nbin;
@@ -368,17 +372,38 @@ int main (int argc, char **argv)
 
      
 
-    printIndividual(parent_pop[0], pi);
+    printIndividual(parent_pop[0].ind, pi);
 
     double time_init = clock() - time_counter;
     
     printf("\n Initialization done, now performing first generation\n");
 
-    decode_pop_sequences(parent_pop, pi);
+    // decode_pop_sequences(parent_pop, pi);
     printf("\n Decoding done, now performing evaluation of initial population\n");
   
     evaluate_pop (parent_pop, pi);
-    printf("\n constr indiv 0 %f", parent_pop->ind[0].constr_violation);
+
+    printf("\n constr indiv 0 %f\n", parent_pop->ind[0].constr_violation);
+
+    //check feasibilit on each employee
+    emp_assign current_employee;
+    current_employee.emp_id=2;
+    current_employee.num_seqs=parent_pop->ind[0].num_seqs[2];
+    current_employee.seqs=parent_pop->ind[0].seqs[2];
+    current_employee.seq_start_day=parent_pop->ind[0].seq_start_days[2];
+
+    bool is_feasible=eval_employee_feasible(&current_employee, pi);
+
+    if(is_feasible){
+        printf("Employee %d feasible\n",current_employee.emp_id);
+    }else{
+        printf("Employee %d not feasible\n",current_employee.emp_id);
+
+    }
+    
+
+
+
     assign_rank_and_crowding_distance (parent_pop);
     report_pop (parent_pop, fpt1);
     fprintf(fpt4,"# gen = 1\n");

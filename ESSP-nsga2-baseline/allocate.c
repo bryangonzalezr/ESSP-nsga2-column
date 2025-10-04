@@ -26,7 +26,7 @@ void allocate_memory_ind (individual *ind)
     int j;
     if (nreal != 0)
     {
-        ind->xreal = (double *)malloc(nreal*sizeof(double));
+        ind->xreal = (int *)malloc(nreal*sizeof(int));
     }
     if (nbin != 0)
     {

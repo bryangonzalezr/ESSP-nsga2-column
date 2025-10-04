@@ -6,7 +6,7 @@
 #include "global.h"
 #include "rand.h"
 #include <unistd.h>
-
+#include <stdbool.h>
 
 
 int maxprint = 1;
@@ -259,4 +259,121 @@ void evaluate_ind(individual *ind, problem_instance *pi)
         free(shift_coverage[i]);
     }
     free(shift_coverage);
+}
+
+
+
+// Helper: obtiene el turno de un empleado en un día
+static inline int get_shift_for_day(emp_assign *current_emp, int day) {
+    for (int i = 0; i < current_emp->num_seqs; i++) {
+        ssequence *seq = current_emp->seqs[i];
+        int start_day = current_emp->seq_start_day[i];
+        if (day >= start_day && day < start_day + seq->length) {
+            return seq->shifts[day - start_day];
+        }
+    }
+    return 0; // descanso por defecto
+}
+
+bool eval_employee_feasible(emp_assign *current_emp, problem_instance *pi) {
+    int emp_id = current_emp->emp_id;
+    employee *emp = &pi->employees[emp_id];
+
+    int horizon_length = pi->horizon_length;
+    int num_shifts = pi->num_shifts;
+
+    // Estado acumulado
+    int *shift_count = (int *)malloc(num_shifts * sizeof(int));
+    if (!shift_count) return false;
+    for (int i = 0; i < num_shifts; i++) shift_count[i] = 0;
+
+    int total_minutes = 0;
+    int consecutive_shifts = 0;
+    int consecutive_off = 0;
+    int weekcount = 0;
+
+    // Recorrer el horizonte
+    for (int day = 0; day < horizon_length; day++) {
+        int shift_id = get_shift_for_day(current_emp, day);
+
+        // R1: días libres específicos
+        for (int j = 0; j < emp->num_days_off; j++) {
+            if (emp->days_off[j] == day && shift_id != 0) {
+                shift_id = 0;
+            }
+        }
+
+        // R2: máximo por tipo de turno
+        if (shift_id > 0 && shift_id < num_shifts) {
+            shift_count[shift_id]++;
+            if (shift_count[shift_id] > emp->max_shifts[shift_id]) {
+                free(shift_count);
+                return false;
+            }
+        }
+
+        // R3: incompatibilidades
+        if (day > 0) {
+            int prev_shift = get_shift_for_day(current_emp, day - 1);
+            if (prev_shift > 0) {
+                for (int k = 0; k < pi->shifts[prev_shift].num_incompatible_shifts; k++) {
+                    if (pi->shifts[prev_shift].incompatible_shifts[k] == shift_id) {
+                        free(shift_count);
+                        return false;
+                    }
+                }
+            }
+        }
+
+        // R4: min/max consecutivos
+        if (shift_id != 0) {
+            if (consecutive_off > 0) {
+                if (consecutive_off < emp->min_consecutive_days_off) {
+                    free(shift_count);
+                    return false;
+                }
+                consecutive_off = 0;
+            }
+            consecutive_shifts++;
+            if (consecutive_shifts > emp->max_consecutive_shifts) {
+                free(shift_count);
+                return false;
+            }
+        } else {
+            if (consecutive_shifts > 0) {
+                if (consecutive_shifts < emp->min_consecutive_shifts) {
+                    free(shift_count);
+                    return false;
+                }
+                consecutive_shifts = 0;
+            }
+            consecutive_off++;
+        }
+
+        // R5: fines de semana
+        if (day % 7 == 5) { // sábado
+            if (shift_id != 0) {
+                weekcount++;
+            } else if (day + 1 < horizon_length && get_shift_for_day(current_emp, day + 1) != 0) {
+                weekcount++;
+            }
+        }
+
+        total_minutes += pi->shifts[shift_id].length;
+    }
+
+    // R6: chequeo de fines de semana
+    if (weekcount > emp->max_weekends) {
+        free(shift_count);
+        return false;
+    }
+
+    // R7: chequeo minutos totales
+    if (total_minutes > emp->max_total_minutes || total_minutes < emp->min_total_minutes) {
+        free(shift_count);
+        return false;
+    }
+
+    free(shift_count);
+    return true;
 }

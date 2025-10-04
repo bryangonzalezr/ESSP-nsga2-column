@@ -9,6 +9,8 @@
 
 extern double pcross_real;
 
+
+void cross_employee(individual *parent1, individual *parent2,individual *child1, individual *child2,problem_instance *pi);
 /* Function to cross two individuals */
 void crossover (individual *parent1, individual *parent2, individual *child1, individual *child2, problem_instance *pi)
 {
@@ -251,6 +253,6 @@ void cross_employee(individual *parent1, individual *parent2,
     }
 
     // Decodificar secuencias para llenar xreal
-    decode_individual_sequences(child1, pi, ssequences_pool_emp, num_sequences_pool_emp);
-    decode_individual_sequences(child2, pi, ssequences_pool_emp, num_sequences_pool_emp);
+    decode_individual_sequences(child1, pi);
+    decode_individual_sequences(child2, pi);
 }
